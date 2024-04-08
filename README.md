@@ -6,7 +6,7 @@ Here you will find some courses or what I 'm learning abut IA
 
 ## What to see?
 
-1. Sin experiencia en IA: curso de M1000IA (Mil Mujeres Inteligencia Artificial)
+1. [**M1000IA**](https://github.com/eugenia1984/IA/tree/main/m1000ia): Sin experiencia en IA: curso de M1000IA (Mil Mujeres Inteligencia Artificial)
 
 ---
 

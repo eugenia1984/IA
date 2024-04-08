@@ -6,4 +6,4 @@ Es una introducción a la #InteligenciaArtificial.
 
 ## Qué ver?
 
-1. Presentación del curso
+1. [Presentación del curso](https://github.com/eugenia1984/IA/blob/main/m1000ia/01-presentacion-del-curso.md)
