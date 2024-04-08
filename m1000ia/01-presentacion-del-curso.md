@@ -89,6 +89,11 @@ dificultar el avance profesional de las mujeres.
 
 ---
 
+![image](https://github.com/eugenia1984/IA/assets/72580574/c94d84f0-de49-414d-981d-38d41f5aa8c5)
+
+---
+
+
 # TECNÓLOGAS SIN EXPERIENCIA EN IA
 
 - **PROPÓSITO**: Capacitar a mujeres con formación tecnológica, pero sin experiencia en inteligencia artificial (IA), para que adquieran conocimientos prácticos y teóricos en el ecosistema de la IA, con una mirada ética e inclusiva. Se busca incorporar nuevas habilidades que impulsen su desarrollo profesional y les permitan aplicar eficientemente la Inteligencia Artificial en sus roles tecnológicos.
