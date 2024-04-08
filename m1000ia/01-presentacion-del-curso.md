@@ -69,3 +69,20 @@ dificultar el avance profesional de las mujeres.
 
 ---
 
+- **DESAFÍO**: Reducir la Brecha de Género y las de habilidades técnicas y sociales
+
+- **OPORTUNIDAD**: Incluir a más mujeres en el ecosistema de la IA
+
+- **OBJETIVOS**:
+
+• Permitir una comprensión profunda de la IA
+
+• Democratizar el acceso y uso de las herramientas de IA
+
+• Crear soluciones significativas de impacto social con IA
+
+• Generar procesos de upskilling & reskilling hacia la IA
+
+---
+
+
