@@ -65,3 +65,7 @@ dificultar el avance profesional de las mujeres.
 
 ---
 
+![image](https://github.com/eugenia1984/IA/assets/72580574/af38c3aa-558e-4590-b73a-30801615ac5e)
+
+---
+
