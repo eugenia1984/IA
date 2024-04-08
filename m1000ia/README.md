@@ -1,4 +1,5 @@
-# M1000IA
+# M1000IA ![image](https://github.com/eugenia1984/IA/assets/72580574/6fed6f1e-6076-45a9-9ec2-3f305446d62b)
+
 
 De entre 22.500 mujeres que solicitaron su cupo, solo 1.000 fueron elegidas y yo soy una de ellas.
 
