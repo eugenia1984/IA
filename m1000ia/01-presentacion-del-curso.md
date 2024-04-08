@@ -137,5 +137,8 @@ de cierre
 
 ---
 
+![image](https://github.com/eugenia1984/IA/assets/72580574/70923608-af31-41d2-9e5e-e0c082ff2e02)
+
+---
 
 
