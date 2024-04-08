@@ -89,4 +89,48 @@ dificultar el avance profesional de las mujeres.
 
 ---
 
+# TECNÓLOGAS SIN EXPERIENCIA EN IA
+
+- **PROPÓSITO**: Capacitar a mujeres con formación tecnológica, pero sin experiencia en inteligencia artificial (IA), para que adquieran conocimientos prácticos y teóricos en el ecosistema de la IA, con una mirada ética e inclusiva. Se busca incorporar nuevas habilidades que impulsen su desarrollo profesional y les permitan aplicar eficientemente la Inteligencia Artificial en sus roles tecnológicos.
+
+- **HABILIDADES**: Adquirir habilidades prácticas en el uso de lenguajes de programación (Python) para
+implementar soluciones de IA. Desarrollar la capacidad de aplicar conceptos de IA en situaciones del mundo real. Mejorar las habilidades para abordar problemas específicos mediante el uso de herramientas y técnicas de IA, considerando aspectos éticos, legales y de impacto en el negocio.
+
+- **BLOQUES**:
+
+-BLOQUE 1: Ciclo de desarrollo en IA, Fundamentos de IA, Exploración de datos, Inicio de proyecto
+
+-BLOQUE 2: Machine Learning, Deeplearning, Avance de proyecto
+
+-BLOQUE 3: Computer Vision, Procesamiento Lenguaje, Avance de proyectos
+
+-BLOQUE 4: Transformers, LLM, IA Generativa, Multimodalidad, Presentación de proyectos
+
+- Cada semana tiene...
+
+... ENCUENTRO SINCRÓNICO: Según cronograma - Cada encuentro sincrónico finaliza con una actividad
+de cierre
+
+... ACTIVIDAD ASINCRÓNICA:  A realizar de manera individual durante fechas establecidas
+
+- **TRAMO FORMATIVO**:
+
+```
+-PRESENTACIÓN + CICLO DESARROLLO PROYECTOS IA
+-FUNDAMENTOS DE IA + PYTHON
+-EXPLORACIÓN Y VISUALIZACIÓN DE DATOS
+-MACHINE LEARNING TRADICIONAL
+-INTRODUCCIÓN AL DEEP LEARNING
+-ÉTICA EN IA
+-INTRODUCCIÓN A COMPUTER VISION
+-INTRODUCCIÓN A NLP
+-DESARROLLO SUSTENTABLE
+-DISPONIBILIZACIÓN DE MODELOS (API)
+-TRANSFOERMERS + LLM + GENERATIVE AI + MULTIMODALIDAD
+-EXPOSICIÓN FINAL DE PROYECTOS
+```
+
+---
+
+
 
