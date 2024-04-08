@@ -12,3 +12,7 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 ##  ![image](https://github.com/eugenia1984/IA/assets/72580574/6fed6f1e-6076-45a9-9ec2-3f305446d62b) Qué ver?
 
 1. [Presentación del curso](https://github.com/eugenia1984/IA/blob/main/m1000ia/01-presentacion-del-curso.md)
+
+2. [Ciclo desarrollo de proyectos IA](https://github.com/eugenia1984/IA/blob/main/m1000ia/02-ciclo-desarrollo-de-proyectos-IA.md)
+
+---
