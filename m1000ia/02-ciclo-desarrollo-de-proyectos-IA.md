@@ -187,3 +187,31 @@ La adquisición de datos implica varios pasos esenciales, como la identificació
 Además, es fundamental garantizar la calidad de los datos mediante la limpieza y preprocesamiento, eliminando datos erróneos o incompletos y transformando los datos en un formato utilizable para el análisis y modelado posteriores.
 
 ---
+
+## Desafíos y responsabilidades éticas
+
+La adquisición de datos presenta varios desafíos, como el manejo de grandes volúmenes de datos, la garantía de la representatividad de los datos y la protección de la privacidad y seguridad de la información.
+
+Además, es crucial abordar consideraciones éticas, como obtener el consentimiento informado para la recopilación de datos personales y garantizar la equidad y la no discriminación en los conjuntos de datos recopilados.
+
+---
+
+## El éxito del proyecto depende de los datos
+
+La calidad de los datos es un aspecto fundamental en la adquisición de datos. Datos precisos, completos y representativos son esenciales para entrenar modelos de IA confiables. Invertir tiempo y recursos en asegurar la calidad de los datos puede prevenir problemas en etapas posteriores del desarrollo del proyecto, como el sobreajuste o el sesgo en los modelos de IA.
+
+---
+
+## Evaluar la calidad de los datos
+
+- **Unicidad**: La unicidad asegura que no haya duplicaciones ni superposición de valores en los conjuntos de datos. La limpieza de datos y la deduplicación pueden ayudar a remediar una baja puntuación de unicidad.
+
+- **Completitud**: La completitud es una medida de la capacidad de los datos para entregar todos los valores requeridos de manera efectiva.
+
+- **Consistencia**: La consistencia de los datos se refiere a la uniformidad de los datos a medida que se mueven a través de redes y aplicaciones. Los mismos datos almacenados en diferentes ubicaciones deben ser coherentes entre sí.
+
+---
+
+##
+
+---
