@@ -55,8 +55,9 @@ Cada etapa del ciclo de desarrollo de proyectos de IA es fundamental para asegur
 
 
 ---
+---
 
-## 1 - Definición del problema
+# <img width="40" height="40" src="https://img.icons8.com/stickers/40/artificial-intelligence.png" alt="artificial-intelligence"/> 1 - Definición del problema
 
 - Para solucionar un problema, debemos empezar por definirlo claramente para poder demarcar sus límites, descomponerlo y utilizar las herramientas actuales, como la inteligencia artificial, para resolverlo.
 
@@ -74,7 +75,7 @@ Cada etapa del ciclo de desarrollo de proyectos de IA es fundamental para asegur
 
 ---
 
-## 2 - Identificando el problema y la visión
+##  Identificando el problema y la visión
 
 Problem Scoping es el punto de partida crítico de cualquier proyecto de IA.
 
@@ -84,7 +85,7 @@ Es la fase donde se define el alcance, los objetivos y las limitaciones del proy
 
 ---
 
-## 3 - Desglose de puntos a abordar en el scoping
+##  Desglose de puntos a abordar en el scoping
 
 Esta etapa se compone de varios puntos para establecer las bases de un proyecto exitoso como:
 
@@ -146,5 +147,27 @@ En la empresa AgroCorp, el equipo notó una disminución en la eficacia de los m
 
 Convocaron a expertos en análisis de datos, ingeniería de drones y especialistas en agronomía
 para diseñar un proyecto que transformará el panorama de la agricultura de precisión. El objetivo era claro: desarrollar un sistema que utiliza inteligencia artificial para detectar y prevenir las plagas en las etapas más tempranas posibles, protegiendo así el rendimiento de las cosechas y la inversión de los agricultores.
+
+---
+---
+
+# <img width="40" height="40" src="https://img.icons8.com/stickers/40/artificial-intelligence.png" alt="artificial-intelligence"/> 2 - Recolección de datos
+
+"La adquisición de datos es la piedra angular de cualquier proyecto de Inteligencia Artificial; sin un conjunto de datos sólido y representativo, incluso los algoritmos más avanzados pueden fallar en entregar soluciones precisas y efectivas.
+
+Invertir en la recopilación y curación de datos de alta calidad es invertir en el éxito futuro del proyecto"
+
+---
+
+## Recolección de datos
+
+- 1 **Datos como materia prima de la IA**: Los datos son la materia prima esencial para el entrenamiento de cualquier modelo de IA.
+
+- 2 **Claves para la recolección de datos**: La recolección de datos determinará en gran medida todo lo que tendremos para entrenar un modelo.
+
+- 3 **Evaluación de calidad de los datos**: No solo se trata de recolectar sino también de evaluar qué tan buenos son esos datos.
+
+- 4 **Data Augmentation**: A veces es preciso recolectar más datos, mejorar los que tenemos e
+incluso generar nuevos de forma sintética.
 
 ---
