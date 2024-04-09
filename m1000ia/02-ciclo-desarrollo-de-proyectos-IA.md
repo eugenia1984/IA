@@ -49,3 +49,9 @@ Cada etapa del ciclo de desarrollo de proyectos de IA es fundamental para asegur
 
 ---
 
+## Ciclo de desarrollo de proyectos de IA
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/e1419cee-cf8d-4dad-8e41-be80539931c5)
+
+
+---
