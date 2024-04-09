@@ -171,3 +171,19 @@ Invertir en la recopilación y curación de datos de alta calidad es invertir en
 incluso generar nuevos de forma sintética.
 
 ---
+
+## Datos: la materia prima de la IA
+
+La adquisición de datos es el proceso de recopilar información relevante y de calidad para entrenar y validar modelos de Inteligencia Artificial. Es una fase crítica, ya que la cantidad, calidad y diversidad de los datos recopilados determinarán en gran medida la precisión y eficacia del modelo resultante.
+
+Los datos pueden provenir de diversas fuentes, incluyendo bases de datos internas, sensores, encuestas, registros públicos y medios sociales, entre otros.
+
+---
+
+## Puntos clave para la recolección
+
+La adquisición de datos implica varios pasos esenciales, como la identificación de fuentes de datos relevantes, la recopilación de datos brutos, el almacenamiento seguro de los datos y la documentación de los métodos de recopilación.
+
+Además, es fundamental garantizar la calidad de los datos mediante la limpieza y preprocesamiento, eliminando datos erróneos o incompletos y transformando los datos en un formato utilizable para el análisis y modelado posteriores.
+
+---
