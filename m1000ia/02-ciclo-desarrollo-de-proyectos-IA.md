@@ -221,6 +221,14 @@ La calidad de los datos es un aspecto fundamental en la adquisición de datos. D
 
 ---
 
-##
+## ¿Cómo mejoramos la calidad de nuestros datos?
+
+- **Perfilado de datos**: El primer paso en el proceso de mejora de la calidad de los datos es comprender los datos. El perfilado de datos es la evaluación inicial del estado actual de los conjuntos de datos.
+
+- **Estandarización de datos**: Conjuntos de datos dispares se ajustan a un formato común de datos.
+
+- **Monitoreo de la Calidad de Datos**: El software de calidad de datos en combinación con el aprendizaje automático puede detectar, informar y corregir automáticamente variaciones de datos basadas en reglas y parámetros comerciales predefinidos.
+
+- **Lote y Tiempo Real**: Una vez que los datos están inicialmente limpios, un marco de calidad de datos efectivo debería poder implementar las mismas reglas y procesos en todas las aplicaciones y tipos de datos a escala.
 
 ---
