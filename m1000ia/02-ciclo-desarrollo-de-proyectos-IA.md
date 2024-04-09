@@ -55,3 +55,21 @@ Cada etapa del ciclo de desarrollo de proyectos de IA es fundamental para asegur
 
 
 ---
+
+## 1 - Definición del problema
+
+- Para solucionar un problema, debemos empezar por definirlo claramente para poder demarcar sus límites, descomponerlo y utilizar las herramientas actuales, como la inteligencia artificial, para resolverlo.
+
+- Una buena definición garantiza en gran medida el éxito de la solución a desarrollar
+
+### Problem Scoping
+
+- 01 **Especificar el problema de negocio**: Es importante comprender qué espera obtener el negocio de una solución de IA. 
+
+- 02 **Contar con expertos en la materia**: El experto en la materia descompone un problema complicado y enseña a un modelo de IA a resolverlo como lo haría un humano, paso a paso.
+
+- 03 **Planear el modelo y método de evaluación**: Es importante mapear las ventajas de cada modelo de IA y reducir la lista de modelos junto con el método de evaluación más adecuado.
+
+- 04 **Evaluar viabilidad e impacto**: Analizar la compensación entre la viabilidad y el impacto es importante para garantizar el éxito del proyecto y aumenta las posibilidades de alcanzar objetivos a largo plazo.
+
+---
