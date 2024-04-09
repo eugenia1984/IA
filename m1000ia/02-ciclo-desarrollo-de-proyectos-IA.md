@@ -119,3 +119,13 @@ Esta etapa se compone de varios puntos para establecer las bases de un proyecto 
 - Ejemplo de experto en la materia: Los doctores ayudan a los científicos de datos a etiquetar radiografías con tumores, ya que un científico de datos no sabría cómo describir un tumor
 
 ---
+
+## Trade-off entre viabilidad e impacto
+
+- El proyecto debe generar un impacto organizacional o económico para que valga la pena.
+
+- El impacto no tiene que ser inmediato, pero necesita producir resultados tangibles que aumentarán la confianza de los interesados del proyecto.
+
+- Un proyecto de gran impacto podría no ser factible de inmediato dada la disponibilidad actual de recursos, o un proyecto podría ser demasiado trivial para tener cualquier impacto medible.
+
+---
