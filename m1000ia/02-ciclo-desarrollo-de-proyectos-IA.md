@@ -255,4 +255,20 @@ Otra clasificación puede ser en datos internos y externos:
 
 - **Datos externos**: Datos de fuentes externas fuera de la organización, que podrían estar disponibles públicamente o ser de propiedad privada como Amazon, Facebook, Google, etc.
 
+-> Una cadena de supermercados utiliza su sistema de gestión de inventario para analizar las tendencias de compra de sus clientes y ajustar su estrategia de abastecimiento. ¿Los datos generados por este sistema se consideran datos internos o externos?
+
+-> Una empresa de marketing digital utiliza estadísticas de uso y tendencias de redes sociales obtenidas de una plataforma de análisis de medios sociales para planificar sus campañas publicitarias.  ¿Se consideran estas estadísticas un ejemplo de datos internos o externos?
+
+---
+
+## Generando datos de forma sintética
+
+Las herramientas de IA generativa generalmente no se utilizan para la adquisición de datos directamente, ya que su propósito principal es generar nuevo contenido en lugar de adquirir datos existentes. Sin embargo, ayudan en la adquisición de datos de varias maneras:
+
+- **Generando datos sintéticos**: Los algoritmos de IA generativa pueden simular datos del mundo real. Esto puede ayudar a entrenar modelos de IA cuando los datos reales son escasos o costosos.
+
+- **Aumentando datos sintéticos**: Los modelos de IA generativa pueden agregar puntos de datos o características a los datos existentes. Esto mejora la precisión y el rendimiento del modelo de IA.
+
+- **Limpieza y formateo de datos**: Los modelos de IA generativa pueden encontrar y solucionar problemas y formatear datos para modelos de IA
+
 ---
