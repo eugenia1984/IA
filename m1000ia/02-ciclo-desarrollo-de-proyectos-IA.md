@@ -129,3 +129,13 @@ Esta etapa se compone de varios puntos para establecer las bases de un proyecto 
 - Un proyecto de gran impacto podría no ser factible de inmediato dada la disponibilidad actual de recursos, o un proyecto podría ser demasiado trivial para tener cualquier impacto medible.
 
 ---
+
+## Uso de IA Generativa para abordar el problema
+
+Los conceptos de nuevos modelos de IA pueden ser generados utilizando IA generativa, la cual puede emplearse para idear sugerencias innovadoras sobre cómo la IA podría mejorar el servicio al cliente, detectar fraudes o automatizar tareas.
+
+La IA generativa también se utiliza para entender las necesidades de la audiencia objetivo.
+
+Un ejemplo de esto es el uso de ChatGPT para descubrir posibles casos de uso de IA en el sector de seguros, donde ha generado más de 100 ideas que incluyen la utilización de IA para rastrear fraudes, personalizar coberturas de seguros y agilizar el proceso de tramitación de reclamaciones.
+
+---
