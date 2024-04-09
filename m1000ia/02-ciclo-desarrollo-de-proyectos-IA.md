@@ -139,3 +139,12 @@ La IA generativa también se utiliza para entender las necesidades de la audienc
 Un ejemplo de esto es el uso de ChatGPT para descubrir posibles casos de uso de IA en el sector de seguros, donde ha generado más de 100 ideas que incluyen la utilización de IA para rastrear fraudes, personalizar coberturas de seguros y agilizar el proceso de tramitación de reclamaciones.
 
 ---
+
+## Ejemplo de proyecto de IA en Agricultura
+
+En la empresa AgroCorp, el equipo notó una disminución en la eficacia de los métodos tradicionales de monitoreo de cultivos. La necesidad de una solución escalable y precisa era evidente.
+
+Convocaron a expertos en análisis de datos, ingeniería de drones y especialistas en agronomía
+para diseñar un proyecto que transformará el panorama de la agricultura de precisión. El objetivo era claro: desarrollar un sistema que utiliza inteligencia artificial para detectar y prevenir las plagas en las etapas más tempranas posibles, protegiendo así el rendimiento de las cosechas y la inversión de los agricultores.
+
+---
