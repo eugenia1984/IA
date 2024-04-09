@@ -28,3 +28,24 @@ colaborar de manera efectiva.
 modelos.
 
 ---
+
+## Ciclo de desarrollo de proyectos de IA
+
+El ciclo de desarrollo de proyectos de IA es un proceso estructurado que guía la creación e implementación de soluciones con IA que consta de seis etapas principales:
+
+**Definición del problema**: Esta etapa implica identificar y comprender claramente el problema que se pretende resolver con la IA, estableciendo objetivos claros y definiendo el alcance del proyecto.
+
+**Recopilación de datos**: Se refiere a la recopilación de datos relevantes y de calidad que se utilizarán para entrenar y validar el modelo de IA. Esto puede incluir la obtención de datos existentes o la generación de nuevos datos.
+
+**Exploración de datos**: En esta fase, se realiza un análisis exhaustivo de los datos para descubrir patrones, tendencias y anomalías que ayuden a comprender mejor los datos y a prepararlos para el modelado.
+
+**Modelado**: Aquí se seleccionan y entrenan modelos de IA a partir de los datos y el ajuste de hiperparámetros adecuados para asegurar su precisión y eficacia.
+
+**Evaluación**: El modelo se evalúa utilizando un conjunto de datos de prueba independiente para medir su rendimiento en base a métricas específicas para determinar si el modelo está listo para el despliegue.
+
+**Despliegue**: Finalmente, el modelo de IA se implementa en un entorno de producción donde se integra con los sistemas existentes y se pone en funcionamiento para resolver el problema definido inicialmente. Esta etapa también incluye el monitoreo y la mejora continua del modelo para adaptarse a cambios en los datos o en los requisitos del proyecto.
+
+Cada etapa del ciclo de desarrollo de proyectos de IA es fundamental para asegurar que la solución final sea efectiva, precisa y capaz de generar un impacto positivo en el área de aplicación.
+
+---
+
