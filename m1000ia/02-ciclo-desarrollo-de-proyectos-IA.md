@@ -272,3 +272,58 @@ Las herramientas de IA generativa generalmente no se utilizan para la adquisici�
 - **Limpieza y formateo de datos**: Los modelos de IA generativa pueden encontrar y solucionar problemas y formatear datos para modelos de IA
 
 ---
+
+## Cuidado con los datos sintéticos
+
+La generación de datos sintéticos puede ser beneficiosa para abordar desafíos como la escasez de datos, la privacidad y la seguridad de los datos, y la creación de conjuntos de datos más diversos y representativos. Por ejemplo, en el campo de la medicina, donde los datos pueden ser limitados o sensibles, la generación de datos sintéticos puede ayudar a entrenar modelos de IA sin comprometer la privacidad de los pacientes.
+
+Sin embargo, es fundamental evaluar cuidadosamente la calidad y la validez de los datos generados sintéticamente para garantizar que sean útiles y representativos del problema que se está abordando.
+
+Además, es importante considerar el contexto, las implicaciones éticas y legales de la generación de datos sintéticos, como el riesgo de sesgos o la manipulación no intencionada de los datos.
+
+### Ejemplo de proyecto de IA en Agricultura
+
+La recolección de datos se convirtió en una operación masiva donde cada vuelo de dron era una misión crítica para capturar no solo imágenes, sino también un vasto rango de datos ambientales. Se establecieron rigurosos protocolos para garantizar la precisión y la relevancia de cada dato recogido. La empresa puso un énfasis especial en la generación de datos sintéticos para complementar las áreas donde los datos reales eran escasos, mientras que las políticas de privacidad y seguridad de los datos se mantuvieron en la vanguardia para proteger la información sensible.
+
+---
+---
+
+# <img width="40" height="40" src="https://img.icons8.com/stickers/40/artificial-intelligence.png" alt="artificial-intelligence"/> 3 - Exploración de datos
+
+"Una exploración de datos exhaustiva es clave para detectar problemas de calidad de datos y para realizar una selección de features efectiva.
+
+Al comprender mejor los datos, se pueden tomar decisiones informadas que mejorarán la precisión y eficiencia del modelo de IA, lo que es crucial para el éxito del proyecto."
+
+---
+
+## Exploración de datos
+
+- 1 **Búsqueda de patrones**: Los datos esconden patrones que deben ser aprendidos por los
+modelos de AI.
+
+- 2 **Visualización de datos**: Las gráficas son una herramienta clave para explicitar los patrones encontrados.
+
+- 3 **Desafíos de la exploración**: Hacerse las preguntas y utilizar las gráficas correctas permitirá encontrar insights que no están de forma explícita en los datos.
+
+
+- 4 **Limpieza de datos**: La eliminación de valores atípicos y la normalización son puntos claves para dejar los datos listos para entrenar un modelo.
+
+---
+
+## En búsqueda de patrones en los datos
+
+La exploración de datos es un paso crucial en el ciclo de desarrollo de la IA, donde los datos recopilados son analizados para descubrir patrones, tendencias y anomalías.
+
+Esta etapa es esencial para comprender la naturaleza de los datos y para identificar las características más relevantes que influyen en la eficacia del modelo de IA.
+
+A través de técnicas de visualización y estadísticas descriptivas, se obtiene una visión más clara del problema y se sientan las bases para el desarrollo de un modelo preciso y eficiente.
+
+---
+
+## Análisis y visualización de datos
+
+La exploración de datos implica una serie de pasos, que incluyen la limpieza de datos para eliminar inconsistencias, la realización de análisis exploratorios para entender las distribuciones y relaciones entre variables, y la selección de características que serán utilizadas para entrenar el modelo de IA.
+
+Herramientas como gráficos de dispersión, histogramas y mapas de calor son fundamentales en esta etapa para visualizar los datos y extraer insights valiosos.
+
+---
