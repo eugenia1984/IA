@@ -232,3 +232,27 @@ La calidad de los datos es un aspecto fundamental en la adquisición de datos. D
 - **Lote y Tiempo Real**: Una vez que los datos están inicialmente limpios, un marco de calidad de datos efectivo debería poder implementar las mismas reglas y procesos en todas las aplicaciones y tipos de datos a escala.
 
 ---
+
+## ¿Cómo podemos obtener más datos?
+
+Una posible clasificación es en datos primarios y secundarios
+
+- **Datos primarios**: Datos que nosotros mismo creamos. Por ejemplo, cuando entrevistamos a personas para recopilar comentarios sobre el producto.
+
+- **Datos secundarios**: Cuando se recopilan datos de fuentes que alguien más posee, se llaman datos secundarios. Por ejemplo, cuando se toman datos de encuestas públicas realizadas por el gobierno.
+
+-> Una empresa de moda decide crear una encuesta en línea para preguntar a sus clientes sobre sus preferencias en estilos y colores para la próxima colección. ¿Este tipo de información recopilada se considera un ejemplo de datos primarios o secundarios?
+
+-> Un analista financiero utiliza informes económicos publicados por el Banco Central para evaluar la estabilidad económica del país y su impacto en el mercado de valores. ¿Estos informes representan un ejemplo de datos primarios o secundarios?
+
+---
+
+## ¿Cómo podemos obtener más datos?
+
+Otra clasificación puede ser en datos internos y externos:
+
+- **Datos internos**: Datos que creamos, poseemos o controlamos. Los datos internos son datos privados que la organización posee, controla o recopila. Los datos de ventas o los datos financieros de la organización son ejemplos de datos internos.
+
+- **Datos externos**: Datos de fuentes externas fuera de la organización, que podrían estar disponibles públicamente o ser de propiedad privada como Amazon, Facebook, Google, etc.
+
+---
