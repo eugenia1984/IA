@@ -97,3 +97,15 @@ Esta etapa se compone de varios puntos para establecer las bases de un proyecto 
 - La creación de un plan de proyecto preliminar
 
 ---
+
+## Especificar el problema de negocio
+
+- Definir claramente el problema de negocio.
+
+- Especificar todas las preguntas de negocio de la manera más precisa posible.
+
+- Determinar otros requerimientos del negocio (como no perder clientes mientras se incrementan los márgenes de ganancia).
+
+- Especificar los beneficios esperados en términos de negocio.
+
+---
