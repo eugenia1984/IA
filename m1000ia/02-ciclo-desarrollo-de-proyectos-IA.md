@@ -210,6 +210,15 @@ La calidad de los datos es un aspecto fundamental en la adquisición de datos. D
 
 - **Consistencia**: La consistencia de los datos se refiere a la uniformidad de los datos a medida que se mueven a través de redes y aplicaciones. Los mismos datos almacenados en diferentes ubicaciones deben ser coherentes entre sí.
 
+- **Oportunidad**: Los datos oportunos son datos que están disponibles cuando se necesitan. Los datos pueden ser actualizados en tiempo real para asegurar que estén fácilmente disponibles y accesibles.
+  
+- **Validez**: Los datos deben ser recopilados de acuerdo con reglas y parámetros de negocio definidos y deben ajustarse al formato y rango correctos.
+  
+- **Precisión**: Los datos deben reflejar escenarios reales; la medida de precisión puede ser confirmada con una fuente verificable.
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/a256eae3-f4c7-428c-97c6-7290b9e23da7)
+
+
 ---
 
 ##
