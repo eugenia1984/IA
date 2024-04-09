@@ -326,4 +326,7 @@ La exploración de datos implica una serie de pasos, que incluyen la limpieza de
 
 Herramientas como gráficos de dispersión, histogramas y mapas de calor son fundamentales en esta etapa para visualizar los datos y extraer insights valiosos.
 
+![image](https://github.com/eugenia1984/IA/assets/72580574/341dcca3-165e-4d28-8c95-24401d5b98d5)
+
+
 ---
