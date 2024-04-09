@@ -73,3 +73,27 @@ Cada etapa del ciclo de desarrollo de proyectos de IA es fundamental para asegur
 - 04 **Evaluar viabilidad e impacto**: Analizar la compensación entre la viabilidad y el impacto es importante para garantizar el éxito del proyecto y aumenta las posibilidades de alcanzar objetivos a largo plazo.
 
 ---
+
+## 2 - Identificando el problema y la visión
+
+Problem Scoping es el punto de partida crítico de cualquier proyecto de IA.
+
+Se trata de identificar un problema específico y formular una visión clara de cómo la IA puede ofrecer una solución.
+
+Es la fase donde se define el alcance, los objetivos y las limitaciones del proyecto.
+
+---
+
+## 3 - Desglose de puntos a abordar en el scoping
+
+Esta etapa se compone de varios puntos para establecer las bases de un proyecto exitoso como:
+
+- El análisis de necesidades del cliente.
+
+- La formulación de hipótesis para la solución.
+
+- El establecimiento de objetivos claros y medibles.
+
+- La creación de un plan de proyecto preliminar
+
+---
