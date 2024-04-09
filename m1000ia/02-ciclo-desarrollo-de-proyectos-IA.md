@@ -109,3 +109,13 @@ Esta etapa se compone de varios puntos para establecer las bases de un proyecto 
 - Especificar los beneficios esperados en términos de negocio.
 
 ---
+
+## La importancia de los expertos
+
+- Los expertos en la materia descomponen un problema complejo en sub-conceptos más pequeños.
+
+- Un modelo de IA puede aprender a resolver cada subproblema antes de combinar todos los sub-conceptos entrenados para resolver el objetivo final.
+
+- Ejemplo de experto en la materia: Los doctores ayudan a los científicos de datos a etiquetar radiografías con tumores, ya que un científico de datos no sabría cómo describir un tumor
+
+---
