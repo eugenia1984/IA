@@ -10,6 +10,8 @@ Here you will find some courses or what I 'm learning abut IA
 
 Curso: **Tecnólogas sin experiencia en IA**: Mujeres con algún tipo de formación tecnológica comprobable (incluye cursos u otras actividades formativas). Se busca incorporar conocimientos (prácticos y teóricos) del ecosistema de la Inteligencia Artificial incorporando nuevas habilidades para su desarrollo profesional.
 
+2. [**Element of AI**](https://github.com/eugenia1984/IA/tree/main/element-of-ai): curo de la Universidad de Helskinski de Inteligencia artificial
+
 ---
 
 ## Please: 🎁
