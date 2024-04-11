@@ -18,5 +18,6 @@
 
 - **Datos primarios**: los recolectamos nosotros mismos, con encuestas, observaciones, entrevistas, etc.
 
-- **Datos secundarios**: alguien más los generó, como: informes públicos, investigaciones, bases de datos, etc.
+- **Datos secundarios**: alguien más los generó, como: informes públicos, investigaciones, bases de datos, imagenes, etc.
+  
 ---
