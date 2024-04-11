@@ -3,5 +3,7 @@
 - Cada clase va a tener una **actividad asincrónica** que se puede ir haciendo hasta la próxima clase.
 
 - Nos dividimos en grupo de 8 para hacer el proyecto final que se mostrará
-    
+
+- 12 semnas: divididas en 4 bloques de 3 semanas cada uno
+      
 ---
