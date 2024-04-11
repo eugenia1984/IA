@@ -241,9 +241,9 @@ Una posible clasificación es en datos primarios y secundarios
 
 - **Datos secundarios**: Cuando se recopilan datos de fuentes que alguien más posee, se llaman datos secundarios. Por ejemplo, cuando se toman datos de encuestas públicas realizadas por el gobierno.
 
--> Una empresa de moda decide crear una encuesta en línea para preguntar a sus clientes sobre sus preferencias en estilos y colores para la próxima colección. ¿Este tipo de información recopilada se considera un ejemplo de datos primarios o secundarios?
+-> Una empresa de moda decide crear una encuesta en línea para preguntar a sus clientes sobre sus preferencias en estilos y colores para la próxima colección. ¿Este tipo de información recopilada se considera un ejemplo de datos primarios o secundarios? -> DATOS PRIMARIOS
 
--> Un analista financiero utiliza informes económicos publicados por el Banco Central para evaluar la estabilidad económica del país y su impacto en el mercado de valores. ¿Estos informes representan un ejemplo de datos primarios o secundarios?
+-> Un analista financiero utiliza informes económicos publicados por el Banco Central para evaluar la estabilidad económica del país y su impacto en el mercado de valores. ¿Estos informes representan un ejemplo de datos primarios o secundarios? -> DATOS SECUNDARIOS
 
 ---
 
