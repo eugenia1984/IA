@@ -30,7 +30,7 @@
      
 ---
 
-Del 100% de mis datos, voy a dividir: 70%/80% de los datos para entrenarlo y 30%/20% para evaluar esos resultados
+Del 100% de mis datos, voy a dividir: 70%/80% de los datos para entrenarlo y 30%/20% para evaluar el modelo, si nos da buenos resultados, podremos ponerlo en marcha.
 
 ---
 
