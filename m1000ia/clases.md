@@ -12,6 +12,11 @@
 
 1. **PROBLEM SCOPING**: **especificar el problema de negocio**: definir el alcance del problema, para garantizar el éxito, debe saber qué se espera,que beneficio traeré, que restricciones tendremos, etc. Se deberá **contar con expertos en la materia**. **Planear el modelo y método de evaluación**. **Entender viabilidad e impascto**: a veces no es inmediato el impacto, pero deben ser tangibles apra que las personas qeu apuestan en el proyecto vayan veindo y confiando.
 
-2. **RECOLECCIÓN DE DATOS**: **datos como materia prima**: los datos deben ser de calidad, tener buena cantidad, es con lo que vamosa  entrenar a la IA. **Claves para recolectar datos**, en fuentes relevantes, con almacenamiento seguro.
+2. **RECOLECCIÓN DE DATOS**: **datos como materia prima**: los datos deben ser de calidad, tener buena cantidad, es con lo que vamosa  entrenar a la IA. **Claves para recolectar datos**, en fuentes relevantes, con almacenamiento seguro, de buena calidad en los datos.
 
+### ¿Cómo obtenemos los datos?
+
+- **Datos primarios**: los recolectamos nosotros mismos, con encuestas, observaciones, entrevistas, etc.
+
+- **Datos secundarios**: alguien más los generó, como: informes públicos, investigaciones, bases de datos, etc.
 ---
