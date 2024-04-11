@@ -376,7 +376,63 @@ Una vez completada la exploración de datos, el siguiente paso es el modelado.
 El equipo de científicos de datos se sumergió en el proceso de exploración, convirtiendo los datos recopilados en una fuente de insights accionables. Se emplearon diversas herramientas de visualización para identificar tendencias ocultas y desafíos únicos del entorno agrícola. La limpieza de datos tomó un papel central, asegurando que el conjunto de datos estuviera libre de errores y consistente, eliminando duplicados y valores atípicos que pudieran sesgar el análisis posterior.
 
 ---
+---
 
+# <img width="40" height="40" src="https://img.icons8.com/stickers/40/artificial-intelligence.png" alt="artificial-intelligence"/>  4 - MODELADO
 
+"La selección acertada del modelo de IA puede significar la diferencia entre un sistema inteligente que resuelve problemas complejos con precisión y uno que falla en entregar resultados confiables, impactando directamente el éxito y la viabilidad del proyecto."
+
+## Modelado
+
+- 1 **Selección del modelo adecuado**: En función del problema y el tipo de datos se selecciona el modelo más adecuado.
+
+- 2 **Preparación de los datos**: Se deben preparar los datos acorde al modelo elegido realizando las transformaciones correspondientes.
+
+- 3 **Entrenamiento del modelo**: Con los datos ya preparados se procede a entrenar el modelo.
+
+- 4 **Búsqueda y ajuste de hiperparámetros**: Se ajustan parámetros del modelo seleccionado para una mejor performance.
+
+---
+
+## Construyendo el corazón de la IA
+
+El modelado es la etapa donde se construye el modelo de IA que resolverá el problema identificado.
+
+Se seleccionan y aplican algoritmos de aprendizaje automático o aprendizaje profundo para entrenar el modelo con los datos explorados.
+
+Esta fase es crítica, ya que la elección del algoritmo y la calidad del entrenamiento determinarán la precisión y eficacia del modelo en la resolución del problema.
+
+---
+
+## El proceso de modelado
+
+El proceso de modelado comienza con la selección del algoritmo adecuado, seguido por el entrenamiento del modelo utilizando los datos de entrenamiento.
+
+Durante esta etapa, se ajustan los hiperparámetros para optimizar el rendimiento del modelo.
+
+Se utilizan técnicas como la validación cruzada para evaluar la robustez del modelo y evitar el sobreajuste, asegurando así que el modelo pueda generalizar bien a datos no vistos durante el entrenamiento.
+
+---
+
+## Desafíos del modelado
+
+El modelado ofrece la ventaja de convertir los datos en una herramienta predictiva poderosa.
+
+Sin embargo, presenta desafíos como la selección del algoritmo correcto, el ajuste de hiperparámetros y la interpretación de los resultados del modelo.
+
+Un modelado exitoso requiere un equilibrio entre la complejidad del modelo y su capacidad para generalizar a nuevos datos.
+
+---
+
+## Importancia de los datos en el modelado
+
+Será de ayuda tener muchos datos para entrenar el modelo de IA. Sin embargo, no se pueden usar todos los datos solo para el entrenamiento. Se necesita separar algunos datos para probar el modelo.
+
+La regla general es usar del 70% al 80% de los datos para entrenar el modelo, mientras que el 20% al 30% restante de los datos para probar el modelo.
+
+Mantener estas dos categorías de datos distintas. Los datos de entrenamiento solo se usan para crear el modelo de IA. Los datos de prueba solo se utilizan para verificar si el modelo cumple con el requisito de referencia.
+
+---
+# <img width="40" height="40" src="https://img.icons8.com/stickers/40/artificial-intelligence.png" alt="artificial-intelligence"/> 
 
 
