@@ -29,3 +29,8 @@
  4. **DATA AUGMENTATION**: son datos sintéticos, no son reales, son ficticios.
      
 ---
+
+Del 100% de mis datos, voy a dividir: 70%/80% de los datos para entrenarlo y 30%/20% para evaluar esos resultados
+
+---
+
