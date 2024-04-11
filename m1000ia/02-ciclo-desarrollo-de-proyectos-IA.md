@@ -433,6 +433,27 @@ La regla general es usar del 70% al 80% de los datos para entrenar el modelo, mi
 Mantener estas dos categorías de datos distintas. Los datos de entrenamiento solo se usan para crear el modelo de IA. Los datos de prueba solo se utilizan para verificar si el modelo cumple con el requisito de referencia.
 
 ---
+
+## ¿Qué tan bueno es nuestro modelo realmente?
+
+Una vez que el modelo ha sido desarrollado, el siguiente paso es evaluar su desempeño.
+
+Esta transición es crucial para verificar que el modelo cumpla con los criterios de éxito establecidos y para identificar áreas de mejora.
+
+La evaluación proporciona una retroalimentación esencial que puede llevar a refinamientos adicionales en el modelo y de los datos.
+
+---
+
+## Ejemplo de proyecto de IA en Agricultura
+
+El corazón del proyecto, el modelo de IA, fue desarrollado con una mezcla de ciencia y pragmatismo. Se probaron una serie de algoritmos, desde árboles de decisión hasta redes convolucionales, cada uno con sus respectivos hiperparámetros cuidadosamente ajustados.
+
+Los datos se dividieron meticulosamente entre conjuntos de entrenamiento, prueba y validación, buscando un equilibrio que permitiera un aprendizaje profundo y una generalización efectiva.
+
+Los desafíos del modelado no se limitaron a la selección técnica; también implicaron garantizar que el modelo pudiera escalar y adaptarse a las variables cambiantes del campo.
+
+---
+
 # <img width="40" height="40" src="https://img.icons8.com/stickers/40/artificial-intelligence.png" alt="artificial-intelligence"/> 
 
 
