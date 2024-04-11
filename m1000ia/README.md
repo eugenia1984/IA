@@ -15,6 +15,8 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 
 2. [Ciclo desarrollo de proyectos IA](https://github.com/eugenia1984/IA/blob/main/m1000ia/02-ciclo-desarrollo-de-proyectos-IA.md)
 
+[Clases](https://github.com/eugenia1984/IA/blob/main/m1000ia/clases.md)
+
 ---
 
 ##  ![image](https://github.com/eugenia1984/IA/assets/72580574/6fed6f1e-6076-45a9-9ec2-3f305446d62b) Clases
