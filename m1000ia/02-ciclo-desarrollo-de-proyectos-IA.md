@@ -454,6 +454,130 @@ Los desafíos del modelado no se limitaron a la selección técnica; también im
 
 ---
 
-# <img width="40" height="40" src="https://img.icons8.com/stickers/40/artificial-intelligence.png" alt="artificial-intelligence"/> 
+# <img width="40" height="40" src="https://img.icons8.com/stickers/40/artificial-intelligence.png" alt="artificial-intelligence"/> 5 - EVALUACÓN
 
+"La evaluación es el espejo que refleja la verdadera eficacia de nuestro modelo de IA. Una evaluación rigurosa y exhaustiva es indispensable para garantizar que el modelo cumpla con los objetivos del proyecto, proporcionando la confianza necesaria para su implementación en entornos reales."
 
+## Evaluación
+
+- 1 **Poniendo a prueba al modelo**: Evaluar el modelo con datos que no fueron parte del entrenamiento revelará el aprendizaje.
+
+- 2 **Selección de métricas de evaluación**: Selección una métrica de evaluación adecuada es importante comprender si el modelo realiza bien su tarea.
+
+- 3 **Evaluar la necesidad de nuevos entrenamiento**: Es posible que se precise entrenar con nuevos datos u otros modelos.
+
+- 4 **Tomar la decisión de llevar a producción**: Decidir si el modelo es apto para ponerlo en práctica en el mundo real.
+
+---
+
+## Poniendo a prueba a nuestro modelo
+
+La evaluación es la etapa donde se mide el rendimiento del modelo de IA. 
+
+Se utilizan métricas específicas para determinar la precisión, la sensibilidad, la especificidad y otras medidas relevantes del modelo.
+
+Esta fase es crucial para asegurar que el modelo cumpla con los requisitos del problema y para identificar áreas de mejora antes de su despliegue.
+
+---
+
+## El proceso de evaluación del modelo
+
+El proceso de evaluación implica comparar las predicciones del modelo con los datos reales para determinar su precisión. Se pueden utilizar conjuntos de datos de prueba independientes para evaluar la generalización del modelo.
+
+Además, se pueden realizar análisis de errores para identificar patrones en las predicciones incorrectas y ajustar el modelo en consecuencia.
+
+---
+
+## Prestar atención al momento de evaluar
+
+La evaluación permite validar la eficacia del modelo y garantizar que está listo para su implementación.
+
+Sin embargo, los desafíos incluyen la selección de métricas adecuadas para el problema y el manejo de conjuntos de datos desequilibrados, que pueden sesgar la evaluación.
+
+Es esencial abordar estos desafíos para obtener una evaluación precisa y confiable.
+
+---
+
+## ¿Cómo seguimos luego de la evaluación?
+
+Una vez que el modelo ha sido evaluado y se ha demostrado su rendimiento satisfactorio, el siguiente paso es prepararlo para su despliegue en un entorno de producción.
+
+Esta transición implica asegurar que el modelo sea escalable, robusto y seguro para su uso en aplicaciones del mundo real.
+
+---
+
+## Ejemplo de proyecto de IA en Agricultura
+
+La evaluación del modelo fue un proceso exhaustivo, centrado en métricas clave como la precisión, el recall y la especificidad para asegurar su valor práctico. El equipo analizó cuidadosamente los resultados, considerando la robustez del modelo ante
+variaciones ambientales y su capacidad de generalización. La decisión de desplegar el modelo se basó en su rendimiento, integración tecnológica y potencial para mejorar la gestión de cultivos. Se puso especial énfasis en la escalabilidad y la adaptabilidad del sistema para satisfacer las necesidades actuales y futuras del sector agrícola, asegurando que la solución fuera tanto precisa como flexible.
+
+---
+
+# <img width="40" height="40" src="https://img.icons8.com/stickers/40/artificial-intelligence.png" alt="artificial-intelligence"/> 6 - DESPLIEGUE
+
+"El despliegue es la culminación de un proyecto de IA en donde los modelos se enfrentan a la prueba definitiva del mundo real marcando la diferencia entre una solución experimental y una herramienta transformadora en el campo de acción."
+
+---
+
+## Despliegue
+
+- 1 **Del laboratorio al mundo real**: Es momento de hacer uso del modelo entrenado.
+
+- 2 **El proceso de despliegue**: Se debe planificar y ejecutar la puesta en producción del modelo.
+
+- 3 **Monitoreo y evaluación del modelo**: Se debe monitorear cómo funciona el modelo en el mundo real y evaluar si cumple con las métricas esperadas.
+
+- 4 **Mantenimiento y mejora continua**: Dado que la realidad cambia, cambian los datos, por lo que es necesario ajustar el modelo .
+
+--- 
+
+## Llevando el modelo al mundo real
+
+El despliegue es la etapa final del ciclo de desarrollo de la IA, donde el modelo se implementa en un entorno de producción.
+
+Esto implica integrar el modelo en aplicaciones o sistemas existentes, asegurando su funcionamiento continuo y su capacidad para actualizar y mejorar con el tiempo.
+
+---
+
+## ¿Qué implica un proceso de despliegue?
+
+El despliegue puede incluir la integración del modelo en aplicaciones móviles, sistemas en la nube o hardware especializado.
+
+Es crucial garantizar que el modelo sea accesible y fácil de usar para los usuarios finales.
+
+Además, se deben establecer mecanismos para monitorear el rendimiento del modelo y recopilar comentarios para futuras mejoras
+
+---
+
+## ¿Qué consideraciones debemos tener?
+
+El despliegue exitoso de un modelo de IA puede llevar a mejoras significativas en la eficiencia y la toma de decisiones. Sin embargo, los desafíos incluyen garantizar la seguridad y privacidad de los datos, manejar la escalabilidad del sistema y adaptarse a cambios en los datos o en el entorno operativo.
+
+---
+
+## Mantenimiento y mejora continua
+
+El ciclo de desarrollo de la IA no termina con el despliegue.
+
+Es esencial mantener y actualizar el modelo para adaptarse a nuevos datos y requerimientos.
+
+Esto puede incluir la reentrenamiento del modelo con datos frescos, la implementación de mejoras algorítmicas y la expansión de las capacidades del sistema para abordar nuevos problemas.
+
+---
+
+## Ejemplo de proyecto de IA en Agricultura
+
+Finalmente, llegó el momento del despliegue, un paso calculado que requería no solo la integración técnica del modelo con los sistemas de la empresa, sino también la aceptación por parte de los usuarios finales: los agricultores. La empresa implementó un
+plan de despliegue que incluía formación para los usuarios, una infraestructura de monitoreo en tiempo real y un protocolo de respuesta rápida para el mantenimiento y la mejora continua del sistema.
+
+La solución no solo se integró sin problemas en el flujo de trabajo existente, sino que también demostró su valor a través de la mejora de las decisiones agronómicas y la optimización de recursos.
+
+---
+
+## Conclusiones
+
+"En cada proyecto, encontramos no solo el potencial para el cambio, sino también la oportunidad de crecer y aprender. Recordemos siempre que el verdadero éxito reside en el viaje mismo, no solo en el destino final." 
+
+Brian Tracy 1944 - actual
+
+---
