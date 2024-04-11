@@ -7,3 +7,7 @@
 - 12 semnas: divididas en 4 bloques de 3 semanas cada uno
       
 ---
+
+## 4 ETAPAS
+
+1. **PROBLEM SCOPING**: definir el alcance del problema, apra garantizar el éxito, debe saber qué se espera, debo **especificar el problema del negocio**, que beneficio traeré, que restricciones tendremos, etc.
