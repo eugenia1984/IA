@@ -19,5 +19,9 @@
 - **Datos primarios**: los recolectamos nosotros mismos, con encuestas, observaciones, entrevistas, etc.
 
 - **Datos secundarios**: alguien más los generó, como: informes públicos, investigaciones, bases de datos, imagenes, etc.
-  
+
+  - **Datos internos**: que la organización misma posee: datos de usuarios, clientes, datos de registro de servidores de logueo para detectar anomalía en la red.
+
+- **Datos externos**: que provienen de fuentes externas a la organización, como agencias, otras empresas, redes sociales, un ejemplo es buscar en Twitter todos los # referentes a mi empresa para saber la percepción que hay de la misma.
+      
 ---
