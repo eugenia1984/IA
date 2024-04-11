@@ -25,5 +25,7 @@
 - **Datos externos**: que provienen de fuentes externas a la organización, como agencias, otras empresas, redes sociales, un ejemplo es buscar en Twitter todos los # referentes a mi empresa para saber la percepción que hay de la misma.
 
 3. **EVALUAR LA CALIDAD DE LOS DATOS**: unicidad (que no haya duplicaciones de datos), completitud (que no falten datos relevantes en el set de datos), consistencia (coherencia, que no tenga anomalías), oportunidad (que los datos estén disponibles en el momento en que los necesitamos), validez (a que dato consideramos como válidos) y presición (datos representativos a la realidad a resolver).
-      
+
+ 4. **DATA AUGMENTATION**: son datos sintéticos, no son reales, son ficticios.
+     
 ---
