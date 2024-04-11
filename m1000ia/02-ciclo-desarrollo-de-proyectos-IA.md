@@ -255,9 +255,9 @@ Otra clasificación puede ser en datos internos y externos:
 
 - **Datos externos**: Datos de fuentes externas fuera de la organización, que podrían estar disponibles públicamente o ser de propiedad privada como Amazon, Facebook, Google, etc.
 
--> Una cadena de supermercados utiliza su sistema de gestión de inventario para analizar las tendencias de compra de sus clientes y ajustar su estrategia de abastecimiento. ¿Los datos generados por este sistema se consideran datos internos o externos?
+-> Una cadena de supermercados utiliza su sistema de gestión de inventario para analizar las tendencias de compra de sus clientes y ajustar su estrategia de abastecimiento. ¿Los datos generados por este sistema se consideran datos internos o externos? -> DATOS INTERNOS
 
--> Una empresa de marketing digital utiliza estadísticas de uso y tendencias de redes sociales obtenidas de una plataforma de análisis de medios sociales para planificar sus campañas publicitarias.  ¿Se consideran estas estadísticas un ejemplo de datos internos o externos?
+-> Una empresa de marketing digital utiliza estadísticas de uso y tendencias de redes sociales obtenidas de una plataforma de análisis de medios sociales para planificar sus campañas publicitarias.  ¿Se consideran estas estadísticas un ejemplo de datos internos o externos? -> DATOS EXTERNOS
 
 ---
 
