@@ -11,7 +11,8 @@ To set the scene, so to speak, we’ll discuss what AI is, how it can be defined
 ## Application 1. Self-driving cars
 
 
-![image](https://github.com/eugenia1984/IA/assets/72580574/b3088dc7-73a9-4412-9a58-a4d7c2ccf503)
+![image](https://github.com/eugenia1984/IA/assets/72580574/c7c9d867-2e33-4c0a-98ac-235b5472457f)
+
 
 
 Self-driving cars require a combination of AI techniques of many kinds: search and planning to find the most convenient route from A to B, computer vision to identify obstacles, and decision making under uncertainty to cope with the complex and dynamic environment. Each of these must work with almost flawless precision in order to avoid accidents.
