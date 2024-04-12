@@ -10,6 +10,10 @@ To set the scene, so to speak, we’ll discuss what AI is, how it can be defined
 
 ## Application 1. Self-driving cars
 
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/b3088dc7-73a9-4412-9a58-a4d7c2ccf503)
+
+
 Self-driving cars require a combination of AI techniques of many kinds: search and planning to find the most convenient route from A to B, computer vision to identify obstacles, and decision making under uncertainty to cope with the complex and dynamic environment. Each of these must work with almost flawless precision in order to avoid accidents.
 
 The same technologies are also used in other autonomous systems such as delivery robots, flying drones, and autonomous ships.
@@ -17,6 +21,10 @@ The same technologies are also used in other autonomous systems such as delivery
 **Implications**: road safety should eventually improve as the reliability of the systems surpasses human level. The efficiency of logistics chains when moving goods should improve. Humans move into a supervisory role, keeping an eye on what’s going on while machines take care of the driving. Since transportation is such a crucial element in our daily life, it is likely that there are also some implications that we haven’t even thought about yet.
 
 ### Application 2. Content recommendation
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/932f9740-959c-4a18-8ed6-89132b4ade98)
+
+
 A lot of the information that we encounter in the course of a typical day is personalized. Examples include Facebook, Twitter, Instagram, and other social media content; online advertisements; music recommendations on Spotify; movie recommendations on Netflix, HBO, and other streaming services. Many online publishers such as newspapers’ and broadcasting companies’ websites as well as search engines such as Google also personalize the content they offer.
 
 While the frontpage of the printed version of the New York Times or China Daily is the same for all readers, the frontpage of the online version is different for each user. The algorithms that determine the content that you see are based on AI.
@@ -24,6 +32,9 @@ While the frontpage of the printed version of the New York Times or China Daily 
 **Implications**: while many companies don’t want to reveal the details of their algorithms, being aware of the basic principles helps you understand the potential implications: these involve so called filter bubbles, echo-chambers, troll factories, fake news, and new forms of propaganda.
 
 ### Application 3. Image and video processing
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/0e97ad8f-d4e8-4898-8d87-17271928a47f)
+
 
 Face recognition is already a commodity used in many customer, business, and government applications such as organizing your photos according to people, automatic tagging on social media, and passport control. Similar techniques can be used to recognize other cars and obstacles around an autonomous car, or to estimate wildlife populations, just to name a few examples.
 
@@ -41,17 +52,26 @@ The popularity of AI in the media is in part due to the fact that people have st
 
 ### Reason 1: no officially agreed definition
 
+![image](https://github.com/eugenia1984/IA/assets/72580574/ebc657e1-2cee-4203-bb02-f629ba30f265)
+
+
 Even AI researchers have no exact definition of AI. The field is rather being constantly redefined when some topics are classified as non-AI, and new topics emerge.
 
 There’s an old (geeky) joke that AI is defined as “cool things that computers can’t do.” The irony is that under this definition, AI can never make any progress: as soon as we find a way to do something cool with a computer, it stops being an AI problem. However, there is an element of truth in this definition. Fifty years ago, for instance, automatic methods for search and planning were considered to belong to the domain of AI. Nowadays such methods are taught to every computer science student. Similarly, certain methods for processing uncertain information are becoming so well understood that they are likely to be moved from AI to statistics or probability very soon.
 
 ### Reason 2: the legacy of science fiction
 
+![image](https://github.com/eugenia1984/IA/assets/72580574/0fdd5d40-32a1-4ec7-b2b0-21b73a405caa)
+
+
 The confusion about the meaning of AI is made worse by the visions of AI present in various literary and cinematic works of science fiction. Science fiction stories often feature friendly humanoid servants that provide overly-detailed factoids or witty dialogue, but can sometimes follow the steps of Pinocchio and start to wonder if they can become human. Another class of humanoid beings in sci-fi espouse sinister motives and turn against their masters in the vein of old tales of sorcerers’ apprentices, going back to the Golem of Prague and beyond.
 
 Often the robothood of such creatures is only a thin veneer on top of a very humanlike agent, which is understandable as most fiction – even science fiction – needs to be relatable by human readers who would otherwise be alienated by intelligence that is too different and strange. Most science fiction is thus best read as metaphor for the current human condition, and robots could be seen as stand-ins for repressed sections of society, or perhaps our search for the meaning of life.
 
 ### Reason 3: what seems easy is actually hard...
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/a8f606dc-4750-4731-a68a-5d4d1ecf5bca)
+
 
 Another source of difficulty in understanding AI is that it is hard to know which tasks are easy and which ones are hard. Look around and pick up an object in your hand, then think about what you did: you used your eyes to scan your surroundings, figured out where are some suitable objects for picking up, chose one of them and planned a trajectory for your hand to reach that one, then moved your hand by contracting various muscles in sequence and managed to squeeze the object with just the right amount of force to keep it between your fingers.
 
@@ -61,6 +81,9 @@ While easy for you, grasping objects by a robot is extremely hard, and it is an 
 
 
 ### ...and what seems hard is actually easy
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/e539e666-baf7-4057-81ea-8b4fb1019bc6)
+
 
 By contrast, the tasks of playing chess and solving mathematical exercises can seem to be very difficult, requiring years of practice to master and involving our “higher faculties” and concentrated conscious thought. No wonder that some initial AI research concentrated on these kinds of tasks, and it may have seemed at the time that they encapsulate the essence of intelligence.
 
