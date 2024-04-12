@@ -40,9 +40,54 @@ Las técnicas comunes incluyen la agrupación de datos similares en grupos (clus
 
 Un ejemplo clásico es la segmentación de clientes en grupos con características similares para estrategias de marketing dirigidas.
 
+- ¿Conocen algún otro tipo de aprendizaje?
+
+### Aprendizaje Por Refuerzo
+
+El aprendizaje por refuerzo es un tipo de aprendizaje donde un agente aprende a tomar decisiones mediante la interacción con un entorno.
+
+El agente realiza acciones y recibe recompensas o penalizaciones en función de los resultados de sus acciones.
+
+El objetivo es aprender una política de comportamiento que maximice la recompensa total a lo largo del tiempo del agente.
+
+Esta técnica se utiliza en diversos campos, como los juegos, la robótica y la optimización de procesos. Un ejemplo notable es el desarrollo de algoritmos de navegación autónoma que permiten a los vehículos aprender a maniobrar de manera óptima.
+
+- ¿Qué necesitamos para entrenar una IA?
+
 ---
 
 ## 💾 02 - Datos Entrenamiento
+
+### Conjuntos de Datos Dataset
+
+Los datos son el fundamento de cualquier sistema de IA.
+
+La calidad, diversidad y representatividad de los datos son cruciales para el entrenamiento de modelos precisos y justos.
+
+Los datos deben ser recolectados y preprocesados cuidadosamente para asegurar que sean libres de sesgos y errores.
+
+Además, es importante considerar aspectos éticos y de privacidad en la recolección y manejo de datos, especialmente cuando se trata de información sensible o personal.
+
+### Exploración de Datos
+
+La exploración de datos es una fase fundamental en el análisis de datos que implica investigar minuciosamente el conjunto de datos para descubrir patrones, tendencias, y anomalías.
+
+Este proceso permite a los analistas de datos y científicos de datos obtener una comprensión profunda de la naturaleza y las características de los datos, lo que es crucial para formular hipótesis adecuadas y seleccionar las técnicas de modelado más apropiadas.
+
+La exploración de datos incluye el examen de estadísticas descriptivas, como la media, la mediana, la desviación estándar y los cuartiles, así como la identificación de relaciones entre variables mediante la correlación y la covarianza.
+
+Además, la exploración de datos ayuda a detectar problemas potenciales como valores faltantes, valores atípicos y sesgos en los datos, los cuales deben abordarse antes de proceder con el análisis o el modelado de datos.
+
+### Visualización de Datos
+
+La visualización de datos es una técnica poderosa que transforma datos numéricos y categóricos en representaciones gráficas, facilitando su comprensión e interpretación.
+
+Las visualizaciones de datos pueden variar desde gráficos simples como histogramas, gráficos de barras y gráficos de líneas hasta representaciones más complejas como mapas de calor, gráficos de dispersión y diagramas de caja.
+
+Estas herramientas visuales permiten a los analistas de datos y a los tomadores de decisiones identificar rápidamente patrones, tendencias y anomalías en los datos, lo que es esencial para el análisis exploratorio de datos, la comunicación de resultados y la toma de decisiones basada en datos.
+
+La visualización de datos también juega un papel crucial en la presentación de resultados de manera clara y convincente a audiencias no técnicas, facilitando la comprensión y el intercambio de información compleja.
+
 
 ---
 
