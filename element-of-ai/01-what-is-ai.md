@@ -24,11 +24,16 @@ While the frontpage of the printed version of the New York Times or China Daily 
 **Implications**: while many companies don’t want to reveal the details of their algorithms, being aware of the basic principles helps you understand the potential implications: these involve so called filter bubbles, echo-chambers, troll factories, fake news, and new forms of propaganda.
 
 ### Application 3. Image and video processing
+
 Face recognition is already a commodity used in many customer, business, and government applications such as organizing your photos according to people, automatic tagging on social media, and passport control. Similar techniques can be used to recognize other cars and obstacles around an autonomous car, or to estimate wildlife populations, just to name a few examples.
 
 AI can also be used to generate or alter visual content. Examples already in use today include style transfer, by which you can adapt your personal photos to look like they were painted by Vincent van Gogh, and computer generated characters in motion pictures such as Avatar, the Lord of the Rings, and popular Pixar animations where the animated characters replicate gestures made by real human actors.
 
 **Implications**: when such techniques advance and become more widely available, it will be easy to create natural looking fake videos of events that are impossible to distinguish from real footage. This challenges the notion that “seeing is believing”.
+
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/4490f6b7-ae20-49a8-8caa-b935f2e058b0)
+
 
 ## What is, and what isn’t AI? Not an easy question!
 
@@ -41,11 +46,13 @@ Even AI researchers have no exact definition of AI. The field is rather being co
 There’s an old (geeky) joke that AI is defined as “cool things that computers can’t do.” The irony is that under this definition, AI can never make any progress: as soon as we find a way to do something cool with a computer, it stops being an AI problem. However, there is an element of truth in this definition. Fifty years ago, for instance, automatic methods for search and planning were considered to belong to the domain of AI. Nowadays such methods are taught to every computer science student. Similarly, certain methods for processing uncertain information are becoming so well understood that they are likely to be moved from AI to statistics or probability very soon.
 
 ### Reason 2: the legacy of science fiction
+
 The confusion about the meaning of AI is made worse by the visions of AI present in various literary and cinematic works of science fiction. Science fiction stories often feature friendly humanoid servants that provide overly-detailed factoids or witty dialogue, but can sometimes follow the steps of Pinocchio and start to wonder if they can become human. Another class of humanoid beings in sci-fi espouse sinister motives and turn against their masters in the vein of old tales of sorcerers’ apprentices, going back to the Golem of Prague and beyond.
 
 Often the robothood of such creatures is only a thin veneer on top of a very humanlike agent, which is understandable as most fiction – even science fiction – needs to be relatable by human readers who would otherwise be alienated by intelligence that is too different and strange. Most science fiction is thus best read as metaphor for the current human condition, and robots could be seen as stand-ins for repressed sections of society, or perhaps our search for the meaning of life.
 
 ### Reason 3: what seems easy is actually hard...
+
 Another source of difficulty in understanding AI is that it is hard to know which tasks are easy and which ones are hard. Look around and pick up an object in your hand, then think about what you did: you used your eyes to scan your surroundings, figured out where are some suitable objects for picking up, chose one of them and planned a trajectory for your hand to reach that one, then moved your hand by contracting various muscles in sequence and managed to squeeze the object with just the right amount of force to keep it between your fingers.
 
 It can be hard to appreciate how complicated all this is, but sometimes it becomes visible when something goes wrong: the object you pick is much heavier or lighter than you expected, or someone else opens a door just as you are reaching for the handle, and then you can find yourself seriously out of balance. Usually these kinds of tasks feel effortless, but that feeling belies millions of years of evolution and several years of childhood practice.
@@ -65,11 +72,11 @@ Similarly, while in-depth mastery of mathematics requires (what seems like) huma
 
 An attempt at a definition more useful than the “what computers can’t do yet” joke would be to list properties that are characteristic to AI, in this case autonomy and adaptivity.
 
+
 ```
 Key terminology
-Autonomy:  The ability to perform tasks in complex environments without constant guidance by a user.
-
-Adaptivity: The ability to improve performance by learning from experience.
+- Autonomy:  The ability to perform tasks in complex environments without constant guidance by a user.
+- Adaptivity: The ability to improve performance by learning from experience.
 ```
 
 ### Words can be misleading
@@ -82,13 +89,36 @@ Likewise, when we say that a computer vision system understands images because i
 
 In both of the above cases, we’d be wrong.
 
+
+### Note: Watch out for “suitcase words”
+
+[Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky), a cognitive scientist and one of the greatest pioneers in AI, coined the term suitcase word for terms that carry a whole bunch of different meanings that come along even if we intend only one of them. Using such terms increases the risk of misinterpretations such as the ones above.
+
+It is important to realize that intelligence is not a single dimension like temperature. You can compare today’s temperature to yesterday’s, or the temperature in Helsinki to that in Rome, and tell which one is higher and which is lower. We even have a tendency to think that it is possible to rank people with respect to their intelligence – that’s what the intelligence quotient (IQ) is supposed to do. However, in the context of AI, it is obvious that different AI systems cannot be compared on a single axis or dimension in terms of their intelligence. Is a chess-playing algorithm more intelligent than a spam filter, or is a music recommendation system more intelligent than a self-driving car? These questions make no sense. This is because artificial intelligence is narrow (we’ll return to the meaning of narrow AI at the end of this chapter): being able to solve one problem tells us nothing about the ability to solve another, different problem.
+
+### Why you can say "a pinch of AI" but not "an AI"
+
+The classification into AI vs non-AI is not a clear yes–no dichotomy: while some methods are clearly AI and other are clearly not AI, there are also methods that involve a pinch of AI, like a pinch of salt. Thus it would sometimes be more appropriate to talk about the "AIness" (as in happiness or awesomeness) rather than arguing whether something is AI or not.
+
+
 ```
 Note
 
-Watch out for “suitcase words”
+“AI” is not a countable noun
+When discussing AI, we would like to discourage the use of AI as a countable noun:
+ one AI, two AIs, and so on. AI is a scientific discipline, like mathematics or biology.
+This means that AI is a collection of concepts, problems, and methods for solving them.
 
-[Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky), a cognitive scientist and one of the greatest pioneers in AI, coined the term suitcase word for terms that carry a whole bunch of different meanings that come along even if we intend only one of them. Using such terms increases the risk of misinterpretations such as the ones above.
+Because AI is a discipline, you shouldn’t say “an AI”, just like we don’t say “a biology”.
+This point should also be quite clear when you try saying something like “we need
+ more artificial intelligences.” That just sounds wrong, doesn’t it? (It does to us.)
 ```
+
+Despite our discouragement, the use of AI as a countable noun is common. Take for instance, the headline [Data from wearables helped teach an AI to spot signs of diabetes](https://www.engadget.com/2018/02/07/deepheart-diabetes-cardiogram-ai/), which is otherwise a pretty good headline since it emphasizes the importance of data and makes it clear that the system can only detect signs of diabetes rather than making diagnoses and treatment decisions. And you should definitely never ever say anything like [Google’s artificial intelligence built an AI that outperforms any made by humans](https://futurism.com/google-artificial-intelligence-built-ai/), which is one of the all-time most misleading AI headlines we’ve ever seen (note that the headline is not by Google Research).
+
+The use of AI as a countable noun is of course not a big deal if what is being said otherwise makes sense, but if you’d like to talk like a pro, avoid saying "an AI", and instead say "an AI method".
+
+
 
 ---
 
