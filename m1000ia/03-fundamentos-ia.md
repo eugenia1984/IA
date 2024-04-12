@@ -209,4 +209,34 @@ Es crucial monitorear el modelo desplegado para detectar posibles problemas y ac
 
 ## 💾 04 -  Ética Desarrollo Sustentable
 
+### Desafíos Ética en IA
+
+A medida que la IA se integra cada vez más en nuestra vida cotidiana, surgen preocupaciones éticas y desafíos relacionados con la privacidad, la seguridad y la justicia.
+
+Los sesgos en los datos de entrenamiento pueden llevar a decisiones injustas o discriminatorias, y la transparencia de los algoritmos es crucial para mantener la confianza del público.
+
+Además, la automatización impulsada por la IA plantea preguntas sobre el futuro del trabajo y la distribución equitativa de los beneficios tecnológicos.
+
+### Desarrollo Sustentable
+
+El desarrollo sustentable en inteligencia artificial (IA) implica la creación y aplicación de tecnologías de IA de manera que promuevan la sostenibilidad ambiental, social y económica.
+
+Este enfoque busca equilibrar el avance tecnológico con la responsabilidad ética y la conservación de los recursos naturales. En la práctica, esto significa diseñar sistemas de IA que optimicen el uso de la energía, reduzcan la huella de carbono y minimicen el desperdicio.
+
+Además, el desarrollo sustentable en IA implica asegurar que las tecnologías sean accesibles y beneficiosas para todos los sectores de la sociedad, evitando la exacerbación de desigualdades y promoviendo la inclusión.
+
+Al integrar principios de sostenibilidad en el desarrollo de la IA, podemos garantizar que estas tecnologías contribuyan positivamente a los objetivos globales de desarrollo sostenible y al bienestar de las generaciones futuras.
+
+### Programando IA con Python
+
+Python se ha establecido como el lenguaje de programación predominante en el campo de la inteligencia artificial y el aprendizaje automático. Su sintaxis clara y concisa, junto con su amplio ecosistema de bibliotecas y herramientas especializadas como NumPy, Pandas, TensorFlow y scikit-learn, lo hacen ideal para el desarrollo y la experimentación de modelos de IA.
+
+Python facilita la manipulación de datos, la implementación de algoritmos de aprendizaje automático y la visualización de resultados, lo que permite a los científicos de datos y desarrolladores construir soluciones de IA de manera eficiente y efectiva.
+
+### Python con Google Colab
+
+Google Colab es una plataforma de computación en la nube que permite a los usuarios escribir y ejecutar código Python en un entorno de navegador.
+
+Es especialmente popular en el campo de la inteligencia artificial por su facilidad de uso, acceso gratuito a recursos computacionales como GPUs y TPUs, y su integración con Google Drive para el almacenamiento de datos y modelos. Colab proporciona un entorno colaborativo donde los científicos de datos y los investigadores pueden compartir y trabajar en cuadernos de Jupyter, facilitando el desarrollo y la experimentación de modelos de IA sin la necesidad de una configuración de hardware compleja.
+
 ---
