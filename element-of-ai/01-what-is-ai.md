@@ -1,4 +1,4 @@
-# <img width="34" height="34" src="https://img.icons8.com/nolan/34/artificial-intelligence.png" alt="artificial-intelligence"/> What is AI
+# <img width="34" height="34" src="https://img.icons8.com/nolan/34/artificial-intelligence.png" alt="artificial-intelligence"/> What is AI /  Related fields  / Philosophy of AI
 
 ##  <img width="34" height="34" src="https://img.icons8.com/nolan/34/artificial-intelligence.png" alt="artificial-intelligence"/> How should we define AI? 
 
@@ -119,13 +119,7 @@ Despite our discouragement, the use of AI as a countable noun is common. Take fo
 The use of AI as a countable noun is of course not a big deal if what is being said otherwise makes sense, but if you’d like to talk like a pro, avoid saying "an AI", and instead say "an AI method".
 
 
-
 ---
 
-##  <img width="34" height="34" src="https://img.icons8.com/nolan/34/artificial-intelligence.png" alt="artificial-intelligence"/>  Related fields 
 
----
 
-##  <img width="34" height="34" src="https://img.icons8.com/nolan/34/artificial-intelligence.png" alt="artificial-intelligence"/>  Philosophy of AI
-
----
