@@ -15,6 +15,8 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 
 2. [Ciclo desarrollo de proyectos IA](https://github.com/eugenia1984/IA/blob/main/m1000ia/02-ciclo-desarrollo-de-proyectos-IA.md)
 
+3. Fundamentos IA
+   
 [Clases](https://github.com/eugenia1984/IA/blob/main/m1000ia/clases.md)
 
 ---
@@ -23,7 +25,7 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 
 | Clase | Fecha | Tema | Entrega del proyecto |
 | ----- | ----- | ---- | -------------------- |
-| 1 | 11 Abril |  Presentación: Ciclo de desarrollo de proyecto de IA | - |
+| 1 | 11 Abril |  [Presentación](https://github.com/eugenia1984/IA/blob/main/m1000ia/01-presentacion-del-curso.md): [Ciclo de desarrollo de proyecto de IA](https://github.com/eugenia1984/IA/blob/main/m1000ia/02-ciclo-desarrollo-de-proyectos-IA.md) | - |
 | 2 | 18 Abril | Fundamentos de IA / Python | Definición del problema (1ra iteración) |
 | 3 | 25 Abril | Exploración y visualización de datos | Definición del problema (2da iteración) |
 | 4 | 2 Mayo |  Machine Learning Tradicional | Recolección de datos |
