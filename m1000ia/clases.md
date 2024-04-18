@@ -53,6 +53,10 @@ APRENDIZAJE -> Para comprender y generalizar la estructura de los datos. Hay dis
 
 ![image](https://github.com/eugenia1984/IA/assets/72580574/a8f22561-fa92-42b3-aeb7-c6cb6d1bab2d)
 
+Los más comunes: clasificación y regresión.
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/d01c35e1-ff08-42a3-bca5-c3191a4f9763)
+
 ... NO SUPERVISADO
 
 ... POR REFUERZO
