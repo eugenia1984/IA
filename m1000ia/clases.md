@@ -118,6 +118,11 @@ Neuronas artificiales -> por donde entra, están todas conectadas y combinadas.
 
 ![image](https://github.com/eugenia1984/IA/assets/72580574/66a996ec-3022-4bcb-b489-3cd3779b53fc)
 
+## DEEP LEARNING
+
+Redes neuronales con multiples capaz
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/646eba63-8a4a-47d3-9d7e-3f882cf8fe7f)
 
 ---
 
