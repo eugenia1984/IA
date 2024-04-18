@@ -157,6 +157,18 @@ Es la interfaz entre la computadora y la gente
 
 ---
 
+## DESARROLLO SUSTENTABLE
+
+- Eficiencia energética
+
+- Aplicaciones para la sostenibilidad ambiental
+
+- Ciudades inteligentes
+
+- Salud y Bienestar  
+
+---
+
 ## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
 
 ---
