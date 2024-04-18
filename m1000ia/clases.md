@@ -175,6 +175,10 @@ Es la interfaz entre la computadora y la gente
 
 ---
 
+[Google Colab](https://colab.research.google.com/drive/1S4yY8x5joLhv9maaTuf7icLnbos0p9YE?usp=sharing)
+
+---
+
 ## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
 
 ---
