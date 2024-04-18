@@ -61,6 +61,16 @@ Los más comunes: clasificación y regresión (predice un valor numérico basado
 
 ![image](https://github.com/eugenia1984/IA/assets/72580574/78413c6f-0858-444c-b476-68a5d41fbf85)
 
+Puede ser...
+
+... CLUSTERIZACION: encontrar datos similares procesándolos a todos, x ej: las recomendaciones de Netflix.
+
+... ASOCIACION
+
+... REDUCCION DE DIMENSION
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/3a5052ed-c576-47e6-a054-8eee02cee7dd)
+
 ... POR REFUERZO
 
 MEMORIZACION -> adquieren conocimiento mediante información en la memoria, producen un resultado esperado, no parten desde una experiencia como el humano; si le damos un dato distinto al de su memoria no sabrá como responder (se lo llama sobre ajuste).
