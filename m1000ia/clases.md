@@ -169,6 +169,12 @@ Es la interfaz entre la computadora y la gente
 
 ---
 
+## PROGRAMANDO IA
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/873083af-753c-4939-a0d9-8d4e4dbf3ca1)
+
+---
+
 ## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
 
 ---
