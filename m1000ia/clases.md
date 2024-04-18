@@ -124,6 +124,11 @@ Redes neuronales con multiples capaz
 
 ![image](https://github.com/eugenia1984/IA/assets/72580574/646eba63-8a4a-47d3-9d7e-3f882cf8fe7f)
 
+## COMPUTER VISION
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/f3313367-ee3f-4aec-88d6-14281adb7213)
+
+
 ---
 
 ## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
