@@ -80,7 +80,7 @@ MEMORIZACION -> adquieren conocimiento mediante información en la memoria, prod
 
 ---
 
-## DATOS Y ENTRENAMIENto
+## DATOS Y ENTRENAMIENTO
 
 - Hay 2 tipos de datos:
 
@@ -97,6 +97,14 @@ Los DATOS son la MATERIA PRIMA, hay que pasar por ciertos pasos, para que los da
 - VISUALIZAR: representar los datos, para comprender mejor los datos, con histogramas, gráficos de calor, etc.
 
 - CARACTERIZAR: valores atípicos, valores faltantes, normalización.
+
+- SESGOS
+  
+---
+
+## ENTRENAMIENTO DEL MODELO & EVALUACIÓN
+
+70-80% datos y 20-30% evaluación
 
 ---
 
