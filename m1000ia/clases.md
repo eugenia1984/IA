@@ -128,6 +128,9 @@ Redes neuronales con multiples capaz
 
 ![image](https://github.com/eugenia1984/IA/assets/72580574/f3313367-ee3f-4aec-88d6-14281adb7213)
 
+## PROCESAMIENTO DEL LENGUAJE NATURAL
+
+Es la interfaz entre la computadora y la gente
 
 ---
 
