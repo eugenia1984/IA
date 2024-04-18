@@ -99,3 +99,7 @@ Los DATOS son la MATERIA PRIMA, hay que pasar por ciertos pasos, para que los da
 - CARACTERIZAR: valores atípicos, valores faltantes, normalización.
 
 ---
+
+## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
+
+---
