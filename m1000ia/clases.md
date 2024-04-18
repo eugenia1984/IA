@@ -79,3 +79,23 @@ Puede ser...
 MEMORIZACION -> adquieren conocimiento mediante información en la memoria, producen un resultado esperado, no parten desde una experiencia como el humano; si le damos un dato distinto al de su memoria no sabrá como responder (se lo llama sobre ajuste).
 
 ---
+
+## DATOS Y ENTRENAMIENto
+
+- Hay 2 tipos de datos:
+
+- **ESTRUCTURADOS**
+ 
+- **NO ESTRUCTURADOS**: como audio, imagen, textos. Se usan en computer vision, x ej.
+
+Los DATOS son la MATERIA PRIMA, hay que pasar por ciertos pasos, para que los datos sea ASCERTIVOS, tengan CIERTA CALIDAD. Los pasos:
+
+- RECOLECTAR: datos representativos
+
+- EXPLORAR: entender la naturaleza, estructura de los datos. Estadística descriptiva (que info contienen los datos? mediana, desviación estandar, media, etc). Relaciones entre variables.
+
+- VISUALIZAR: representar los datos, para comprender mejor los datos, con histogramas, gráficos de calor, etc.
+
+- CARACTERIZAR: valores atípicos, valores faltantes, normalización.
+
+---
