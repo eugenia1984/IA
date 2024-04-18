@@ -141,6 +141,22 @@ Es la interfaz entre la computadora y la gente
 
 ---
 
+## ÉTICA
+
+- Equidad y sesgo
+
+- Privacidad y seguridad de datos
+ 
+- Transparencia y explicabilidad
+
+- Impacto en empleo
+
+- Autonomía y responsabilidad
+
+- Seguridad y riesgo   
+
+---
+
 ## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
 
 ---
