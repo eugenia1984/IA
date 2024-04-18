@@ -8,7 +8,7 @@
       
 ---
 
-## 4 ETAPAS
+## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 1 - 4 ETAPAS
 
 1. **PROBLEM SCOPING**: **especificar el problema de negocio**: definir el alcance del problema, para garantizar el éxito, debe saber qué se espera,que beneficio traeré, que restricciones tendremos, etc. Se deberá **contar con expertos en la materia**. **Planear el modelo y método de evaluación**. **Entender viabilidad e impascto**: a veces no es inmediato el impacto, pero deben ser tangibles apra que las personas qeu apuestan en el proyecto vayan veindo y confiando.
 
@@ -33,4 +33,30 @@
 Del 100% de mis datos, voy a dividir: 70%/80% de los datos para entrenarlo y 30%/20% para evaluar el modelo, si nos da buenos resultados, podremos ponerlo en marcha.
 
 ---
+---
 
+## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 2
+
+**INTELIGENCIA ARTIFICIAL** rama d ela informática, crear sistema capaces de **Realizar tareas que normalmente requieren inteligencia humana** (x ej: reconocimiento de voz, reconocimiento de patrones, toma de decisiones, etc).
+
+- **IA DÉBIL**: sistemas para tareas específicas / limitadas.
+
+- **IA FUERTE**: 
+
+---
+
+## Aprendizaje vs Memorización
+
+APRENDIZAJE -> Para comprender y generalizar la estructura de los datos. Hay distintos tipos...
+
+... SUPERVIZADO: aprendizaje automático con datos etiquetados (un par entrada / salida)
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/a8f22561-fa92-42b3-aeb7-c6cb6d1bab2d)
+
+... NO SUPERVISADO
+
+... POR REFUERZO
+
+MEMORIZACION -> adquieren conocimiento mediante información en la memoria, producen un resultado esperado, no parten desde una experiencia como el humano; si le damos un dato distinto al de su memoria no sabrá como responder (se lo llama sobre ajuste).
+
+---
