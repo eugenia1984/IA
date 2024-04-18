@@ -108,6 +108,19 @@ Los DATOS son la MATERIA PRIMA, hay que pasar por ciertos pasos, para que los da
 
 ---
 
+## REDES NEURONALES
+
+En base al comportamiento y el funcionamiento del cerebro humano, ver la eestructura, se modela en un sistema, y se trata de obtener le mismo resultado que se obtendría de una red neuronal.
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/830e986d-7e65-4a71-9f7f-129189d8ee69)
+
+Neuronas artificiales -> por donde entra, están todas conectadas y combinadas.
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/66a996ec-3022-4bcb-b489-3cd3779b53fc)
+
+
+---
+
 ## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
 
 ---
