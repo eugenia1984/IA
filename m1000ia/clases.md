@@ -71,7 +71,10 @@ Puede ser...
 
 ![image](https://github.com/eugenia1984/IA/assets/72580574/3a5052ed-c576-47e6-a054-8eee02cee7dd)
 
-... POR REFUERZO
+... POR REFUERZO: hay una acción que tomar, que va a ser recompensada o penalizada. Interviene un agente que debe aprender una política de comportamiento, x ej: la aspiradora robot que mapea el lugar y luego esquiva los muebles.
+
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/fa5b504d-11ba-427a-878a-c5eb9ce8c1c2)
 
 MEMORIZACION -> adquieren conocimiento mediante información en la memoria, producen un resultado esperado, no parten desde una experiencia como el humano; si le damos un dato distinto al de su memoria no sabrá como responder (se lo llama sobre ajuste).
 
