@@ -134,6 +134,13 @@ Es la interfaz entre la computadora y la gente
 
 ---
 
+## SISTEMAS DE RECOMENDACION
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/ccb71ff8-3c5a-4ca5-a39d-df375099732f)
+
+
+---
+
 ## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
 
 ---
