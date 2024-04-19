@@ -11,9 +11,7 @@
 - 04 **Recomendaciones para EDA**
 
 
-"La exploración y análisis de datos es el proceso a través del los transformamos en conocimientos profundos y accionables, lo que constituye la base
-para tomar decisiones fundamentadas y estratégicas. Esta disciplina es crucial porque permite descubrir patrones ocultos, predecir tendencias futuras y
-optimizar procesos, convirtiéndose así en una pieza clave para el éxito de un proyecto de IA." 
+"La exploración y análisis de datos es el proceso a través del los transformamos en conocimientos profundos y accionables, lo que constituye la base para tomar decisiones fundamentadas y estratégicas. Esta disciplina es crucial porque permite descubrir patrones ocultos, predecir tendencias futuras y optimizar procesos, convirtiéndose así en una pieza clave para el éxito de un proyecto de IA." 
 
 ---
 
@@ -85,7 +83,10 @@ datos sean informadas y confiables.
 Herramientas como gráficos de dispersión, histogramas y estadísticas descriptivas son comúnmente utilizadas en esta etapa para visualizar y
 resumir los datos.
 
-### Estadística Descriptiva
+
+---
+
+## 💾 2 -  Estadística Descriptiva
 
 Las estadísticas descriptivas proporcionan un resumen cuantitativo de las características principales de un conjunto de datos.
 
@@ -261,4 +262,204 @@ agricultura, y la industria manufacturera.
 - **Automatización**: El análisis de imágenes permite la automatización de tareas que requieren reconocimiento visual, como la inspección de
 productos o el monitoreo de áreas.
 
+**Desventajas de los Datos de Imágenes:**
+
+- **Complejidad**: El procesamiento y análisis de imágenes pueden ser más complejos y computacionalmente intensivos en comparación con los
+datos estructurados.
+
+- **Variabilidad**: Las imágenes pueden variar en calidad, iluminación, ángulo y otros factores que pueden afectar el análisis.
+
+- **Requerimientos de Almacenamiento**: Las imágenes, especialmente en alta resolución, pueden requerir una cantidad significativa de
+almacenamiento, lo que puede ser un desafío para sistemas con recursos limitados.
+
+### Consideraciones para los datos faltantes
+ 
+Identificación de Patrones: Es importante analizar los patrones de datos faltantes para determinar si la ausencia de datos es aleatoria o si existe un sesgo. Esto puede afectar la validez de los resultados del análisis.
+
+Impacto en el Análisis: Los datos faltantes pueden afectar significativamente el análisis estadístico y los modelos predictivos. Es importante evaluar el impacto de la imputación en los resultados y considerar la incertidumbre asociada.
+
+Documentación y Transparencia: Es esencial documentar cómo se han manejado los datos faltantes y ser transparente sobre las decisiones
+tomadas, ya que esto puede influir en la interpretación de los resultados.
+
+### Remoción de valores atípicos (outliers)
+
+La remoción de valores atípicos es una técnica importante en la limpieza de datos, ya que estos valores pueden distorsionar el análisis y los resultados de los modelos de machine learning.
+
+Los valores atípicos son observaciones que se desvían significativamente del resto de los datos y pueden ser el resultado de errores de medición, variabilidad natural o anomalías genuinas.
+
+Para identificarlos, se pueden utilizar métodos como el rango intercuartílico (IQR), la desviación estándar o la visualización mediante diagramas de caja.
+
+Una vez identificados, los valores atípicos pueden ser eliminados o ajustados para minimizar su impacto en el análisis.
+
+Es importante tener en cuenta que la remoción de valores atípicos debe hacerse con cautela, ya que en algunos casos pueden contener información
+valiosa.
+
+### Transformación de Datos
+
+La transformación de datos es el proceso de modificar los datos para facilitar su análisis y modelado.
+
+Incluye técnicas como la normalización, que ajusta los datos a una escala común, y la estandarización, que centra los datos en torno a la media con una desviación estándar de uno.
+
+La transformación también puede involucrar la codificación de variables categóricas en numéricas y la creación de variables derivadas.
+
+Estas transformaciones son esenciales para preparar los datos para algoritmos de aprendizaje automático y para mejorar la interpretación de los
+resultados.
+
+### Correlación y Causalidad
+
+La correlación y la causalidad son conceptos clave en el análisis de datos.
+
+La correlación mide la relación lineal entre dos variables, indicando cómo cambia una variable en relación con otra.
+
+Sin embargo, una correlación no implica causalidad; es decir, no indica que una variable sea la causa de los cambios en la otra.
+
+La causalidad requiere evidencia adicional, como experimentos controlados o análisis estadísticos más sofisticados. Es importante no confundir
+correlación con causalidad al interpretar los resultados del análisis de datos.
+
+### Gráfico Histograma
+
+Los histogramas son una herramienta fundamental en la visualización de datos, especialmente útil para entender la distribución de una variable
+cuantitativa.
+
+Al agrupar los datos en intervalos o "bins", los histogramas muestran la frecuencia o cantidad de datos que caen dentro de cada intervalo,
+proporcionando una visión clara de la forma de la distribución, ya sea simétrica, sesgada, bimodal o uniforme.
+
+Este tipo de gráfico es esencial para identificar patrones como la centralidad de los datos y la presencia de valores atípicos, lo que a su vez informa decisiones posteriores en el análisis de datos.
+
+### Gráfico de barras
+
+Los gráficos de barras son una herramienta de visualización versátil y ampliamente utilizada para comparar cantidades de diferentes categorías.
+
+Cada barra representa una categoría, y su longitud o altura es proporcional a la cantidad que representa.
+
+Los gráficos de barras se pueden presentar de manera vertical u horizontal y son particularmente efectivos para mostrar diferencias entre grupos, tendencias en datos categóricos y comparaciones de frecuencia.
+
+Al proporcionar una representación visual clara y directa, facilitan la interpretación y el análisis de datos categóricos.
+
+
+### Diagramas de Caja Boxplot
+
+Los diagramas de caja, o boxplots, son una herramienta estadística visual que proporciona una representación concisa de la distribución de una
+variable cuantitativa.
+
+Muestran la mediana, los cuartiles y los valores atípicos, ofreciendo una visión rápida de la variabilidad y simetría de los datos.
+
+Los diagramas de caja son especialmente útiles para comparar distribuciones entre diferentes grupos o categorías y para identificar posibles
+valores atípicos que podrían influir en el análisis posterior.
+
+Su capacidad para resumir información clave sobre la distribución de los datos los hace indispensables en la exploración y análisis de datos.
+
+### Diagramas de Violín
+
+Los gráficos de violín combinan características de los diagramas de caja y los gráficos de densidad de kernel para proporcionar una representación más rica de la distribución de los datos.
+
+Muestran la densidad de los datos en diferentes valores, con un ancho más amplio donde los datos son más densos.
+
+Los gráficos de violín son particularmente útiles para comparar la distribución de los datos entre diferentes grupos o categorías.
+
+### Gráfico de líneas
+
+Los gráficos de líneas son una herramienta esencial en la visualización de datos para mostrar tendencias y cambios a lo largo del tiempo.
+
+Cada punto en el gráfico representa una observación en un momento específico, y la línea conecta estos puntos para mostrar la evolución de la
+variable.
+
+Los gráficos de líneas son particularmente efectivos para visualizar datos temporales, destacando tendencias ascendentes, descendentes o
+estacionarias. 
+
+Además, permiten comparar múltiples series temporales en el mismo gráfico, facilitando la identificación de patrones y relaciones entre variables a lo largo del tiempo.
+
+### Gráfico de áreas
+
+Los gráficos de área son similares a los gráficos de líneas, pero con el área bajo la línea rellena con color o patrones.
+
+Son útiles para visualizar la evolución de una cantidad a lo largo del tiempo y para comparar diferentes series de datos.
+
+Los gráficos de área pueden ser apilados para mostrar la contribución de cada serie al total o apilados al 100% para resaltar la proporción de cada serie en el total.
+
+### Mapas de Calor
+
+Los mapas de calor son una técnica de visualización que utiliza colores para representar la magnitud de los valores en una matriz bidimensional.
+
+Son particularmente útiles para visualizar correlaciones, patrones y tendencias en grandes conjuntos de datos, como matrices de correlación o
+tablas de contingencia.
+
+Los cambios graduales en el color permiten identificar áreas de interés, como relaciones fuertes o débiles entre variables. Al proporcionar una
+representación visual intuitiva de la información, los mapas de calor facilitan la identificación de patrones y la toma de decisiones basada en datos.
+
+
+### Recomendaciones para realizar un buen EDA
+
+Conocer los datos: Antes de comenzar la exploración, es importante entender la naturaleza y el contexto de los datos.
+
+Limpieza de datos: Asegurarse de que los datos estén limpios y libres de errores antes de proceder al análisis.
+
+Uso de gráficos adecuados: Elegir el tipo de gráfico o visualización que mejor represente la información que se desea transmitir.
+
+Análisis iterativo: La exploración de datos es un proceso iterativo; no dude en volver atrás y ajustar su análisis a medida que descubre nueva información.
+
+Documentación: Mantener un registro de los hallazgos y las decisiones tomadas durante la exploración para facilitar la reproducibilidad y la
+revisión.
+
+
+### Recomendaciones Exploración de datos
+ 
+- **Explorar relaciones entre variables**: Utilice gráficos de dispersión, mapas de calor y otras técnicas de visualización para investigar las relaciones entre las variables. Esto puede ayudar a identificar patrones y correlaciones que podrían ser importantes para el análisis posterior.
+
+- **Considerar la dimensión temporal**: Si sus datos tienen una componente temporal, asegúrese de explorar cómo las variables cambian con el tiempo.
+  
+Los gráficos de líneas y las series temporales pueden ser útiles para visualizar tendencias y patrones estacionales.
+
+Usar subconjuntos de datos: Si está trabajando con un conjunto de datos grande, considere usar muestras o subconjuntos de datos para explorar y
+visualizar. Esto puede hacer que el proceso sea más manejable y rápido, especialmente en las etapas iniciales de la exploración.
+ 
+Estar atento a los sesgos: Reconozca que la forma en que se recopilan y procesan los datos puede introducir sesgos. Sea crítico con los datos y
+considere cómo podrían afectar sus conclusiones.
+
+### Recomendaciones Visualización de datos
+
+- **Mantener la simplicidad**: Una visualización efectiva es aquella que transmite la información de manera clara y concisa. Evite agregar elementos innecesarios que puedan distraer o confundir al espectador.
+  
+- **Elegir colores cuidadosamente**: Utilice colores de manera estratégica para resaltar información importante y para distinguir entre diferentes categorías.
+  
+- **Etiquetar adecuadamente**: Asegúrese de que los ejes, leyendas y títulos estén claramente etiquetados para facilitar la interpretación de los gráficos. 
+Las etiquetas deben ser precisas y descriptivas.
+
+- **Considerar la audiencia**: Adapte su visualización al público objetivo. Asegúrese de que el nivel de complejidad y el tipo de visualización sean apropiados para las personas a las que se dirige.
+
+- **Verificar la precisión**: Antes de presentar o publicar sus visualizaciones, verifique que sean precisas y que reflejen correctamente los datos subyacentes. Los errores en las visualizaciones pueden llevar a interpretaciones erróneas.
+
+### Qué hacer y qué no hacer durante el análisis de datos
+
+**Qué Hacer:**
+
+- Ser curioso: Haga preguntas sobre los datos y busque respuestas a través de la exploración.
+
+- Ser crítico: Evalúe críticamente los resultados y verifique si tienen sentido en el contexto de los datos.
+
+- Ser creativo: Experimente con diferentes técnicas de visualización y análisis para obtener nuevos conocimientos.
+
+**Qué No Hacer:**
+
+- Ignorar los valores atípicos: No descarte los valores atípicos sin investigar su origen, ya que pueden contener información valiosa.
+
+- Sobrecargar los gráficos: Evite agregar demasiada información en un solo gráfico, lo que puede dificultar su interpretación.
+
+- Saltarse la limpieza de datos: No pase por alto la importancia de limpiar y preparar los datos antes de la exploración.
+
+
 ---
+
+### Librerías de Python para el análisis de datos
+
+- **Pandas**: Librería de Python para manipulación y análisis de datos, que proporciona estructuras de datos flexibles y herramientas para trabajar con datos tabulares.
+  
+- **NumPy**: Librería de Python para cálculos numéricos, que ofrece soporte para operaciones con arrays de gran tamaño y alta dimensionalidad.
+
+- **Matplotlib**: Librería de Python para la creación de gráficos estáticos, animados e interactivos en 2D.
+
+- **Seaborn**: Librería de Python basada en Matplotlib que proporciona una interfaz de alto nivel para la creación de gráficos estadísticos atractivos y informativos.
+
+- **Plotly**: Librería de Python para la creación de gráficos interactivos que pueden ser utilizados en cuadernos Jupyter o aplicaciones web.
+
+--- 
