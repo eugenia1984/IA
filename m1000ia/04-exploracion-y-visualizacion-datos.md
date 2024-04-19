@@ -204,9 +204,61 @@ La imputación de valores faltantes es un paso crítico en la preparación de da
 Los valores faltantes pueden ocurrir por diversas razones, como errores en la recopilación de datos o la ausencia de información. La imputación consiste
 en reemplazar estos valores faltantes con estimaciones basadas en el resto de los datos disponibles.
 
-Existen diferentes métodos de imputación, como la imputación por la media, mediana o moda para variables numéricas, y la imputación por la moda o
-técnicas más sofisticadas como la imputación múltiple o el uso de modelos predictivos para variables categóricas.
+Existen diferentes métodos de imputación, como la imputación por la media, mediana o moda para variables numéricas, y la imputación por la moda o técnicas más sofisticadas como la imputación múltiple o el uso de modelos predictivos para variables categóricas.
 
 La elección del método de imputación depende de la naturaleza de los datos y del patrón de los valores faltantes.
+
+### Datos no estructurados: Texto
+
+La exploración de datos de texto implica el análisis y procesamiento de información en forma de texto natural para extraer patrones, tendencias y conocimientos útiles.
+
+**Comparativa con datos estructurados:**
+
+- **Estructura**: Los datos tabulares están organizados en filas y columnas, con cada columna representando una variable y cada fila representando un registro. En cambio, los datos de texto no tienen una estructura predefinida y pueden variar en formato, longitud y contenido.
+  
+- **Análisis**: El análisis de datos tabulares suele ser más directo, utilizando técnicas estadísticas y de modelado convencionales. El análisis de datos de texto requiere técnicas de específicas de NLP.
+  
+- **Almacenamiento**: Los datos tabulares se almacenan típicamente en bases de datos relacionales o en hojas de cálculo. Los datos de texto pueden almacenarse en archivos de texto, bases de datos no relacionales o sistemas de gestión de contenido.
+
+**Ventajas de los Datos de Texto:**
+
+- **Riqueza de Información**: Los datos de texto pueden contener una gran cantidad de información cualitativa y matices que no siempre están
+presentes en los datos tabulares.
+
+- **Flexibilidad**: Los datos de texto pueden adaptarse a una amplia variedad de formatos y estructuras, lo que los hace útiles para una
+amplia gama de aplicaciones.
+
+- **Insights Profundos**: El análisis de texto puede revelar insights profundos sobre comportamientos, opiniones y tendencias que
+pueden ser difíciles de obtener a partir de datos tabulares.
+
+**Desventajas de los Datos de Texto:**
+
+- **Complejidad**: El procesamiento y análisis de datos de texto pueden ser más complejos y requieren habilidades especializadas en NLP y
+técnicas avanzadas de análisis.
+
+- **Inconsistencia**: Los datos de texto pueden ser inconsistentes debido a errores de ortografía, variaciones en la gramática o el uso de jerga, lo que puede dificultar su análisis.
+  
+- **Requerimientos de Almacenamiento**: Los datos de texto pueden ocupar más espacio de almacenamiento en comparación con los datos
+tabulares, especialmente si se trata de grandes volúmenes de texto.
+
+### Datos no estructurados: Imágenes
+
+La exploración de datos de imágenes implica el análisis y procesamiento de información visual para extraer patrones, características y conocimientos útiles. Las imágenes son un tipo de dato no estructurado que requiere técnicas específicas de visión por computadora y aprendizaje automático.
+
+Las imágenes son datos no estructurados que no tienen una estructura predefinida y consisten en píxeles que representan información visual.
+
+Las imágenes se almacenan en formatos de archivo específicos (como JPEG, PNG) y pueden requerir sistemas de almacenamiento especializados para
+grandes volúmenes de datos visuales.
+
+**Ventajas de los Datos de Imágenes:**
+
+- **Riqueza de Información**: Las imágenes pueden contener una gran cantidad de información visual que puede ser utilizada para diversas
+aplicaciones, desde el reconocimiento de objetos hasta el diagnóstico médico.
+
+- **Aplicabilidad**: Los datos de imágenes tienen aplicaciones en una amplia variedad de campos, incluyendo la medicina, la seguridad, la
+agricultura, y la industria manufacturera.
+
+- **Automatización**: El análisis de imágenes permite la automatización de tareas que requieren reconocimiento visual, como la inspección de
+productos o el monitoreo de áreas.
 
 ---
