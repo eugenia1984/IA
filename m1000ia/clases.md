@@ -201,6 +201,7 @@ Es la interfaz entre la computadora y la gente
 ## VISUALIZACIÓN DE DATOS 
 
 - **gráfico hitograma**
+  
 ![image](https://github.com/eugenia1984/IA/assets/72580574/f1feda17-5e8b-45b3-9bfa-84b05b54bb3b)
 
 - **gráficos de barra**: cada barra es una categoría, y la altura la cantidad
