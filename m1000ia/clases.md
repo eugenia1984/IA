@@ -181,4 +181,35 @@ Es la interfaz entre la computadora y la gente
 
 ## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
 
+## ESTADÍSTICA DESCRIPTIVA
+
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/e42ddccd-1126-42f0-8335-b30f61c13f16)
+
+- MEDIA: es el promedio
+
+- MEDIANA: es el valor que se encuentra en el medio, teniendo los datos ordenaods
+
+- MODA: los valores ue aparecen con mayor frecuencia
+
+### Varianza, desvío estándar y rango intercuartílico
+ 
+![image](https://github.com/eugenia1984/IA/assets/72580574/c73b3f7a-e816-44ed-93ad-d8cbae8b7ac2)
+
+- **rango intercuartílico**: se ordenen los datos de menor a mayor, se divide en 4 partes, va a ser el segmento que ocupe el 50% de los datos, dejando un 25% por delante y por detrás
+
+## VISUALIZACIÓN DE DATOS 
+
+- **gráfico hitograma**
+![image](https://github.com/eugenia1984/IA/assets/72580574/f1feda17-5e8b-45b3-9bfa-84b05b54bb3b)
+
+- **gráficos de barra**: cada barra es una categoría, y la altura la cantidad
+
+  ![image](https://github.com/eugenia1984/IA/assets/72580574/57ed8e66-132c-4de5-82d8-74742533cc64)
+
+- **diagramas de caja / boxplot**: para comparar distribuciones entre difernetes grupos
+
+ ![image](https://github.com/eugenia1984/IA/assets/72580574/9d6709a0-75f5-40f5-946e-5d2814d6b85b)
+ 
 ---
+
