@@ -8,7 +8,7 @@
       
 ---
 
-## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 1 - 4 ETAPAS
+# <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 1 - 4 ETAPAS
 
 1. **PROBLEM SCOPING**: **especificar el problema de negocio**: definir el alcance del problema, para garantizar el éxito, debe saber qué se espera,que beneficio traeré, que restricciones tendremos, etc. Se deberá **contar con expertos en la materia**. **Planear el modelo y método de evaluación**. **Entender viabilidad e impascto**: a veces no es inmediato el impacto, pero deben ser tangibles apra que las personas qeu apuestan en el proyecto vayan veindo y confiando.
 
@@ -35,7 +35,7 @@ Del 100% de mis datos, voy a dividir: 70%/80% de los datos para entrenarlo y 30%
 ---
 ---
 
-## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 2
+# <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 2
 
 **INTELIGENCIA ARTIFICIAL** rama d ela informática, crear sistema capaces de **Realizar tareas que normalmente requieren inteligencia humana** (x ej: reconocimiento de voz, reconocimiento de patrones, toma de decisiones, etc).
 
@@ -178,8 +178,9 @@ Es la interfaz entre la computadora y la gente
 [Google Colab](https://colab.research.google.com/drive/1S4yY8x5joLhv9maaTuf7icLnbos0p9YE?usp=sharing)
 
 ---
+---
 
-## <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
+# <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/> CLASE 3
 
 ## ESTADÍSTICA DESCRIPTIVA
 
@@ -225,4 +226,8 @@ Es la interfaz entre la computadora y la gente
 5. documentar: lo que vamos encontrando, las decisiones tomadas, etc.
     
 ---
+---
 
+# <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/>  CLASE 4
+
+---
