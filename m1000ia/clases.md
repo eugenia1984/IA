@@ -211,6 +211,18 @@ Es la interfaz entre la computadora y la gente
 - **diagramas de caja / boxplot**: para comparar distribuciones entre difernetes grupos
 
  ![image](https://github.com/eugenia1984/IA/assets/72580574/9d6709a0-75f5-40f5-946e-5d2814d6b85b)
- 
+
+## EDA: Analisis exploratorio de datos
+
+1. conocer los datos
+
+2. limpiar los datos
+  
+3. gráficos adecuados a usar
+
+4. análisis iterativo: para garantizar la calidad de los datos 
+
+5. documentar: lo que vamos encontrando, las decisiones tomadas, etc.
+    
 ---
 
