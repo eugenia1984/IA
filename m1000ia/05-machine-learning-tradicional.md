@@ -181,7 +181,7 @@ El clustering busca dividir los datos en grupos que compartan características s
 
 Especialmente valioso en campos como la detección de anomalías, segmentación de mercado y organización de grandes volúmenes de datos como documentos o imágenes, donde las etiquetas pueden no estar disponibles o ser difíciles de obtener. Al aplicar técnicas de aprendizaje no supervisado, se pueden obtener insights significativos de los datos, lo que facilita decisiones más informadas basadas en la estructura de los datos. 
 
-### Agrupamiento Clustering
+### <img width="40" height="40" src="https://img.icons8.com/pieces/40/experimental-machine-learning-pieces.png" alt="machine learning"/>  Agrupamiento Clustering
 
 El clustering o agrupamiento es una técnica utilizada para dividir un conjunto de datos en grupos, de manera que los puntos de datos en el mismo grupo sean más similares entre sí que con los de otros grupos. Esta técnica es fundamental para identificar estructuras ocultas, patrones o categorías dentro de los datos sin la necesidad de etiquetas predefinidas.
 
@@ -189,8 +189,57 @@ Una aplicación común del clustering es en la segmentación de clientes para ma
 
 Existen varios algoritmos de clustering como K-means (que requiere determinar previamente el número de cluster), clustering jerárquico o DBSCAN (que no requieren una indicación directa del número de clusters)
 
+### Clustering K-Means
+
+El método de clustering K-Means es una técnica popular de aprendizaje no supervisado utilizada para dividir un conjunto de datos en K grupos distintos basados en similitudes entre los datos. Este algoritmo identifica K centroides, y cada punto en el conjunto de datos es asignado al centroide más cercano, basado en la distancia euclidiana, formando así K clusters.
+
+Elegir el número correcto de clusters (K) es fundamental para la eficacia del algoritmo y no hay una manera estándar de determinarlo, aunque métodos como el método del codo pueden proporcionar cierta orientación. Es sensible a los valores iniciales de los centroides y puede dar lugar a diferentes soluciones en diferentes ejecuciones. También tiende a funcionar
+mejor con clusters de formas esféricas y de tamaños similares.
+
+K-Means es ampliamente utilizado por su simplicidad y eficiencia en grandes conjuntos de datos, siendo una herramienta valiosa en muchos campos que requieren una segmentación rápida y efectiva, como en la segmentación de clientes, análisis de documentos o agrupación de imágenes.
+
+### Reducción de Dimensionalidad
+
+Utilizada en contextos donde los conjuntos de datos son grandes y complejos. Este proceso busca simplificar los datos reduciendo el número de variables observables, o dimensiones, sin perder información esencial.
+
+La reducción de dimensionalidad no solo ayuda a mejorar la eficiencia de los modelos, sino que también facilita la visualización y comprensión de datos. 
+
+Dos de las técnicas más utilizadas para la reducción de dimensionalidad son el Análisis de Componentes Principales (PCA) y el Análisis de Componentes Independientes (ICA).
+
+Al reducir la cantidad de ruido y la redundancia en los datos, estos métodos mejoran la precisión de los modelos y pueden descubrir estructuras subyacentes en los datos que de otra manera serían difíciles de identificar.
+
+Además, reducir la dimensionalidad puede ser esencial para evitar el fenómeno de la "maldición de la dimensionalidad", donde el aumento de las dimensiones puede hacer que los métodos de análisis de datos convencionales dejen de ser efectivos.
+
+### Principal Component Analysis (PCA)
+
+Técnica estadística poderosa utilizada para reducir la dimensionalidad de un conjunto de datos, mientras se preserva la mayor cantidad posible de su variabilidad.
+
+PCA transforma un conjunto de variables posiblemente correlacionadas en un conjunto de valores de variables no correlacionadas, llamadas componentes principales. Estos componentes son obtenidos de manera que el primero capture la mayor varianza posible de los datos, y cada componente sucesivo tenga la máxima varianza posible bajo la restricción de ser ortogonal a los anteriores.
+
+Ampliamente utilizado en exploración de datos, visualización, reducción de ruido, y como preprocesamiento para otros algoritmos de aprendizaje automático que se benefician de tener datos con dimensiones reducidas como la genómica y las finanzas.
+
+### Detección de Anomalías
+
+La detección de anomalías implica identificar patrones o observaciones inusuales que difieren significativamente del comportamiento esperado.
+
+Estas anomalías pueden indicar errores, eventos inusuales o problemas potenciales, como fraudes en transacciones bancarias, fallos en máquinas o actividades sospechosas en redes de datos.
+
+Existen varias técnicas para la detección de anomalías, dependiendo de la naturaleza de los datos y el contexto específico yendo desde métodos estadísticos tradicionales hasta más complejos como el aislamiento de bosques (Isolation Forest) y el análisis de componentes principales (PCA), que son efectivos en conjuntos de datos multidimensionales y no requieren una distribución normal de los datos.
+
+La selección de la técnica adecuada de detección de anomalías depende de varios factores, incluyendo la disponibilidad y tipo de datos, la necesidad de modelos en tiempo real, y la tolerancia al error en la detección.
+
+### Imputación de Valores Faltantes
+
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/pieces/40/experimental-machine-learning-pieces.png" alt="machine learning"/> 
+
+Parte del preprocesamiento de datos para asegurar que los análisis y los modelos se basan en conjuntos de datos completos. Los valores faltantes pueden surgir por diversas razones, como errores en la entrada de datos, pérdida de datos durante la transferencia, o simplemente porque cierta información no estaba disponible. La imputación busca estimar estos valores faltantes utilizando diversas técnicas para permitir un análisis completo y efectivo.
+
+Una técnica simple rápida y efectiva es la imputación por la media o la mediana, donde los valores faltantes en una columna se reemplazan por la media o la mediana de los datos disponibles en esa columna. Otro método es la imputación por moda, especialmente útil para variables categóricas.
+
+Métodos más robustos que tienen en cuenta las correlación incluyen la imputación múltiple y la imputación basada en modelos, como k-vecinos más cercanos (K-NN), donde los valores faltantes se estiman a partir de las características de los registros más similares en el conjunto de datos.
+
+La elección del método de imputación puede tener un impacto significativo en los resultados del análisis.
 
 ---
