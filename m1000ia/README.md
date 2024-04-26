@@ -18,6 +18,8 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 3. [Fundamentos IA](https://github.com/eugenia1984/IA/blob/main/m1000ia/03-fundamentos-ia.md)
 
 4. [Exploración y Visualización de datos](https://github.com/eugenia1984/IA/blob/main/m1000ia/04-exploracion-y-visualizacion-datos.md)   
+
+5. [Mahine learning tradicional](https://github.com/eugenia1984/IA/blob/main/m1000ia/05-machine-learning-tradicional.md)
    
 [Clases](https://github.com/eugenia1984/IA/blob/main/m1000ia/clases.md)
 
@@ -29,8 +31,8 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 | ----- | ----- | ---- | -------------------- |
 | 1 | 11 Abril |  [Presentación](https://github.com/eugenia1984/IA/blob/main/m1000ia/01-presentacion-del-curso.md): [Ciclo de desarrollo de proyecto de IA](https://github.com/eugenia1984/IA/blob/main/m1000ia/02-ciclo-desarrollo-de-proyectos-IA.md) | - |
 | 2 | 18 Abril | [Fundamentos de IA](https://github.com/eugenia1984/IA/blob/main/m1000ia/03-fundamentos-ia.md) / Python | Definición del problema (1ra iteración) |
-| 3 | 25 Abril | Exploración y visualización de datos | Definición del problema (2da iteración) |
-| 4 | 2 Mayo |  Machine Learning Tradicional | Recolección de datos |
+| 3 | 25 Abril | [Exploración y visualización de datos]((https://github.com/eugenia1984/IA/blob/main/m1000ia/04-exploracion-y-visualizacion-datos.md)) | Definición del problema (2da iteración) |
+| 4 | 2 Mayo |  [Machine Learning Tradicional]((https://github.com/eugenia1984/IA/blob/main/m1000ia/05-machine-learning-tradicional.md)) | Recolección de datos |
 | 5 | 9 Mayo | Introduccion a Deep Learning | Exploración de datos (1ra iteración) |
 | 6 | 16 Mayo | Ética en IA / Exposición avance proyecto | Exposición de avances |
 | 7 | 23 Mayo | Introducción a Computer Vision |  Modelado |
