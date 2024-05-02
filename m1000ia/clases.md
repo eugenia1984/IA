@@ -230,4 +230,18 @@ Es la interfaz entre la computadora y la gente
 
 # <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/>  CLASE 4
 
+### Aprendizaje Supervisado Clasificaicón
+
+Para asignar categorías discretas a las observaciones basánose en sus caracterísitcas
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/f521bd4d-b2e6-4a84-9ed8-0a3bc211fc5e)
+
+### Métricas de evaluación - clasificación
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/6128319a-f2db-4e1c-874a-849a2f8d115f)
+
+
 ---
+---
+
+# <img width="30" height="30" src="https://img.icons8.com/office/30/artificial-intelligence.png" alt="artificial-intelligence"/>  CLASE 5
