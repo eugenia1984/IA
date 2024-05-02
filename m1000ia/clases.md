@@ -247,6 +247,11 @@ Para asignar categorías discretas a las observaciones basánose en sus caracter
 
 ![image](https://github.com/eugenia1984/IA/assets/72580574/541a7a00-c900-43fb-96a2-4eab1c30db22)
 
+### Cross Validation
+
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/c3cacad3-6515-479f-8e4c-352aef050a5e)
+
 ---
 ---
 
