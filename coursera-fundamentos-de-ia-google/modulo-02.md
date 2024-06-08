@@ -37,3 +37,13 @@ Los generadores de texto incluso sirven para traducir tu contenido a varios idio
 Y ¿por qué detenerse en las imágenes? Un generador de audio y video puede ayudarte a crear videos promocionales y otros tipos de proyectos multimedia que exhiban los productos y servicios de tu empresa. Por último, para dar vida al sitio web, puedes utilizar un generador de código para tareas como garantizar que el sitio web se cargue correctamente en computadoras de escritorio, tabletas y dispositivos móviles. Hay infinitas maneras de utilizar estos tipos de herramientas de IA generativa para aumentar la productividad, ya sea generando texto, imágenes, audio, video o código. Ahora que sabes más sobre las posibles aplicaciones de IA generativa, piensa en todo lo que puedes lograr con estas herramientas,
 
 ---
+
+## Tris: Mis formas favoritas de utilizar la IA
+
+Soy Tris. Soy director de Gestión de Productos en Google DeepMind. Eso significa que trabajo en Investigaciones de punta de IA. 
+
+DeepMind es el equipo que tiene como misión revolucionar con computadoras todo lo que sea posible y hacerlo de forma responsable. 
+
+Todos los días vengo a trabajar y trato de averiguar qué es lo que podemos hacer para que la IA y nuestra investigación sean un poco mejores, para organizarnos mejor, hacer que nuestro equipo esté más unido, asegurarnos de ofrecer mejor los productos. Creo que trabajar en IA en este momento es parecido a la época del Renacimiento. Vemos cómo se desarrolla la ciencia y transforma totalmente lo que es posible para la humanidad. Personalmente, creo que la IA será el invento más importante de nuestras vidas. Yo uso la IA todo el tiempo en mi trabajo para buscar nuevas ideas, trabajar junto a mis colegas, cambiar la forma en que pienso y poner a prueba lo que hago. Hace poco, una de las consultoras más grandes de Estados Unidos publicó un estudio sobre el uso de la IA generativa para mejorar la productividad de su personal, y se descubrió que mejoraba la eficiencia, calidad y precisión de las personas. En mi trabajo descubrí lo mismo. Es un proceso creativo, asombroso e iterativo que te puede mejorar la vida. También la uso en mi vida personal. Quizás piensas: “A mi esposa le encanta los perros, cocinar, la naturaleza y la música, especialmente el folclore”. Y te preguntas: “¿Cuál sería una buena idea para su fiesta de cumpleaños?”. Y puedes hacer preguntas de seguimiento y encontrar ideas muy interesantes que honestamente nunca se te habrían ocurrido. Atrévete. Experimenta. Esto es algo que se puede aprender. Tú puedes lograrlo. Cualquiera puede. ¿Verdad? Mis hijos usan herramientas de IA generativa con eficacia, y responden preguntas y exploran temas interesantes. Yo sé que cualquiera que haga este curso también puede.
+
+---
