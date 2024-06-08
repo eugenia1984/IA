@@ -262,3 +262,25 @@ Teniendo en cuenta las limitaciones de la IA, **es crucial que un ser humano sup
 Para gestionar la IA de manera eficaz en el trabajo, es necesario que personas con cargos técnicos y no técnicos colaboren para garantizar que los resultados de la IA y los procesos de toma de decisiones estén alineados con valores que beneficien a las personas. En última instancia, la clave es un enfoque integrador que aplique la supervisión humana a estas herramientas para dar forma a
 
 ---
+
+## Vint: Utiliza la IA para generar un cambio positivo
+
+Hola, soy Vint, vicepresidente y director evangelista de Internet en Google. 
+
+Algunos me consideran famoso. Yo no, yo me considero afortunado. 
+
+Tuve la suerte de ser una de las personas que comenzó con el diseño de Internet en 1973. Y desde entonces, toda mi carrera ha estado muy relacionada con Internet y su evolución. 
+
+La gente me pregunta: ¿qué es un director evangelista de Internet y por qué Internet necesita un evangelista? 
+
+La respuesta es que solo unos dos tercios de la población mundial están en línea y pueden acceder a todos los tesoros y la riqueza de Internet. 
+
+Por eso, el director evangelista de Internet sigue recorriendo el mundo, animando a la gente a expandir la Internet para que todo el mundo tenga acceso. 
+
+He estado en contacto con la IA durante casi toda su existencia, porque la noción de inteligencia artificial se remonta a los años sesenta. 
+
+Hablemos un poco sobre cómo se puede usar la IA en situaciones de crisis como incendios forestales y cosas así. En nueve países diferentes, se usan los servicios de Google, las alertas de SOS, para detectar y enviar alertas geográficas de incendios forestales. Estamos empezando a ver datos en bruto que se envían a los algoritmos de inteligencia artificial para ayudarnos a anticipar lo que hará un incendio. Eso mejorará la respuesta ante incendios forestales y sin duda ayudará a que la gente salga de los edificios si es que efectivamente están en peligro. Otro ejemplo proviene de otra de nuestras organizaciones, DeepMind, que entrenó un sistema de aprendizaje automático para aprender a plegar proteínas que se generan en la interpretación del ADN. El motivo por el que eso es tan importante es que esas moléculas podrían resultar la clave para resolver diversos tipos de enfermedades genéticas. Esas son cosas que me emocionan mucho. La educación en materia de IA no se trata de los detalles rigurosos. No se trata del funcionamiento exacto. No todo el mundo necesita saber cómo está construido un auto para utilizarlo. Queremos que la gente tenga conciencia tanto del poder como de los peligros de la inteligencia artificial. Creo que, a largo plazo, a medida que aprendamos a utilizar estas técnicas cada vez mejor y de forma más confiable, tendrá un impacto radical en casi todos los aspectos de la vida. Mejorará nuestra capacidad de investigar. Cada estudiante incluso podría tener su propio tutor personal. Los creativos que intentan crear textos, películas, videos e imágenes tendrán una paleta y una herramienta que les darán muchas más posibilidades que un pincel para inventar y crear. Entonces, así como Internet terminó por ser una plataforma inmensa para la creatividad y la innovación, creo que el mundo de la IA tendrá un efecto similar.
+
+​
+---
+
