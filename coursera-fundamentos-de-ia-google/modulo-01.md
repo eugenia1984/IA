@@ -306,6 +306,24 @@ Por ejemplo, digamos que un profesional de relaciones públicas quiere usar la I
 
 ---
 
-##
+## Aleck: Facilita las tareas cotidianas con la IA
+
+Hola, me llamo Aleck y soy gerente de programas de ingeniería aquí en Google. Estoy en el equipo de gestión del conocimiento central. El objetivo de ese departamento es **garantizar que los conocimientos no resulten obsoletos y, en particular, que los Googlers no lean documentos o trabajen con herramientas desactualizadas**. Queremos **asegurar que la información a la que acceden sea actual, esté al día y refleje de verdad lo que ocurre a nivel interno**. 
+
+Sin dudas mi trayectoria no es tradicional. Estudié arquitectura en la universidad. Trabajé en ese campo unos cinco años. Creo que la arquitectura me ayudó a mejorar en la tarea de establecer marcos y aplicarlos. Eso es algo que puedo usar ahora en mi trabajo como gerente de programas en Google para asegurarme de que las cosas estén configuradas adecuadamente. 
+
+La IA también sirve mucho para eso. Me ayuda a analizar diferentes cosas para garantizar que los proyectos funcionen. 
+
+La primera vez que usé IA fue para comprender mejor la IA. Utilicé la IA para aprender sobre la IA y también le pedí a la IA que me recomendara material para leer. Me resultó muy útil. 
+
+El consejo que le daría a la gente que quiere utilizar herramientas de IA por primera vez es que se animen a usarlas para algo pequeño. Después, a partir de eso, anímense a más. Busquen una tarea que les resulte difícil, quizás algo estresante o algo que no tengan ganas de hacer, y vean cómo pueden usar la IA para su provecho. 
+
+Un ejemplo del uso que les doy a las herramientas de IA para hacer mi vida más fácil, especialmente en el trabajo, es comenzar un documento. Eso es lo más difícil para mí. Partir de la plantilla, crear secciones y títulos específicos. Para eso la IA me resulta muy útil y ventajosa.
+
+Además, me ayuda a crear un documento más conciso. Utilizo la IA para que mi trabajo sea más eficiente, ya sea para tomar notas, resumir correos electrónicos, organizar correos electrónicos, proporcionar los puntos clave de un documento, planificar la semana. 
+
+En todas las reuniones, creo transcripciones de lo que se dice y luego utilizo la IA para que me ayude a crear elementos de acción inmediatos, resuma la reunión y me proporcione las conclusiones clave de la reunión. Me ahorra de una hora a una hora y media de tiempo.
+
+Y cuando las cosas son eficientes y funcionan bien, el trabajo resulta más fácil y más satisfactorio. Eso es algo asombroso y algo realmente muy poderoso.
 
 ---
