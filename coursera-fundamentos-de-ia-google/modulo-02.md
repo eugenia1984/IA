@@ -44,6 +44,41 @@ Soy Tris. Soy director de Gestión de Productos en Google DeepMind. Eso signific
 
 DeepMind es el equipo que tiene como misión revolucionar con computadoras todo lo que sea posible y hacerlo de forma responsable. 
 
-Todos los días vengo a trabajar y trato de averiguar qué es lo que podemos hacer para que la IA y nuestra investigación sean un poco mejores, para organizarnos mejor, hacer que nuestro equipo esté más unido, asegurarnos de ofrecer mejor los productos. Creo que trabajar en IA en este momento es parecido a la época del Renacimiento. Vemos cómo se desarrolla la ciencia y transforma totalmente lo que es posible para la humanidad. Personalmente, creo que la IA será el invento más importante de nuestras vidas. Yo uso la IA todo el tiempo en mi trabajo para buscar nuevas ideas, trabajar junto a mis colegas, cambiar la forma en que pienso y poner a prueba lo que hago. Hace poco, una de las consultoras más grandes de Estados Unidos publicó un estudio sobre el uso de la IA generativa para mejorar la productividad de su personal, y se descubrió que mejoraba la eficiencia, calidad y precisión de las personas. En mi trabajo descubrí lo mismo. Es un proceso creativo, asombroso e iterativo que te puede mejorar la vida. También la uso en mi vida personal. Quizás piensas: “A mi esposa le encanta los perros, cocinar, la naturaleza y la música, especialmente el folclore”. Y te preguntas: “¿Cuál sería una buena idea para su fiesta de cumpleaños?”. Y puedes hacer preguntas de seguimiento y encontrar ideas muy interesantes que honestamente nunca se te habrían ocurrido. Atrévete. Experimenta. Esto es algo que se puede aprender. Tú puedes lograrlo. Cualquiera puede. ¿Verdad? Mis hijos usan herramientas de IA generativa con eficacia, y responden preguntas y exploran temas interesantes. Yo sé que cualquiera que haga este curso también puede.
+Todos los días vengo a trabajar y trato de averiguar qué es lo que podemos hacer para que la IA y nuestra investigación sean un poco mejores, para organizarnos mejor, hacer que nuestro equipo esté más unido, asegurarnos de ofrecer mejor los productos. 
+
+Creo que trabajar en IA en este momento es parecido a la época del Renacimiento. Vemos cómo se desarrolla la ciencia y transforma totalmente lo que es posible para la humanidad. 
+
+Personalmente, creo que la IA será el invento más importante de nuestras vidas. 
+
+Yo uso la IA todo el tiempo en mi trabajo para buscar nuevas ideas, trabajar junto a mis colegas, cambiar la forma en que pienso y poner a prueba lo que hago. 
+
+Hace poco, una de las consultoras más grandes de Estados Unidos publicó un estudio sobre el uso de la IA generativa para mejorar la productividad de su personal, y se descubrió que mejoraba la eficiencia, calidad y precisión de las personas. En mi trabajo descubrí lo mismo. Es un proceso creativo, asombroso e iterativo que te puede mejorar la vida. 
+
+También la uso en mi vida personal. Quizás piensas: “A mi esposa le encanta los perros, cocinar, la naturaleza y la música, especialmente el folclore”. Y te preguntas: “¿Cuál sería una buena idea para su fiesta de cumpleaños?”. Y puedes hacer preguntas de seguimiento y encontrar ideas muy interesantes que honestamente nunca se te habrían ocurrido. Atrévete. Experimenta. Esto es algo que se puede aprender. Tú puedes lograrlo. Cualquiera puede. ¿Verdad? 
+
+Mis hijos usan herramientas de IA generativa con eficacia, y responden preguntas y exploran temas interesantes. Yo sé que cualquiera que haga este curso también puede.
+
+---
+
+##  Entiende cómo funcionan las herramientas de IA
+
+Existen todo tipo de maneras de aprovechar las herramientas de IA, y muchas de ellas están a tu disposición.
+
+Exploremos las diferentes formas en que las herramientas de IA pueden integrarse a tu rutina de trabajo y cómo pueden agilizar tus flujos de trabajo. 
+
+Como recordarás, **una herramienta de IA es un software basado en IA capaz de automatizar tareas o ayudar a los usuarios a realizarlas**. En tu puesto, quizás te cruces con herramientas de IA generativa de diferentes maneras: como herramientas de IA independientes, como funciones de IA integradas o soluciones personalizadas. Una **herramienta de IA independiente** es **un software basado en IA que está diseñado para usarse solo**. Las herramientas de IA independientes se pueden usar en línea o se pueden descargar a un dispositivo con poca o nula configuración técnica. Por ejemplo, **Speeko es un entrenador de oratoria con IA diseñado para ayudarte a comunicarte con confianza**. Speeko utiliza IA para analizar tu voz y hacerte comentarios sobre cómo mejorar tus destrezas de comunicación en cualquier entorno, ya sea que te estés preparando para reuniones en línea o para presentaciones en persona. Supón que te estás preparando para una entrevista de trabajo y quieres practicar cómo responder preguntas frecuentes de entrevista. Con Speeko, puedes grabarte mientras respondes esas preguntas, y la herramienta te hará comentarios sobre aspectos como la claridad, el ritmo y la elección de las palabras. Así, te ayudará a comunicarte más eficazmente en la entrevista en cuestión. Speeko también te ofrece ejercicios personalizados para ayudarte a mejorar tus destrezas. 
+
+Pongamos otro ejemplo. Digamos que quieres crear una imagen para un proyecto de diseño utilizando una aplicación de escritorio que ya tienes. En lugar de buscar un generador de imágenes independiente, la aplicación de escritorio podría tener una función de IA integrada para ayudarte a hacer ese trabajo. **Una función de IA integrada alude a una mejora incorporada a un determinado software informático**. Por ejemplo, **Neural Filters** es **una herramienta de IA integrada a Adobe Photoshop**. Te permite editar imágenes difuminando fondos, ajustando los colores, cambiando las expresiones faciales y mucho más. 
+
+Las herramientas independientes y las funciones integradas son dos formatos habituales en que se usa la IA, pero las soluciones de IA personalizadas también son una opción. 
+
+**Una solución de IA personalizada es una aplicación hecha a medida para resolver un problema concreto**. Por ejemplo, en 2022, **el Hospital Johns Hopkins implementó una solución de IA para ayudar a los médicos a detectar la septicemia, una afección que consiste en que el cuerpo tiene una respuesta extrema a una infección**. Esa solución de IA **permitió a los médicos diagnosticar y tratar a los pacientes hasta seis horas antes que sin la IA**. Eso condujo a mejores resultados para los pacientes. 
+
+Puede ser gratificante construir modelos de IA como ese, pero suelen requerir recursos dedicados y que la organización apoye su desarrollo. 
+
+En este curso, nos concentraremos principalmente en herramientas de IA generativa independientes porque es fácil acceder a ellas, a menudo de manera gratuita, y pueden acoplarse fácilmente a tu flujo de trabajo. 
+
+Antes de utilizar herramientas de IA, es útil entender las tecnologías sobre las que se basan: los modelos de IA. **Un modelo de IA es un programa informático entrenado con un conjunto de datos para reconocer patrones y realizar tareas específicas**. Piensa en el modelo de IA como si fuera un motor y en la herramienta de IA como si fuera el auto. El modelo proporciona la capacidad subyacente, mientras que la interfaz de la herramienta te ayuda a realizar las tareas. Ya sea que en el trabajo uses una herramienta independiente, una función integrada o una solución personalizada, recuerda que una herramienta de IA depende de un modelo de IA. A continuación, exploraremos cómo utilizar eficazmente herramientas de IA para abordar diversas tareas y aumentar tu productividad.
+
 
 ---
