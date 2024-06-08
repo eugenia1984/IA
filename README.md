@@ -15,6 +15,8 @@ Curso: **Tecnólogas sin experiencia en IA**: Mujeres con algún tipo de formaci
 
 2. [**Element of AI**](https://github.com/eugenia1984/IA/tree/main/element-of-ai): curo de la Universidad de Helskinski de Inteligencia artificial
 
+3. [**Coursera: Fundamentos de IA Google2024**](https://github.com/eugenia1984/IA/tree/main/coursera-fundamentos-de-ia-google): curso de Google sobre IA
+
 ---
 
 ## Please: 🎁
