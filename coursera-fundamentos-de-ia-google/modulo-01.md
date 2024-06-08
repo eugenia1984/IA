@@ -162,3 +162,35 @@ Por ejemplo, la herramienta de IA utilizada para clasificar manzanas maduras pod
 **Cuando se utiliza correctamente, el ML juega un papel clave para impulsar la IA hacia el futuro. Es realmente una técnica increíble y sofisticada con aplicaciones infinitas**.
 
 ---
+
+## Fundamentos de la IA generativa
+
+Los avances en la tecnología de IA están cambiando cómo trabajamos. 
+
+Veamos una de las principales novedades que es central para esta transformación: **la IA generativa**. 
+
+Como su nombre indica, la IA generativa **es la IA capaz de generar contenido nuevo, como texto e imágenes, entre otros**. Una cualidad única de las herramientas de IA generativa es que **se pueden utilizar con lenguaje natural**. El lenguaje natural se refiere a la forma en que las personas hablan o escriben cuando se comunican con los demás. 
+
+Daré una descripción simplificada de cómo funciona una herramienta de IA generativa con lenguaje natural. En primer lugar, **aportas una entrada**. Es decir, cualquier información o dato que se envía a una computadora para su procesamiento. Muchas herramientas de IA generativa aceptan entradas de texto y voz, y algunas también aceptan imágenes o videos. 
+
+Luego, **la herramienta de IA procesa los datos**. 
+
+A continuación, **se genera un resultado en formato de texto, imagen, audio o video**. 
+
+La IA generativa y la capacidad de interactuar con las computadoras utilizando el lenguaje natural abrió un mundo de posibilidades en cuanto a lo que la gente puede crear con IA. 
+
+Por ejemplo, digamos que tienes que comercializar un negocio nuevo. Necesitas contenido original y atractivo, como un cartel publicitario, para anunciar un producto nuevo, pero no tienes un equipo creativo para dar vida a tus ideas. No hay por qué estresarse. Con algunas indicaciones, la IA generativa puede ayudarte a crear un cartel. Si el contenido generado no cumple tus expectativas, puedes seguir dándole instrucciones hasta que produzca algo que satisfaga sus necesidades. Este es solo un ejemplo de cómo la IA generativa puede complementar tus habilidades, pero hay muchas otras formas en que puede beneficiarte a ti y a tu trabajo. 
+
+Por ejemplo, la IA generativa puede aumentar tu productividad ayudándote con tareas como redactar respuestas a correos electrónicos. Ayuda a evitar errores y puede mejorar tu proceso de toma de decisiones respondiendo a preguntas y haciendo lluvias de ideas. 
+
+Tanto si trabajas en salud, educación, finanzas, comercio o cualquier otro campo, hay una gran variedad de herramientas de IA generativa idóneas para satisfacer tus necesidades. 
+
+Un ejemplo sería **una herramienta de IA conversacional**. Se trata de **una herramienta de IA generativa que procesa solicitudes de texto y genera respuestas de texto**. Puedes utilizarla para generar ideas, responder preguntas y aumentar tu productividad. 
+
+A lo largo de este curso, ganarás experiencia práctica con una herramienta de IA conversacional de Google llamada **Gemini**. Puedes usar Gemini como fuente de inspiración creativa cuando sientas que te atascaste, para desarrollar tus ideas y para dar explicaciones detalladas que te ayudarán a explorar temas con facilidad. 
+
+Por ejemplo, pidamos a Gemini que elabore una lista de actividades para unir al equipo en nuestro retiro de trabajo de verano. La herramienta de IA responde con una amplia variedad de ideas, desde una divertida fiesta en la playa hasta una relajada clase de cerámica. Además, Gemini arroja algunos consejos para tener en cuenta al planificar un buen retiro de trabajo. 
+
+La IA generativa ha allanado el camino hacia nuevos y apasionantes horizontes, pero antes de que podamos aprovechar lo que ofrece esa tecnología, es esencial que investiguemos el potencial y las limitaciones de la IA en su conjunto. Pasa a la siguiente parte de esta lección para empezar.
+
+---
