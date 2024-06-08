@@ -284,3 +284,28 @@ Hablemos un poco sobre cómo se puede usar la IA en situaciones de crisis como i
 ​
 ---
 
+# AI PARA PROFESIONALES
+
+## Utiliza la IA como herramienta colaborativa
+
+¿Alguna vez te preguntaste cómo convertir tu ajetreada jornada laboral en un trámite ordenado? Consideremos las increíbles formas en que la IA puede mejorar tus procesos cotidianos. 
+
+Cuando usamos la IA en el trabajo, es esencial adoptar una estrategia que dé precedencia a las personas. La IA potencia nuestras habilidades humanas distintivas y simplifica muchas de las tareas que realizamos. Básicamente, la IA aumenta nuestras propias capacidades. 
+
+En este contexto, el aumento con IA se refiere al proceso de utilizar la IA para mejorar un producto del trabajo, ya sea simplificando su realización o aumentando su calidad. 
+
+Por ejemplo, piensa en tu trabajo o en un trabajo que hayas tenido en el pasado. Como el mío, tu trabajo probablemente consista en diversas tareas y responsabilidades. Algunas de las tareas quizás sean sencillas, como escribir correos electrónicos para responder preguntas de rutina. Otras tareas quizás sean más complejas, como crear lluvias de ideas con colegas. **La IA puede ayudarte con muchas de estas cosas aumentando el trabajo que haces y ayudándote a completar las tareas con rapidez y eficacia**. Otra forma en que la IA puede ayudarte a hacer tu trabajo es **mediante la automatización**. La automatización con IA se refiere **al proceso de usar la IA de utilizar la IA para realizar tareas sin ninguna acción por parte del usuario**. Por ejemplo, digamos que un representante de atención al cliente por día recibe centenares de correos electrónicos de clientes que piden ayuda. Quizás pase mucho tiempo leyendo cada correo electrónico y escribiendo las respuestas una por una. Si usara una herramienta de IA, podría ordenar los correos que le llegan por prioridad. Para los correos electrónicos de prioridad baja, podría redactar las respuestas con IA. Con la ayuda de otros representantes de atención al cliente o datos de entrenamiento que contengan respuestas anteriores, la IA podría aprender rápidamente a generar respuestas de calidad para correos electrónicos. Al automatizar esta tarea, el representante podría dedicarse a los mensajes de alta prioridad, como los que informan sobre problemas complejos que requieren atención personal. 
+
+Encontrar el equilibrio entre el aumento y la automatización requiere tiempo, práctica y una seria deliberación. 
+
+Las empresas exitosas se diferencian del resto porque su enfoque da prioridad a las personas cuando usan la IA en sus productos, servicios y trabajos. **Piensa en la IA como un espacio de trabajo colaborativo que prospera con la diversidad de perspectivas**. 
+
+Por ejemplo, digamos que un profesional de relaciones públicas quiere usar la IA como ayuda para crear comunicados de prensa. Para asegurarse de que obtendrá un resultado óptimo, debe garantizar que un ser humano supervise la herramienta de IA. Pero eso no es todo. También es esencial que colabore con otros miembros de su equipo, como gerentes que coordinen los recursos del proyecto, miembros del equipo editorial que garanticen que los comunicados representen la voz de la marca, y con el departamento jurídico para garantizar el cumplimiento de las normas y regulaciones pertinentes. **Todo el mundo tiene que cooperar para que la IA se integre bien y garantizar que el resultado generado por la herramienta cumpla las expectativas**. 
+
+**La integración de la IA en el trabajo debe ser un proceso inclusivo**. Requiere perspectivas diversas de personas de diferentes cargos y departamentos para lograr los mejores resultados. Es fundamental aprender y adaptarse a medida que se introduce la IA en el trabajo. Si le dedicas tiempo a comprender la IA y cómo puede ser de provecho en tu trabajo, estarás contribuyendo al debate.
+
+---
+
+##
+
+---
