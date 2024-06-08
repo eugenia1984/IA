@@ -120,3 +120,22 @@ Mientras continúas tu recorrido por el mundo de la IA, considera lo siguiente:
 
 ---
 ​
+## Maya: El apasionante mundo de la IA
+
+Soy Maya, y soy la vicepresidenta de Estrategia y Operaciones en Google Research. 
+
+Día a día, Google Research intenta averiguar cuáles son las cosas que pueden transformar la sociedad y nuestro negocio el día de hoy, mañana y en el futuro. 
+
+Empezamos por preguntarnos: 
+
+-¿qué es imposible en la mente de la gente? 
+
+-¿Cuáles son los problemas que hay que resolver y cómo podemos aplicar nuestra pericia a esos problemas para ofrecer una solución que nos beneficie a todos como personas, pero también a nuestro negocio? 
+
+Hay una tecnología que en Google Research nos da mucho orgullo en este momento. 
+
+Desarrollamos muchas con IA en el pasado. Pero esta está relacionada con las **estelas de condensación**. Es lo que se ve en el cielo a veces, una estela blanca detrás de los aviones. Utilizamos la IA para intentar comprender cómo aliviar ese problema porque tiene un impacto climático muy negativo. La mayoría de las tecnologías actuales tienen un componente de IA o una adyacencia a la IA. Confío en que las herramientas de IA tendrán un gran impacto positivo en nosotros como personas. 
+
+Creo que estamos apenas comenzando este recorrido. La IA es una herramienta que considero potente para alcanzar el propósito de mi vida. Es decir, mitigar el sufrimiento y ayudarnos a progresar como individuos hacia un lugar mejor. Tener una sociedad mejor y un mundo mejor. No es algo inaccesible ni algo que deba intimidar a la gente. Hay lugar para todos en esta travesía.
+
+---
