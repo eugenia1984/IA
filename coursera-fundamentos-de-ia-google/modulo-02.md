@@ -80,5 +80,75 @@ En este curso, nos concentraremos principalmente en herramientas de IA generativ
 
 Antes de utilizar herramientas de IA, es útil entender las tecnologías sobre las que se basan: los modelos de IA. **Un modelo de IA es un programa informático entrenado con un conjunto de datos para reconocer patrones y realizar tareas específicas**. Piensa en el modelo de IA como si fuera un motor y en la herramienta de IA como si fuera el auto. El modelo proporciona la capacidad subyacente, mientras que la interfaz de la herramienta te ayuda a realizar las tareas. Ya sea que en el trabajo uses una herramienta independiente, una función integrada o una solución personalizada, recuerda que una herramienta de IA depende de un modelo de IA. A continuación, exploraremos cómo utilizar eficazmente herramientas de IA para abordar diversas tareas y aumentar tu productividad.
 
+---
+
+## :book: Modelos de IA y el proceso de entrenamiento 
+
+Ya hemos visto que las herramientas de IA funcionan sobre la base de modelos de IA. Esta lectura te permitirá comprender mejor cómo se desarrollan los modelos de IA. Descubrirás el proceso iterativo que utilizan los diseñadores e ingenieros de IA para entrenar modelos de IA a partir de datos y así garantizar que las herramientas de IA funcionen de forma confiable. Aprender más sobre el funcionamiento interno de las herramientas de IA te ayudará a hablar sobre ellas con mayor precisión y confianza.
+
+
+### Herramientas y modelos de IA
+
+Términos como herramientas de IA y modelos de IA pueden resultar confusos porque suenan parecido, pero se refieren a cosas diferentes. Recuerda que una herramienta de IA es un software con IA capaz de automatizar diversas tareas o ayudar a los usuarios a realizarlas. Un modelo de IA es un programa informático entrenado a partir de conjuntos de datos para reconocer patrones y realizar tareas específicas.
+
+Para entender mejor la relación entre estos dos conceptos, pensemos en un auto y su motor.
+
+A car as a metaphor, where an AI tool is the car and an AI model is the engine
+
+- El auto: una herramienta de IA, como un auto, te lleva a un “destino”, como una tarea realizada o un resultado. Los diseñadores e ingenieros de IA, al igual que los ingenieros automotrices, agregan diversas características y controles a las herramientas de IA para que sean fáciles de usar.
+
+- El motor: un modelo de IA es el componente subyacente que hace funcionar al “auto”. Se podría decir que está bajo el capó, procesando las entradas del usuario y permitiéndole conducir el auto.
+
+Hay autos de distintas formas y tamaños, y la gente elige el vehículo que conduce en función de sus necesidades, como un camión para transportar materiales o un autobús para transportar pasajeros. Del mismo modo, las herramientas de IA se desarrollan para una amplia variedad de aplicaciones, como la generación de texto, imágenes o código. Sea cual sea la función específica de la herramienta, se basa en un modelo de IA.
+
+Nota: Las herramientas de IA a veces utilizan varios modelos de IA para ser más flexibles y realizar más tareas. Explorarás esa clase de herramientas más adelante en este curso.
+
+### El proceso de entrenar modelos de IA
+
+Los diseñadores e ingenieros de IA desarrollan modelos de IA mediante un proceso llamado entrenamiento. A continuación, presentamos un ejemplo de los pasos que suele seguir un diseñador en ese proceso. En el ejemplo, el objetivo es construir un modelo que prediga las precipitaciones:
+
+1. **Definir el problema que se quiere resolver**: Los diseñadores e ingenieros de IA quieren predecir la lluvia para ayudar a que las personas no se mojen cuando van y vuelven de trabajar. Empiezan por considerar las capacidades y limitaciones de la IA antes de identificar una solución de IA.
+
+2. **Recopilar los datos pertinentes para entrenar el modelo**: Los diseñadores e ingenieros de IA recopilan datos históricos de los días en que llovió y no llovió en los últimos 50 años.
+
+3. **Preparar los datos para el entrenamiento**: Los diseñadores e ingenieros de IA preparan los datos mediante el etiquetado de las características importantes, como la temperatura, la humedad y la presión atmosférica. Luego, indican si llovió o no. También es habitual separar los datos en dos conjuntos distintos: un conjunto de entrenamiento y un conjunto de validación con el cual probar más adelante.
+
+4. **Entrenar al modelo**: Los diseñadores e ingenieros de IA aplican programas de aprendizaje automático (ML) a su modelo de predicción de lluvia, lo que les ayuda a reconocer patrones en sus datos de entrenamiento que indican la probabilidad de que llueva. Esos patrones podrían incluir altas temperaturas, baja presión atmosférica y alta humedad.
+
+5. **Evaluar el modelo**: Los diseñadores e ingenieros de IA utilizan el conjunto de validación que prepararon antes para evaluar la capacidad que tiene su modelo de predecir las precipitaciones con precisión y fiabilidad. El análisis del desempeño de un modelo puede revelar posibles problemas que lo afecten, como datos de entrenamiento insuficientes o sesgados. Si surge algún problema, los diseñadores e ingenieros de IA pueden volver a un paso anterior de este proceso y probar un enfoque diferente. Una vez que el modelo funciona bien con el conjunto de validación, el proceso continúa al paso siguiente.
+
+6. **Implementar el modelo**: Cuando los diseñadores e ingenieros de IA están satisfechos con el desempeño del modelo, lo despliegan en una herramienta de IA. Así, ayudan a los habitantes de su ciudad a no mojarse cuando van al trabajo.
+
+El entrenamiento de los modelos es un proceso iterativo. Los diseñadores e ingenieros de IA pueden repetir cada paso todas las veces que haga falta y hacer ajustes hasta crear el mejor modelo posible. 
+
+Pero el proceso no termina con la implementación. Una vez que los usuarios interactúan con un modelo en situaciones concretas, el modelo puede verse expuesto a nuevos retos. Los diseñadores e ingenieros de IA deben hacer un seguimiento constante de sus modelos y recabar comentarios al respecto para garantizar que sigan funcionando de manera confiable e identificar áreas que deban mejorarse. Este proceso iterativo de perfeccionamiento continuo es el que hace que los modelos de IA sean precisos y versátiles, lo cual en última instancia conduce a herramientas de IA eficaces y confiables. Si entiendes cómo se desarrollan los modelos de IA, puedes tomar decisiones fundamentadas sobre cuándo y cómo utilizar una herramienta de IA para lograr tus objetivos.
+
+
+---
+---
+
+# Aumenta la productividad con la IA generativa
+
+## Transforma tu trabajo con la IA generativa
+
+Muchos trabajos requieren creatividad, resolución de problemas y lluvias de ideas. Eso puede constituir todo un reto o consumir mucho tiempo. 
+
+Imagina que te encargan elaborar un informe exhaustivo sobre las últimas tendencias del sector que influyen en tu empresa. Haces tu mejor esfuerzo, pero no sabes por dónde empezar y sientes que toda esa información te abruma. ¿Te pasó? A mí también, definitivamente. En situaciones como esas, las herramientas de IA generativa resultan increíblemente útiles. **Pueden ayudarte a realizar una investigación exploratoria, crear un esquema y sacar conclusiones a partir de la información que exploraste**. Ya analizamos distintos tipos de herramientas de IA generativa y lo capaces que son para ayudar con tareas como esa. Ahora, veamos cómo utilizar esas herramientas y aplicarlas para resolver problemas. 
+
+**Para usar una herramienta de IA generativa, tendrás que guiar a la herramienta con una instrucción**. Una instrucción es **una entrada de texto que proporciona indicaciones al modelo de IA sobre cómo generar resultados**. Las instrucciones son la forma que tienes de comunicarte con una herramienta de IA generativa. **Puedes editar y refinar las instrucciones todas las veces que sean necesarias para decirle a la herramienta exactamente lo que necesitas que haga**. 
+
+-Supongamos que eres un profesional de T Ta cargo de crear un manual para una nueva aplicación de software. Podrías pedirle a un generador de texto que redacte una guía paso a paso para instalar el nuevo software. 
+
+-Para las partes de tu trabajo que implican solucionar problemas, podrías pedirle a la herramienta de IA que identifique errores en un código y te ayude a resolver cualquier problema de programación. 
+
+-La misma herramienta de IA puede servir para resumir comentarios de usuarios sobre la aplicación de software. Así, podrás responder a esos comentarios eficazmente a la vez que garantizas que la aplicación sea fácil de usar. 
+
+-O digamos que estás empezando un negocio de venta de mochilas. Piensa en el tiempo que puedes ahorrar si le pides a una herramienta de IA generativa que enumere ideas creativas de nombres para una marca de mochilas rústicas. Luego, podrías usar la herramienta como ayuda para atraer inversores pidiéndole que elabore un plan de negocio integral centrado en la producción de mochilas. Y, cuando tu negocio crezca, podrías usar las mismas herramientas de IA generativa para elaborar una descripción laboral y buscar un jefe de ventas con experiencia en venta minorista en línea. 
+
+**Al usar la IA generativa de esa forma, se agilizan los procesos de lluvias de ideas y planificación**. Eso te permite concentrarte en hacer crecer tu negocio. Tanto si trabajas en comercio minorista, tecnología, fabricaciones, ventas o cualquier otro sector, **las herramientas de IA generativa pueden usarse para mejorar tus destrezas creativas de resolución de problemas y transformar la forma en que encaras tu trabajo**. 
+
+Ahora que exploramos algunas formas de utilizar herramientas de IA generativa, tómate un momento para pensar en tu propio trabajo y en el sector en el que trabajas. 
+
+¿Cómo usarías la IA generativa para ayudarte a realizar tareas con mayor rapidez y eficia?
 
 ---
