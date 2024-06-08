@@ -11,8 +11,9 @@
 - Reconoce la importancia de la supervisión humana cuando se utiliza la IA.
 
 ---
+---
 
-## Introducción a Fundamentos de IA de Google
+# INTRODUCCIÓN A FUNDAMENTOS DE IA DE GOOGLE
 
 Acompáñame a descubrir cómo la IA puede mejorar tu carrera y tu vida.
 
@@ -76,4 +77,24 @@ Cada uno de los cinco módulos del curso ofrece distintos tipos de contenido, in
 Cuando termines este curso, obtendrás un certificado de Google que podrás compartir en redes sociales o agregar a tu currículum.
 
 ---
+​
+## La IA y el futuro del trabajo
+
+
+En el vertiginoso mundo actual, la IA se está convirtiendo en una herramienta habitual para toda empresa. Lidiar con la aparición de la IA en el trabajo es parecido a conducir por una calle concurrida. Así como conocer las normas de tránsito puede permitirte conducir mejor y con mayor eficacia, entender los fundamentos de la IA puede ayudarte a llegar a tu destino de forma segura y evitar posibles obstáculos. 
+
+Para iniciar este recorrido por la IA, comencemos por examinar qué significa el término **“inteligencia artificial”**. En este contexto, **“inteligencia” se refiere a la capacidad humana de realizar tareas cognitivas**. Una tarea cognitiva es **cualquier actividad mental, como pensar, comprender, aprender y recordar**. Como seres humanos, tenemos capacidades cognitivas que **nos permiten tomar decisiones y resolver problemas**. Sin embargo, también hay límites en la cantidad de información que podemos procesar a la vez. **La IA es capaz de ampliar nuestra capacidad cognitiva porque nos ayuda a tomar mejores decisiones y resolver problemas más rápidamente**. Partiendo de esa base, el término “inteligencia artificial” se refiere a **programas informáticos capaces de completar tareas cognitivas típicamente asociadas con la inteligencia humana**. 
+
+En síntesis, **los programas de IA pueden ayudarnos con las tareas utilizando la matemática para aprender de los datos**. Como pronto descubrirás, la IA tiene el potencial de mejorar, en gran medida, la calidad de nuestra vida laboral y agilizar las operaciones comerciales. 
+
+Sin embargo, la IA no es una solución mágica para todo problema empresarial. Como con cualquier herramienta avanzada, la clave está en aprovechar las ventajas de la IA. Eso requiere una atenta reflexión y considerar las capacidades de la tecnología. 
+
+¿Te interesa descubrir cómo funciona la IA? 
+
+¿Quieres saber cómo la IA puede optimizar tu trabajo? 
+
+Entonces prepárate para explorar estas preguntas conmigo y Fundamentos de IA de Google.
+
+---
+
 ​
