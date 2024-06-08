@@ -194,3 +194,71 @@ Por ejemplo, pidamos a Gemini que elabore una lista de actividades para unir al 
 La IA generativa ha allanado el camino hacia nuevos y apasionantes horizontes, pero antes de que podamos aprovechar lo que ofrece esa tecnología, es esencial que investiguemos el potencial y las limitaciones de la IA en su conjunto. Pasa a la siguiente parte de esta lección para empezar.
 
 ---
+
+## :book: Una guía de IA y ML
+
+La **Inteligencia artificial (IA)** y el **aprendizaje automático (AM)** están **cambiando el futuro del trabajo**. Aunque ambos términos parecen similares, **el aprendizaje automático es en realidad una técnica específica utilizada por los diseñadores de IA para conseguir programas informáticos artificialmente inteligentes**. Conocer los aspectos básicos de la relación entre IA y ML puede ayudarle a navegar por estas tecnologías a medida que transforman el panorama laboral, permitiéndole contribuir eficazmente a proyectos impulsados por IA o liderar sus propias iniciativas de IA.
+
+En esta lectura, explorará algunas de las técnicas de ML que los diseñadores de IA utilizan para crear programas de IA, profundizando en su comprensión de cómo el ML aprovecha los datos para tomar decisiones y realizar tareas. También explorará cómo las técnicas de ML han allanado el camino para la IA generativa.
+
+### Técnicas de desarrollo de IA
+
+La **inteligencia artificial** hace referencia a los **programas informáticos que pueden realizar tareas cognitivas típicamente asociadas a la inteligencia humana**. Existen dos técnicas principales para diseñar programas de IA:
+
+- **Las técnicas basadas en reglas** implican la creación de programas de IA que siguen estrictamente reglas predefinidas para tomar decisiones. Por ejemplo, un filtro de spam que utilice técnicas basadas en reglas podría bloquear correos electrónicos que contengan palabras clave específicas utilizando su lógica predefinida.
+
+- **Las técnicas de Aprendizaje automático** consisten en crear programas de IA capaces de analizar y aprender de los patrones de los datos para tomar decisiones independientes. Por ejemplo, un filtro de spam que utilice estas técnicas podría marcar el spam potencial para que el destinatario lo revise, evitando el bloqueo automático. Si el destinatario marca como seguros los correos de fuentes fiables, el filtro de spam aprende y adapta su lógica para incluir en el futuro correos similares de ese remitente.
+
+Las herramientas de IA pueden utilizar técnicas basadas en reglas o ML, o incluso una combinación de ambas. En general, las técnicas basadas en reglas suelen utilizarse para tareas que requieren rigidez, como bloquear mensajes de remitentes no fiables que son obviamente spam, como las solicitudes de transferencias bancarias o información privada. Por el contrario, las técnicas de ML son más adecuadas para tareas que exigen flexibilidad y adaptabilidad, como aprender a reconocer que los mensajes de remitentes de confianza que contienen erratas no son spam.
+
+### Enfoques para entrenar programas de ML
+
+Recordemos que **el aprendizaje automático es un subconjunto de la IA** centrado en el desarrollo de programas informáticos capaces de analizar datos para tomar decisiones o realizar predicciones. Los diseñadores de IA suelen utilizar el ML en sus programas de IA porque no tiene las limitaciones de las técnicas basadas en reglas.
+
+Existen tres enfoques comunes para entrenar programas de ML:
+
+- **Aprendizaje supervisado**: En este enfoque, el programa de ML **aprende de un conjunto de entrenamiento etiquetado**. Un conjunto de entrenamiento etiquetado **incluye datos etiquetados, que proporcionan contexto y significado a los datos**. Por ejemplo, un filtro de spam de correo electrónico que se entrena con aprendizaje supervisado utilizaría un conjunto de entrenamiento de correos electrónicos etiquetados como "spam" o "no spam." El Aprendizaje supervisado **se utiliza a menudo cuando hay un resultado específico en mente**.
+
+- **Aprendizaje no supervisado**: En este enfoque, el programa de ML **aprende de un conjunto de entrenamiento no etiquetado**. Un conjunto de entrenamiento sin etiquetar **incluye datos que no tienen etiquetas**. Por ejemplo, el ML puede utilizarse para analizar un conjunto de datos de mensajes de correo electrónico sin clasificar y encontrar patrones en temas, palabras clave o contactos. En otras palabras, el Aprendizaje no supervisado **se utiliza para identificar patrones en los datos sin un resultado específico en mente**.
+
+- **Aprendizaje de refuerzo**: En este enfoque, el programa de ML **utiliza el método de ensayo y error para aprender qué acciones conducen al mejor resultado**. El programa aprende a hacerlo recibiendo recompensas por tomar buenas decisiones que conduzcan a los resultados deseados. Las herramientas de IA conversacional suelen utilizar el Aprendizaje de refuerzo. A medida que estas herramientas reciben información de los usuarios y de los diseñadores de IA, aprenden a generar respuestas eficaces.
+
+Cada técnica de ML tiene sus propios puntos fuertes y débiles. Dependiendo del tipo de datos disponibles y de lo que se necesite para resolver un problema concreto, los diseñadores de IA pueden utilizar una, dos o las tres técnicas para crear una solución basada en IA.
+
+### IA generativa
+
+Los avances en el aprendizaje automático han ayudado a allanar el camino a la IA generativa: **la IA que puede generar nuevos contenidos, como texto, imágenes u otros medios**. Este tipo de IA suele utilizar una combinación de aprendizaje supervisado, no supervisado y de refuerzo para crear contenidos originales.
+
+Por ejemplo, los tres enfoques desempeñan papeles distintos en las herramientas de IA conversacional. El Aprendizaje supervisado dota a las herramientas de IA conversacional de datos básicos sobre el diálogo, lo que les permite responder adecuadamente a las señales conversacionales habituales. El Aprendizaje no supervisado les permite interpretar los matices del lenguaje, como los coloquialismos, que aparecen de forma natural en las conversaciones. El Aprendizaje de refuerzo refuerza aún más estas herramientas al permitirles mejorar sus respuestas en tiempo real basándose en los comentarios de los usuarios. Esto les permite adaptarse al contexto conversacional y entablar conversaciones naturales.
+
+La capacidad de la IA generativa para crear e innovar ofrece una serie de ventajas a todo tipo de lugares de trabajo y profesiones, como el marketing, el desarrollo de productos, la ingeniería, la educación, la fabricación y la investigación y el desarrollo. Entre estos beneficios se incluyen:
+
+- Mayor eficiencia: La IA generativa puede automatizar o aumentar las tareas rutinarias, permitiendo a los trabajadores centrarse en otras prioridades laborales.
+
+- Experiencias personalizadas: La IA generativa puede adaptar sus interacciones a las preferencias y necesidades individuales.
+
+- Mejores decisiones: La IA generativa puede analizar rápidamente grandes cantidades de datos para descubrir ideas útiles.
+
+Estas son sólo algunas de las formas en que la IA generativa puede mejorar su trabajo.
+
+---
+
+## Comprende el potencial y las limitaciones de la IA
+
+Así como no hace falta ser carpintero para usar un martillo, no hace falta ser experto informático para utilizar la IA eficazmente. 
+
+Sin embargo, comprender los fundamentos de lo que es capaz de hacer la IA te ayudará a aprovechar la tecnología al máximo. 
+
+Las herramientas de IA actuales pueden potenciar tu trabajo de muchas maneras. Pueden generar contenido, por ejemplo, para ayudar a un equipo de marketing a hacer un video para promocionar un producto nuevo. Pueden analizar información con rapidez y, por ejemplo, resaltar los puntos clave de un largo hilo de correos. Pueden responder preguntas con detalles y matices. Y, en general, te simplifican el día a día y te permiten concentrar en otros aspectos de tu trabajo. 
+
+Si bien la IA puede realizar distintas tareas, hay algunas tareas que requieren la participación humana, como el manejo de asuntos que son delicados. Esas limitaciones pueden ser críticas en determinados contextos. Por ejemplo, la IA no puede aprender por su cuenta. Necesita que las personas actualicen su entrenamiento continuamente. 
+
+Las **falencias en los datos de entrenamiento** de una herramienta de IA también pueden reflejar o amplificar sesgos que **conducen a resultados tendenciosos o injustos**. 
+
+Otra limitación importante es que los resultados de la IA suelen tener imprecisiones. Es lo que se conoce como **alucinaciones**. Las alucinaciones **son resultados que arroja la IA y que no son ciertos**. Esas imprecisiones pueden ser desde errores menores, como una frase que no tiene sentido, hasta distorsiones considerables. Por ejemplo, piensa en un jefe de ventas que utiliza una herramienta de IA para analizar los datos de ventas trimestrales. La herramienta de IA podría identificar que bajaron las ventas de un producto específico y marcar ese artículo como algo que hay que retirar de las tiendas. Pero ¿qué pasaría si existiera un factor estacional que afecta las ventas y no se consideró en el análisis de la herramienta de IA? Alucinaciones como esa pueden llevar a tomar decisiones equivocadas si el usuario no revisa detenidamente los resultados de la herramienta de IA. 
+
+Teniendo en cuenta las limitaciones de la IA, **es crucial que un ser humano supervise los resultados generados por la IA para garantizar que la información sea exacta y ética**. 
+
+Para gestionar la IA de manera eficaz en el trabajo, es necesario que personas con cargos técnicos y no técnicos colaboren para garantizar que los resultados de la IA y los procesos de toma de decisiones estén alineados con valores que beneficien a las personas. En última instancia, la clave es un enfoque integrador que aplique la supervisión humana a estas herramientas para dar forma a
+
+---
