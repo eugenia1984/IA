@@ -192,3 +192,158 @@ Me entusiasman las aplicaciones de la IA en diferentes campos.
 También me resultan emocionantes los enormes retos que podemos resolver como comunidad, como ecosistema. Es algo que dará lugar a una mayor productividad, conducirá a nuevas formas de hacer las cosas. El impacto que puede llegar a tener la IA es inmenso.
 
 ---
+
+## :book: Herramientas de IA generativa para tareas laborales
+
+Ya aprendiste que hay diferentes maneras de utilizar la IA generativa para que la realización de tareas de trabajo sea más eficiente. La IA generativa puede ser una herramienta independiente o puede utilizar software con funciones de IA integradas. En esta lectura, aprenderás más sobre las diferentes formas de utilizar la IA generativa en el trabajo y sobre algunas de las principales herramientas de IA generativa a disposición.
+
+## Usos laborales de la IA generativa
+
+Las herramientas de IA generativa que utilizarás dependerán de tu sector, cargo y necesidades específicas del trabajo. Ten en cuenta que los usos de cada herramienta no se limitan a los sectores enumerados aquí. También ten en cuenta que el costo varía según la herramienta. Algunas herramientas de esta lista son gratuitas u ofrecen una prueba gratis, mientras que otras requieren el pago de una suscripción para acceder a ellas. En los ejemplos que siguen, se indica si la herramienta es independiente, integrada o ambas. Independiente significa que es una estructura y herramienta individual que puedes agregar y utilizar en tu flujo de trabajo. Integrada significa que la herramienta forma parte de un tipo de software existente, al que tendrás que acceder si quieres utilizar ese conjunto de funciones de IA.
+
+### Herramientas de IA conversacional
+
+La IA conversacional incluye herramientas de uso general capaces de simular una conversación humana, como también de proporcionar respuestas a preguntas sobre una amplia variedad de temas. Los empleados podrían utilizar herramientas de IA conversacional como ayuda en tareas de trabajo, como hacer lluvias de ideas o buscar respuestas a preguntas de poca importancia. 
+
+Ejemplos de sectores: ecursos humanos, marketing, relaciones públicas, ventas, educación, gestión de proyectos, comercio minorista, redacción publicitaria, escritura creativa, gestión de productos
+
+#### Ejemplos de herramientas:
+
+- **Anthropic Claude**: Anthropic Claude es capaz de realizar tareas de resolución de problemas, como encontrar soluciones matemáticas, traducir de un idioma a otro y resumir documentos largos. 
+
+Independiente o integrada: independiente
+
+- **Gemini**: potencia tu creatividad y productividad con Gemini. Chatea y empieza a escribir, planificar, aprender y mucho más con la IA de Google. 
+
+Independiente o integrada: ambas
+
+- **Microsoft Copilot**: integrada con Microsoft Edge, la herramienta Microsoft Copilot ayuda a realizar búsquedas en línea para encontrar información, comparar productos y resumir el contenido de páginas web.
+
+Independiente o integrada: ambas
+
+- **ChatGPT**: ChatGPT es capaz de generar ideas, planificar calendarios, depurar código y corregir textos.
+
+Independiente o integrada: independiente
+
+Asistentes de productividad y escritura
+Los asistentes de productividad y escritura de IA sirven para realizar tareas de trabajo. Proporcionan sugerencias de gramática u ortografía, resumen documentos largos o resuelven problemas. Estos son algunos ejemplos:  
+
+- **Clockwise**: Clockwise es una herramienta de calendario que aprende los hábitos de trabajo de los usuarios para programar y gestionar automáticamente los eventos del calendario.
+
+Ejemplos de sectores: consultoría, tecnología, ventas
+
+Independiente o integrada: independiente
+
+- **Grammarly**: Grammarly es un asistente de escritura que ayuda a los usuarios a editar y escribir textos claros y concisos.
+
+Ejemplos de sectores: escritura creativa, educación, marketing
+
+Independiente o integrada: independiente
+
+- **Jasper**: Jasper es un asistente de escritura pensado para tareas de marketing, como la redacción de publicaciones en redes sociales, correos electrónicos y contenido de páginas de destino.
+
+Ejemplos de sectores: redacción publicitaria, marketing, ventas
+
+Independiente o integrada: independiente
+
+- **NotebookLM**: NotebookLM se integra con aplicaciones de documentos, como Google Docs, y ayuda a resumir o formular preguntas específicas sobre textos, notas y fuentes.
+
+Ejemplos de sectores: redacción de contenidos, finanzas, ventas
+
+Independiente o integrada: ambas
+
+- **Notion AI**: Notion AI es un asistente de escritura integrado con Notion, una herramienta de software de productividad y toma de notas.
+
+Ejemplos de sectores: desarrollo, marketing, gestión de productos, ventas
+
+Independiente o integrada: integrada
+
+- **AI by Zapier**: AI by Zapier es una herramienta de productividad integrada que permite integrar la automatización por IA con las aplicaciones y los flujos de trabajo ya vinculados a través de Zapier.
+
+Ejemplos de sectores: ingeniería, marketing, gestión de proyectos, tecnología
+
+Independiente o integrada: integrada
+
+### Herramientas de IA generativa de código
+
+Las herramientas de generación de código ayudan a generar, editar o completar código para diversas tareas de programación en muchos lenguajes de programación distintos. Algunos ejemplos son:
+
+- **Android Studio Bot**: integrada con Android Studio, la herramienta Studio Bot es capaz de generar código y responder preguntas sobre el desarrollo de Android.
+
+Ejemplos de sectores: ciencia de los datos, desarrollo de software, desarrollo web
+
+Independiente o integrada: integrada
+
+- **GitHub Copilot**: integrada con GitHub, la herramienta Copilot es capaz de escribir y sugerir código, sugerir descripciones de solicitudes de extracción (), traducir varios idiomas a código e indexar repositorios.
+
+Ejemplos de sectores: ciencia de los datos, desarrollo de software, desarrollo web
+
+Independiente o integrada: ambas
+
+- **Replit AI**: esta herramienta, integrada con Replit, es un entorno de desarrollo integrado (IDE) basado en la nube para programadores que puede hacer sugerencias, ayudar a explicar un código y convertir el lenguaje natural en código.
+
+Ejemplos de sectores: ciencia de los datos, desarrollo de software, desarrollo web
+
+Independiente o integrada: integrada
+
+- **Tabnine**: Tabnine puede funcionar como complemento de muchos editores de código populares para ayudar a acelerar la entrega y mantener el código seguro.
+
+Ejemplos de sectores: ciencia de los datos, desarrollo de software, desarrollo web
+
+Independiente o integrada: independiente
+
+- **Jupyter AI**: Jupyter es una plataforma de programación de código abierto. Esta herramienta incorporada incluye una interfaz de chat que puede utilizarse para generar códigos, corregir errores de codificación y hacer preguntas sobre archivos.
+
+Ejemplos de sectores: ciencia de los datos, desarrollo de software, desarrollo web
+
+Independiente o integrada: integrada
+
+### Herramientas de IA generativa de imágenes y contenido
+
+Las herramientas de IA generativa de contenido ayudan a los empleados a realizar tareas como generar y editar archivos de imagen, video y audio. Algunos ejemplos son:
+
+- **Adobe Firefly**: herramienta integrada con la suite de Adobe, Firefly es capaz de generar y editar imágenes.
+
+Ejemplos de sectores: diseño, educación, marketing
+
+Independiente o integrada: integrada
+
+- **Canva Magic Design™**: Canva Magic Design es una herramienta que genera contenido de texto e imágenes en Canva, una herramienta de diseño gráfico en línea.
+
+Ejemplos de sectores: diseño, educación, marketing
+
+Independiente o integrada: integrada
+
+- **DALL-E**: herramienta integrada con ChatGPT, DALL-E genera imágenes a partir de instrucciones de texto.
+
+Ejemplos de sectores: diseño, educación, marketing
+
+Independiente o integrada: integrada
+
+- **ElevenLabs**: ElevenLabs es una herramienta de IA de voz capaz de generar narraciones orales a partir de un texto en distintos idiomas.
+
+Ejemplos de sectores: creación de contenidos, educación, marketing, producción
+
+Independiente o integrada: independiente
+
+- **Google Ads**: Google Ads ayuda a las empresas a llegar a clientes de todo el mundo y así impulsar el crecimiento y el rendimiento. Con Google Ads es más fácil crear campañas, medir el impacto y mejorar los resultados. Pon a trabajar a la IA de Google al servicio de tu empresa con  Fundamentos de IA de Google Ads
+
+Ejemplos de sectores: marketing, publicidad
+
+Independiente o integrada: integrada
+
+- **Midjourney**: herramienta integrada con Discord, Midjourney es capaz de generar imágenes a partir de instrucciones de texto.
+
+Ejemplos de sectores: diseño, educación, marketing
+
+Independiente o integrada: integrada
+
+- **Runway**: Runway es capaz de generar un video original a partir de una instrucción de texto, o editar el estilo o el área de enfoque de un video existente y eliminar personas u otros elementos.
+
+Ejemplos de sectores: creación de contenido, diseño, marketing, producción
+
+Independiente o integrada: independiente
+
+Una última reflexión: esta lista no es exhaustiva. Vale la pena explorar el mundo de las herramientas de IA para encontrar otras que sean idóneas para tu trabajo.
+
+---
