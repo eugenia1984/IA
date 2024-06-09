@@ -347,3 +347,38 @@ Independiente o integrada: independiente
 Una última reflexión: esta lista no es exhaustiva. Vale la pena explorar el mundo de las herramientas de IA para encontrar otras que sean idóneas para tu trabajo.
 
 ---
+---
+
+# La importancia de que el ser humano se involucre en la IA
+
+## Aprovecha el criterio de “humano en el ciclo” en la IA
+
+Aunque la IA es una herramienta útil para ayudarte a realizar tareas, requiere la participación humana. 
+
+Ninguna herramienta de IA tiene los conocimientos prácticos, la experiencia ni las habilidades interactivas que tenemos nosotros. 
+
+**Es fundamental aplicar la supervisión humana a la IA**. 
+
+Una estrategia eficaz para hacerlo es el **enfoque de “humano en el ciclo”**, que utiliza **una combinación de inteligencia artificial y humana para entrenar, utilizar, verificar y perfeccionar los modelos de IA**. 
+
+Probemos esta estrategia. Considera esta situación: una compañía de seguros usa una solución de IA personalizada para responder las consultas de los clientes. Cuando un cliente envía una pregunta a la empresa a través del formulario de contacto, la IA redacta un correo de respuesta basándose en palabras y frases específicas del mensaje. Luego, un representante de atención al cliente revisa la consulta del cliente y corrige las respuestas necesarias antes de aprobar y enviar el mensaje. Más tarde, el equipo de desarrollo puede actualizar el modelo de IA basándose en los comentarios del representante. 
+
+Pensemos en un empresario que usa una herramienta de IA independiente para redactar un nuevo eslogan de la marca. En la instrucción para la herramienta, incluye palabras clave específicas y frases que quiere incluir en el eslogan, y la herramienta genera una lista de ideas. El empresario revisa los resultados y encuentra una opción pegadiza que se destaca mucho. Sin embargo, hay que refinarla un poco para lograr la frase indicada. Así que el empresario pide a la herramienta de IA algunos detalles adicionales y ¡voilá! Creó un nuevo eslogan pegadizo para su negocio. 
+
+**La supervisión es esencial para garantizar la calidad y precisión al utilizar herramientas de IA**. **Un enfoque de “humano en el ciclo” combina la eficiencia de las herramientas de IA con el saber humano, que es fundamental para practicar la IA responsable**. La IA responsable es el principio de **desarrollar y usar la IA de manera ética con la intención de beneficiar a las personas y a la sociedad, evitando al mismo tiempo perjudicarlas**. Es importante que empresas, clientes y empleados por igual se aseguren de utilizar la IA de forma responsable. Un aspecto de la IA responsable implica lidiar con las limitaciones de los modelos de IA, como el límite de conocimientos. **El límite de conocimientos es la idea de que un modelo de IA se entrena en un momento determinado, por lo que desconoce los acontecimientos o la información posteriores a esa fecha**. Por ejemplo, imagina que eres analista financiero y necesitas pedirle a una herramienta de IA que analice las fluctuaciones bursátiles de ayer. Si la última fecha de entrenamiento de la herramienta fue en 2022, no será capaz de proporcionarte la información que pediste porque no conoce los acontecimientos ni la información posteriores a su última fecha de entrenamiento. En situaciones como esa, las herramientas de IA bien diseñadas reconocen sus limitaciones y responden en consecuencia. Sin embargo, **hay situaciones en las que una herramienta puede intentar generar una respuesta a pesar de su límite de conocimientos, lo cual provoca una alucinación**. Las alucinaciones **son resultados que arroja la IA y que no son ciertos**. Las alucinaciones son problemáticas porque **pueden conducir a la desinformación, malinterpretación o respuestas inapropiadas que puedan dañar la reputación de una empresa o dejar al cliente insatisfecho**. Por ejemplo, imagina que trabajas en una empresa minorista y usas una herramienta de IA para prever cuántas productos pedir para el inventario. Si la herramienta de IA genera información imprecisa, desactualizada o malinterpretada, esas alucinaciones podrían provocar que la empresa pida una cantidad incorrecta de artículos y generar problemas de suministro para los clientes. Aunque las alucinaciones pueden plantear problemas, también pueden ser útiles para tu proceso creativo. Supongamos que usas un generador de imágenes con IA como ayuda para diseñar el arte conceptual de un videojuego de temática fantástica. Le pides a la herramienta de IA que genere la imagen de un hermoso castillo que flota en el cielo. El resultado que arroja es una imagen única y divertida, que además es una alucinación. En este ejemplo, generaste una alucinación a propósito. Sin embargo, l**as alucinaciones pueden ser engañosas si se usan en el contexto equivocado**. 
+
+Al utilizar herramientas de IA, es importante aplicar un enfoque de “humano en el ciclo”. Al revisar y evaluar el contenido generado por la IA, ayudas a mitigar los posibles efectos de las alucinaciones. Este abordaje contribuye a garantizar que los resultados generados con IA no solo sean innovadores, sino también precisos, pertinentes y éticos. Así, se logran resultados mejores para las empresas, los clientes y la sociedad en general.
+
+---
+
+## Kathy: Explora cómo las personas mejoran los modelos de IA
+
+Hola, soy Kathy. Soy gerenta de producto en el equipo de Google Labs y trabajo en CodeAI. 
+
+CodeAI ofrece formas de generar lenguajes de programación en código para que los desarrolladores de software puedan utilizar CodeAI como ayuda para redactar solicitudes. 
+
+Soy de Alaska. Mi familia fue la primera de la cuadra en tener Internet. Como soy una de cinco hijos, mamá tenía una hoja de registro. Todos en la familia queríamos usar mucho la computadora, así que a cada uno le tocaban periodos de 30 minutos. Recuerdo la primera vez que abrí un navegador y fui a una página web. Allí vi comentarios de personas de todas partes del mundo. No tenía ni idea de que se podía hablar tan rápido con personas que estaban del otro lado del mundo. Eso me dejó boquiabierta. 
+
+Cuando pienso en la IA, especialmente con el avance de los LLM, y su aplicación a todas las herramientas para desarrolladores que tenemos hoy en día, vuelvo a tener esa sensación de estar increíblemente maravillada por lo que está ocurriendo, por lo que estamos creando, por lo que mis colegas y yo estamos creando. Cuando pienses en la IA y en modelos de lenguaje grande, o en el aprendizaje profundo o en cualquier aplicación de IA que estés usando, piensa que, en el centro de todo modelo hay una persona que lo está entrenando, que lo evalúa, que le aplica más datos. El enfoque “humano en el ciclo” consiste, por ejemplo, en escribir una instrucción para que la IA te haga una pregunta. La IA entonces te hace una pregunta y tú la perfeccionas. Eso a mí me ayuda a escribir código. Si no arroja el código de respuesta correcto, le doy más instrucciones para que arroje una función que sí me guste. Para mí, el enfoque “humano en el ciclo” es una forma de afinar las respuestas de la IA. La IA tiene un potencial enorme de hacer un bien para el mundo. Eso es porque la IA es una herramienta que los humanos crearon como ayuda para conectarnos los unos con los otros y ayudarnos a ser más humanos.
+
+---
