@@ -170,3 +170,25 @@ Vaya, esas sugerencias son actividades muy divertidas para empleados nuevos.
 Al utilizar herramientas de IA generativa, es importante escribir instrucciones claras y específicas. Cuanto más experimentes con la escritura de instrucciones, mejor utilizarás las herramientas de IA para alcanzar
 
 ---
+
+## Manvinder: Formas en que utilizo la IA en mi trabajo
+
+Hola, soy Manvinder. Soy director de gestión de productos en el equipo de IA de Google. 
+
+Mi trabajo consiste en hablar con desarrolladores, con startups, con empresas que usan nuestras tecnologías de IA, entender sus comentarios e incorporarlos a las herramientas que les ofrecemos para crear aplicaciones utilizando nuestra tecnología de IA. 
+
+**Una de las cosas más geniales de la IA generativa es que puede usarla como herramienta colaborativa casi todo el mundo en sus tareas cotidianas**. Para cualquier cosa, desde escribir notas hasta redactar correos electrónicos, crear diapositivas, trabajar en hojas de cálculo o investigar. Es una gran herramienta para trabajar. 
+
+La IA también es fantástica para otro posible uso: como **compañera creativa de lluvias de ideas**. Por ejemplo, hace poco trabajé con nuestro equipo de marketing e hicimos una lluvia de ideas sobre estrategias para comercializar un determinado producto. Allí usé la IA para generar ideas. Nos dio muchas ideas nuevas que tal vez no se me habrían ocurrido por mi cuenta. Utilizo IA cuando creo elementos gráficos en diapositivas o cuando escribo textos largos. Por ejemplo, si tienes que escribir una nota, un correo electrónico o una entrada de blog, la IA te ayuda a empezar y a superar el bloqueo del escritor. Uso la IA para generar visualizaciones en hojas de cálculo. 
+
+Y, por supuesto, cuando empiezo una investigación sobre un tema nuevo, me gusta usar la IA porque me da una ventaja. **Me ayuda a ser más eficiente y a hacer mejor las cosas**. 
+
+También **me ayuda a hacer cosas nuevas**. Por ejemplo, hace un año, mi mujer y yo rediseñamos la cocina y decidimos probar Stable Diffusion, que es un modelo de generación de imágenes de código abierto, para crear diferentes estilos para la cocina que queríamos, combinando distintos estilos de alacenas y de islas. Vimos de primera mano que podíamos utilizar el poder de la IA generativa para superar dificultades comunes que afrontamos en la vida cotidiana. 
+
+**La IA a menudo puede ayudarte a mejorar aún más las destrezas que tengas**. Por ejemplo, si sueles escribir muchos textos largos, la IA puede ayudarte a ser más eficiente porque te ayuda a empezar y superar el bloqueo del escritor. Puede agregar más ideas a la nota que estés escribiendo, o a los correos electrónicos o blogs que estés escribiendo. 
+
+Me entusiasman las aplicaciones de la IA en diferentes campos. 
+
+También me resultan emocionantes los enormes retos que podemos resolver como comunidad, como ecosistema. Es algo que dará lugar a una mayor productividad, conducirá a nuevas formas de hacer las cosas. El impacto que puede llegar a tener la IA es inmenso.
+
+---
