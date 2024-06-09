@@ -135,7 +135,7 @@ Muchos trabajos requieren creatividad, resolución de problemas y lluvias de ide
 
 Imagina que te encargan elaborar un informe exhaustivo sobre las últimas tendencias del sector que influyen en tu empresa. Haces tu mejor esfuerzo, pero no sabes por dónde empezar y sientes que toda esa información te abruma. ¿Te pasó? A mí también, definitivamente. En situaciones como esas, las herramientas de IA generativa resultan increíblemente útiles. **Pueden ayudarte a realizar una investigación exploratoria, crear un esquema y sacar conclusiones a partir de la información que exploraste**. Ya analizamos distintos tipos de herramientas de IA generativa y lo capaces que son para ayudar con tareas como esa. Ahora, veamos cómo utilizar esas herramientas y aplicarlas para resolver problemas. 
 
-**Para usar una herramienta de IA generativa, tendrás que guiar a la herramienta con una instrucción**. Una instrucción es **una entrada de texto que proporciona indicaciones al modelo de IA sobre cómo generar resultados**. Las instrucciones son la forma que tienes de comunicarte con una herramienta de IA generativa. **Puedes editar y refinar las instrucciones todas las veces que sean necesarias para decirle a la herramienta exactamente lo que necesitas que haga**. 
+**Para usar una herramienta de IA generativa, tendrás que guiar a la herramienta con una instrucción(PROMPT)**. Una instrucción es **una entrada de texto que proporciona indicaciones al modelo de IA sobre cómo generar resultados**. Las instrucciones son la forma que tienes de comunicarte con una herramienta de IA generativa. **Puedes editar y refinar las instrucciones todas las veces que sean necesarias para decirle a la herramienta exactamente lo que necesitas que haga**. 
 
 -Supongamos que eres un profesional de T Ta cargo de crear un manual para una nueva aplicación de software. Podrías pedirle a un generador de texto que redacte una guía paso a paso para instalar el nuevo software. 
 
@@ -150,5 +150,23 @@ Imagina que te encargan elaborar un informe exhaustivo sobre las últimas tenden
 Ahora que exploramos algunas formas de utilizar herramientas de IA generativa, tómate un momento para pensar en tu propio trabajo y en el sector en el que trabajas. 
 
 ¿Cómo usarías la IA generativa para ayudarte a realizar tareas con mayor rapidez y eficia?
+
+---
+
+## Trabaja con Gemini
+
+Ahora, practiquemos cómo crear instrucciones eficaces que guíen a una herramienta de IA para generar contenido. Imagina que quieres utilizar una herramienta de IA como ayuda para postularte a un empleo nuevo. Por ahora, me concentraré en instrucciones sencillas. Descubrirás las mejores prácticas de ingeniería de instrucciones más adelante en el curso. Para utilizar Gemini, ve a gemini.google.com. Inicia sesión con una cuenta de Google. Si no tienes una cuenta de Google, puedes crear una cuenta gratis haciendo clic en Crear cuenta.
+
+Una vez que hayas iniciado sesión con tu cuenta de Google, puedes empezar a darle instrucciones a Gemini.
+
+Supongamos que el puesto al que te quieres postular es en redes sociales. Tu instrucción podría ser: “Escribe una carta de presentación para un puesto en redes sociales”.
+
+Genial. La respuesta te proporciona un conveniente punto de partida o una plantilla que puedes personalizar para que la carta de presentación se destaque del resto. Después de añadir algunos toques finales, envías la carta y ¡buenas noticias! recibes una invitación para una entrevista con la empresa. Puedes seguir utilizando Gemini para que te ayude a prepararte para la entrevista. Tu siguiente instrucción podría ser: “¿Qué consejos para la entrevista pueden ayudarme a prepararme para un puesto en redes sociales?”.
+
+El resultado arroja una variedad de opciones para elegir. Parecen ser ingeniosos y acordes al sector de redes sociales, y te asesoran sobre temas como qué hacer antes y durante la entrevista. Supongamos que pasaron varios años. Conseguiste ese trabajo en redes sociales y creciste en la empresa. Ahora estás a cargo de incorporar a los empleados nuevos. Puedes volver a recurrir a una herramienta como Gemini con una instrucción como esta: “Sugiere tres actividades innovadoras de capacitación en la que puedan participar empleados nuevos”.
+
+Vaya, esas sugerencias son actividades muy divertidas para empleados nuevos.
+
+Al utilizar herramientas de IA generativa, es importante escribir instrucciones claras y específicas. Cuanto más experimentes con la escritura de instrucciones, mejor utilizarás las herramientas de IA para alcanzar
 
 ---
