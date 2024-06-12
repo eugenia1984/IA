@@ -7,6 +7,7 @@ Here you will find some courses that I 'm learning about Artificial Inteligence.
 ## What to see?
 
 
+
 1. [**M1000IA**](https://github.com/eugenia1984/IA/tree/main/m1000ia): empoderar a 1000 Mujeres, democratizando el acceso a las herramientas de IA y a su uso práctico en el ámbito laboral y productivo.
 
 
