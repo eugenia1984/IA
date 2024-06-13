@@ -60,6 +60,24 @@ Cualquiera puede escribir una instrucción simple y obtener una respuesta sencil
 
 # Principios clave para escribir instrucciones eficaces
 
+## Escribe instrucciones claras y específicas
+
+¿Cómo puedes escribir instrucciones que arrojen resultados útiles? En general, es cierto que la calidad de lo que se empieza afecta en gran medida a la calidad de lo que produce. Pensemos, por ejemplo, en la cocina. Digamos que estás preparando la cena. Si tienes ingredientes frescos de alta calidad, bueno, es más probable que prepares una gran comida. Por el contrario, si falta un ingrediente o los ingredientes no son de alta calidad, la comida resultante puede no ser tan buena. Del mismo modo, **la calidad de la instrucción que se pone en una herramienta de IA conversacional puede afectar la calidad de los resultados de la herramienta**.
+
+Aquí es donde entra en juego la **ingeniería de instrucciones**. La ingeniería de instrucciones **implica diseñar la mejor instrucción que puedas para obtener el resultado deseado de un LLM.** Esto incluye **escribir instrucciones claras y específicas que proporcionen un contexto relevante**.
+
+Para comprender mejor del contexto que necesitan los LLM, comparemos cómo una persona y un LLM podrían responder a la misma pregunta. Supongamos que un vegetariano pregunta a su amigo a qué restaurante ir en San Francisco. El amigo probablemente sugeriría restaurantes con buenas opciones vegetarianas. Sin embargo, si se le pide eso mismo a un LLM, podría recomendar restaurantes que no son adecuados para un vegetariano. Una persona instintivamente consideraría el hecho de que su amigo es vegetariano al responder a la pregunta, pero un LLM no tiene este conocimiento previo. Entonces, **para obtener la información necesaria de un LLM, la instrucción debe ser más específica**. En este caso, la instrucción debe mencionar que el restaurante debería tener buenas opciones vegetarianas. Veamos un ejemplo que demuestra cómo utilizar la ingeniería de instrucciones para mejorar la calidad del resultado de un LLM. Encarguémonos de la tarea de planificar un evento de empresa. Necesitas encontrar un tema para una próxima conferencia. Escribamos una instrucción en Gemini para generar una lista de cinco posibles temas para un evento. Puedes utilizar instrucciones similares en ChatGPT, Microsoft Copilot o cualquier otra herramienta de IA conversacional.
+
+Ahora repasemos la respuesta. Bueno, esto no es lo que queríamos. Hemos conseguido una lista que parece estar más relacionada con temas de fiestas que con temas para una conferencia profesional. Nuestra instrucción no proporcionaba suficiente contexto para producir el resultado que necesitábamos. No era lo suficientemente clara ni específica. 
+
+Intentémoslo de nuevo. Esta vez escribiremos la instrucción, **generar una lista de cinco temas potenciales para una conferencia profesional sobre la experiencia del cliente en el sector de la hostelería**. Esta instrucción es mucho más específica y deja claro que es una conferencia profesional sobre la experiencia del cliente en el sector de la hostelería. Examinemos la respuesta. ¡Esto es mucho mejor! **Hemos diseñado nuestra instrucción para incluir contexto específico y pertinente, por lo que Gemini puede generar resultados útiles**. 
+
+-> **Cuando proporcionas instrucciones claras y específicas que incluyen el contexto, permites que los LLM generar resultados útiles**. 
+
+Ten en cuenta que debido a las limitaciones del LLM, puede haber algunos casos en los que no se pueda obtener un resultado de calidad independientemente de la calidad de tu instrucción. Por ejemplo, si le pides al LLM que busque información sobre un acontecimiento de actualidad, pero el LLM no tiene acceso a esa información, no será capaz de proporcionar el resultado que necesitas. 
+
+Y como en otras áreas del diseño, **la ingeniería de instrucciones suele ser un proceso iterativo**. A veces, incluso cuando se proporcionan instrucciones claras y específicas, puede que no obtengas el resultado en el primer intento. Cuando nuestra primera instrucción no produjo la respuesta que queríamos, revisamos la instrucción para mejorar el resultado. La segunda iteración proporcionó instrucciones lo suficientemente claras y específicas para producir un resultado más útil.
+
 
 ---
 ---
