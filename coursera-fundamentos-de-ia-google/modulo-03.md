@@ -98,6 +98,109 @@ Otro de los usos del LLM que abordaremos es la resolución de problemas. Puedes 
 
 Los LLM pueden ayudarte a encontrar soluciones para muchos tipos diferentes de problemas. Estoy entusiasmado por la variedad de formas en que podemos aprovechar los LLM para realizar tareas laborales. Es una habilidad muy importante para practicar si quieres utilizar la IA eficazmente en el trabajo. Próximamente, nos centraremos más en evaluar los resultados y hacer iteraciones de tu instrucción.
 
+
+## :book: Instrucciones para diferentes propósitos
+
+Recordemos que un **modelo de lenguaje grande** o **LLM **es u**n modelo de IA que se entrena a partir de grandes cantidades de texto para identificar patrones en palabras, conceptos y frases con el fin de poder generar respuestas a las instrucciones**. Como estuviste aprendiendo, una buena ingeniería de instrucciones sirve para guiar a un LLM para que genere resultados útiles para las tareas de trabajo. En esta lectura, analizarás cómo escribir instrucciones claras y específicas en mayor profundidad para diversos casos de uso en el trabajo. 
+
+### Casos de uso
+Como has explorado anteriormente, puedes utilizar un LLM en el trabajo para ayudar a aumentar tu productividad y creatividad y completar cualquiera de estas útiles tareas: 
+
+```
+-Crear contenido
+-Resumir 
+-Clasificar
+-Extraer
+-Traducir 
+-Editar 
+-Resolver problemas
+```
+
+**Nota:** Los siguientes ejemplos ilustran mejores prácticas. No son plantillas exactas que deban copiarse en cada situación. Tus resultados variarán en función de una serie de factores, incluido el LLM específico que utilices. No olvides hacer una evaluación crítica de todos los resultados del LLM y hacer iteraciones de tu instrucción inicial para obtener el mejor resultado. 
+
+
+En general, las siguientes pautas sirven para que tus instrucciones sean más eficaces: 
+
+- **Piensa en lo que quieres que genere el LLM.** El LLM arrojará mejores resultados si incluyes una indicación específica en la instrucción, como crea, resume, clasifica, extrae, traduce, edita o resuelve.
+
+- **Proporciona el contexto necesario**. El LLM generará mejores resultados si incluyes indicaciones detalladas, con pautas específicas sobre el estilo o formato del resultado que deseas. 
+
+A continuación, examinaremos cada uno de los casos de uso descritos anteriormente mediante un ejemplo adicional de cada uno. 
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/8e05cc2c-2a62-4392-b99c-59dd160ac685)
+
+
+- **Crear contenido**: Sea cual sea tu sector, un LLM puede ayudarte a crear contenido para diversos fines, como publicaciones de blog, informes, descripciones de productos y lemas. Por ejemplo, supongamos que trabajas en una campaña publicitaria para una nueva línea de electrodomésticos. Puedes pedir a un LLM que te ayude a crear un eslogan atractivo para uno de los productos: 
+
+Haz de cuenta que eres un profesional creativo del ámbito publicitario que aplica razonamiento innovador para elaborar eslóganes originales que proyecten las cualidades positivas de un producto. Crea un eslogan conciso para una lavadora que deja la ropa impecable, tiene 25 configuraciones y cabe en un espacio pequeño.
+
+La instrucción empieza describiendo el papel del LLM como creativo publicitario. Luego, señala claramente que la tarea consiste en crear un eslogan conciso para una lavadora. Por último, especifica las características del producto que se deben incluir en el eslogan.
+
+Sugerencia profesional: Asigna un papel, un trabajo o una función al LLM para reforzar el propósito de la instrucción y guiar al LLM para que arroje resultados útiles. 
+
+
+- **Resumir**: Un LLM puede ayudarte a resumir muchos tipos de textos: informes, encuestas a clientes, notas de reuniones, correos electrónicos, etc. Por ejemplo, la siguiente instrucción solicita a un LLM que resuma un correo electrónico extenso: 
+
+El siguiente texto es un correo electrónico de un proveedor de software. Resume los puntos principales en una lista con viñetas:
+
+“Espero que todo esté bien. Fue un placer que hayamos tenido la oportunidad de conversar en la conferencia de la semana pasada.
+
+Estoy enviando más detalles sobre los precios de nuestros planes. Nuestra suscripción de nivel bronce brinda acceso a tres de nuestros productos de software más populares, así como a tutoriales en video de esos productos. En caso de requerir asistencia para necesidades de software adicionales, nuestro nivel plata puede ser una opción. Ese nivel permite elegir dos productos de software adicionales, con tutoriales en videos, y recibir asistencia las 24 horas del día para resolver cualquier dificultad que ocurra al utilizar los productos. Por último, la membresía de oro brinda acceso a nuestros diez productos de software. Recibirás capacitaciones para utilizar los diez productos, así como asistencia las 24 horas del día, y también serás la primera persona en disfrutar de cualquier incorporación beta a nuestros productos.
+
+Ponte en contacto conmigo para conocer el precio del nivel que te interese. Ofrecemos suscripciones mensuales y una tarifa reducida para una suscripción anual”.
+
+La instrucción comienza con contexto útil sobre el correo electrónico en cuestión. Luego, señala claramente que la tarea consiste en resumir los puntos principales del correo electrónico. Por último, especifica que el resultado debe tener el formato de una lista con viñetas. 
+
+Nota: Ten en cuenta que, en ciertas ocasiones, los LLM generan alucinaciones, es decir, arrojan resultados de IA que no son ciertos. En este caso, el LLM podría añadir detalles al resumen que no están incluidos en el correo electrónico de partida. Siempre evalúa la precisión de los resultados de los LLM antes de utilizarlos. 
+
+- **Clasificar**: La clasificación de textos es otra aplicación de trabajo frecuente de los LLM. Un LLM puede ayudarte a clasificar los correos electrónicos de atención al cliente en categorías según el contenido del correo electrónico, catalogar el contenido de publicaciones de redes sociales y analizar el tono de los comentarios de clientes. La siguiente instrucción pide a un LLM que analice el tono de reseñas de clientes: 
+
+Lee estas reseñas de clientes y dime si el tono es positivo, negativo o neutral.
+
+Reseña del cliente: No sé por dónde empezar. Teníamos una reserva para las 7:00, pero nos ubicaron a las 7:45. Luego, nadie vino a nuestra mesa por al menos 30 minutos. El aperitivo y plato principal fueron mediocres. Me encantó el postre, pero eso no alcanzó para cambiar nuestra experiencia.
+
+Reseña del cliente: Me encanta este restaurante. La comida es deliciosa y el servicio es excelente.
+
+La instrucción comienza señalando claramente que la tarea consiste en analizar el tono de reseñas de clientes y, luego, especifica las opciones: positivo, negativo o neutral. Por último, la instrucción incluye las reseñas pertinentes con la etiqueta “Reseña del cliente”.
+
+- **Extraer**: También puedes utilizar un LLM para extraer información de un texto y aplicarle un formato estructurado más fácil de entender, lo que se conoce como extracción. Por ejemplo, esta instrucción pide a un LLM que revise una publicación de blog y extraiga información sobre los productos mencionados en la publicación en cuestión. 
+
+Lee la siguiente publicación de blog y extrae todas las referencias a prendas de ropa que puedo comprar y el precio de cada una. Elabora una lista con viñetas solo con esos datos. 
+
+Publicación de blog: Hola a todos, quiero compartir lo que estoy usando en el campus este otoño. Si voy a salir por la noche, prefiero el jean de orillo crudo (USD 150) combinado con el jersey de cuello redondo de cachemira (USD 250). Para un look más informal, me gusta la sudadera de polar con capucha (USD 99) y los pantalones deportivos de polar (USD 129). También me encantan todos los colores de los calcetines de rayas (USD 15). Combinan bien tanto con el jean como con la ropa deportiva. 
+
+La instrucción comienza señalando claramente que la tarea consiste en extraer todas las prendas de ropa mencionadas en el blog con sus respectivos precios. Luego, especifica que el formato del resultado debe ser una lista con viñetas de los elementos. Por último, la instrucción incluye la publicación de blog correspondiente. 
+
+- **Traducir**: Puedes aprovechar un LLM para traducir textos de uno a otro idioma con gran rapidez. Por ejemplo, la siguiente instrucciones le pide a un LLM que ayude a traducir la descripción de un producto del inglés al español: 
+
+Traduce las descripciones de nuestros productos del inglés al español. Conserva en la traducción al español la misma estructura y el mismo tono informal de la versión en inglés.
+
+Bicicleta: Tanto si recorres las calles de la ciudad como los senderos del bosque, nuestra elegante y duradera bicicleta lo tiene todo. 
+
+Patines: Deslízate hacia el verano con estilo gracias a nuestros bacanes y elegantes patines.
+
+La instrucción comienza señalando claramente que la tarea consiste en traducir descripciones de productos del inglés al español. También especifica que las traducciones al español deben mantener una estructura y un tono similares a los del original en inglés. Por último, cada ejemplo contiene una etiqueta que introduce la descripción del producto: “Bicicleta” y “Patines”. Ese formato indica que el LLM debe presentar el resultado de forma similar. 
+
+Nota: Como práctica recomendada, verifica que las traducciones de un LLM sean precisas comparándolas con otra herramienta de traducción. 
+
+- **Editar**: También puedes utilizar un LLM para editar y reescribir texto. El LLM es capaz de modificar el tono del texto de formal a informal, o realizar una revisión gramatical. Por ejemplo, en la siguiente instrucción, se le pide a un LLM que edite un informe técnico para que tenga menos jerga y sea más fácil de entender para las partes interesadas: 
+
+Edita el vocabulario del siguiente párrafo para que sea fácil de entender para un público general. Usa un lenguaje y estructuras sintácticas más simples, pero conserva las mismas ideas.
+
+La elección de emplazamientos para la ampliación es un proceso complejo y polifacético. El emplazamiento del lado oeste ofrece varias ventajas, como la zonificación para uso industrial y acceso directo a una autopista principal y el ferrocarril. Sin embargo, el emplazamiento también está situado en una jurisdicción donde el proceso de obtención de permisos es complejo y lento, y como es remoto con respecto a las zonas residenciales, quizás se requieran salarios más altos para atraer trabajadores.
+
+La instrucción comienza señalando claramente que la tarea consiste en editar el texto para facilitar su comprensión para un público general. Luego, especifica que el vocabulario y la sintaxis del texto deben simplificarse, mientras que su contenido principal debe seguir siendo el mismo. Por último, incluye el párrafo en cuestión. 
+
+- **Resolver problemas**: Otro caso de uso es la resolución de problemas. Puedes utilizar un LLM para elaborar soluciones a diversos retos laborales, desde analizar datos de ventas hasta planificar un evento. Por ejemplo, en la siguiente instrucción, se le pide a un LLM que ayude a organizar un programa para una organización sin fines de lucro: 
+
+Vamos a ofrecer un programa para la comunidad donde se enseñan destrezas de jardinería a los niños. El programa dura del 1 de junio al 15 de agosto. Queremos que los niños sean capaces de cultivar plantas que estén listas para la cosecha cuando termine el programa. En primer lugar, elabora una lista de 10 plantas que puedan plantarse y cultivarse en ese periodo de tiempo. Incluye fuentes que confirmen el momento de cosechar cada planta.
+
+Queremos que los niños cultiven tres plantas. Esas plantas deben ser tan diferentes entre sí como sea posible. Luego, selecciona tres plantas de la lista que proporcionen a los niños esa variedad.
+
+La instrucción comienza brindando un contexto útil sobre el programa, como su objetivo principal y su cronograma. Luego, desglosa el problema en dos pasos principales: en primer lugar, elaborar una lista de 10 plantas que se ajusten al cronograma y, en segundo lugar, elegir tres plantas de la lista que sean diferentes entre sí. La instrucción también pide al LLM que incluya las fuentes de la lista de 10 plantas. Pedir al LLM que cite sus fuentes en el resultado te ayuda a verificar la precisión de la información utilizada para resolver el problema. 
+
+Sugerencia profesional: divide un problema en varios pasos para ayudar al LLM a procesar la solicitud y mejorar la precisión general del resultado.
+
 ---
 ---
 
