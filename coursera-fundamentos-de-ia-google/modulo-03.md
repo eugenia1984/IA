@@ -227,6 +227,24 @@ A continuación, examinaremos nuestro resultado. El resultado enumera las univer
 
 # Técnicas para dar instrucciones a un LLM
 
+## Descubre la técnica de algunos ejemplos de instrucciones
+
+¿Has creado alguna vez algo nuevo basándote en ejemplos anteriores? Tal vez utilizaste un informe bien recibido como referencia al redactar un informe similar, o tal vez utilizaste un sitio web relevante y atractivo como modelo a la hora de diseñar tu propio sitio web. Los ejemplos también son útiles para los LLM. **Incluir ejemplos en tu instrucción puede ayudar a un LLM a responder mejor a tu solicitud, y puede ser una estrategia especialmente eficaz para obtener el resultado deseado**. 
+
+Exploraremos cómo utilizar ejemplos en las instrucciones, pero primero, vamos a discutir brevemente el término técnico “intento”. En ingeniería de instrucciones, la palabra “intento” se utiliza a menudo como sinónimo de la palabra “ejemplo”. Existen diferentes nombres para las técnicas de **dar instrucciones en función del número de ejemplos dados al LLM**. Las instrucciones de **intento cero son una técnica que no proporciona ejemplos en una instrucción**, mientras que el ejemplo de instrucción ofrece un solo ejemplo, y “algunos ejemplos de instrucciones” son una técnica que proporciona dos o más ejemplos en una instrucción. 
+
+Como los ejemplos no se incluyen en las instrucciones de intento cero, se espera que el modelo realice la tarea basándose únicamente en sus datos de entrenamiento, y la descripción de la tarea incluida en la instrucción. 
+
+- **Las instrucciones de intento cero pueden ser más eficaces cuando buscas respuestas simples y directas.** Las instrucciones de intento cero pueden no ser eficaces para tareas que requieren que el LLM responda de forma más específica y matizada.
+
+Algunos ejemplos de instrucciones pueden mejorar el rendimiento de los LLM proporcionando contexto adicional y ejemplos adicionales en tu instrucción. Estos ejemplos adicionales pueden ayudar a aclarar el formato deseado, fraseo o patrón general. Algunos ejemplos de instrucciones pueden ser útiles para diversas tareas. Por ejemplo, puedes utilizar algunos ejemplos de instrucciones para generar contenidos con un estilo determinado. Supongamos que trabajas para un minorista en línea. Debes escribir una descripción del producto por un monopatín nuevo. Ya dispones de descripciones de los productos existentes, como una bicicleta y patines. Quieres que la descripción del monopatín siga un estilo y un formato similares. Empezaremos con una instrucción que comienza con unas indicaciones generales. “Escribe una descripción de una oración de un producto. Debe contener dos adjetivos que describan el producto”. También especificamos que queremos que Gemini revise los ejemplos que ofrecemos y escriba la descripción del monopatín en el mismo estilo. Como estos son algunos ejemplos de instrucciones, necesitamos proporcionar ejemplos que modelen el estilo que queremos. Nuestro ejemplo contiene una etiqueta, indicando el producto descrito, una bicicleta y patines. Y cada descripción consta de una oración y contiene dos adjetivos, “elegante” y “duradero” para la bicicleta, y “suave” y “elegante” para los patines.
+
+A continuación, escribimos la etiqueta ”monopatín”. Cuando añadimos esta etiqueta y dejamos en blanco la descripción del producto, indicamos a Gemini que queremos que complete la descripción del monopatín como lo hizo con las otras dos descripciones de productos.
+
+Repasemos nuestros resultados.
+
+El resultado ofrece una descripción del monopatín que cumple los criterios que solicitamos, y tiene el mismo estilo y formato de redacción que los ejemplos que incluimos en nuestra instrucción. En este caso, bastaban dos ejemplos para obtener resultados útiles, pero no existe una regla definitiva para determinar el número óptimo de ejemplos que debemos incluir en una instrucción. Algunos LLM pueden reproducir patrones precisos utilizando solo algunos ejemplos, mientras que otros LLM necesitan más. Al mismo tiempo, si incluyes demasiados ejemplos, las respuestas de un LLM pueden volverse menos flexibles y creativas y pueden reproducir los ejemplos con demasiada fidelidad. Experimenta con el número de ejemplos a incluir para obtener los mejores resultados para tu tarea específica. Ahora ya conoces una técnica para dar instrucciones que te ayudará a obtener resultados de mejor calidad. La estrategia de “algunos ejemplos de instrucciones” es eficaz y puede ayudarte a orientar a un LLM para generar respuestas más útiles.
+
 ---
 ---
 
