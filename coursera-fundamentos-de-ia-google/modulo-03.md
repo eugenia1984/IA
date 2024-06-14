@@ -245,6 +245,92 @@ Repasemos nuestros resultados.
 
 El resultado ofrece una descripción del monopatín que cumple los criterios que solicitamos, y tiene el mismo estilo y formato de redacción que los ejemplos que incluimos en nuestra instrucción. En este caso, bastaban dos ejemplos para obtener resultados útiles, pero no existe una regla definitiva para determinar el número óptimo de ejemplos que debemos incluir en una instrucción. Algunos LLM pueden reproducir patrones precisos utilizando solo algunos ejemplos, mientras que otros LLM necesitan más. Al mismo tiempo, si incluyes demasiados ejemplos, las respuestas de un LLM pueden volverse menos flexibles y creativas y pueden reproducir los ejemplos con demasiada fidelidad. Experimenta con el número de ejemplos a incluir para obtener los mejores resultados para tu tarea específica. Ahora ya conoces una técnica para dar instrucciones que te ayudará a obtener resultados de mejor calidad. La estrategia de “algunos ejemplos de instrucciones” es eficaz y puede ayudarte a orientar a un LLM para generar respuestas más útiles.
 
+
+---
+
+## :book: Explora las instrucciones de cadena de pensamiento
+
+Como ya ha aprendido, existen técnicas de aviso que pueden guiar a un Modelo de lenguaje grande (LLM) en la realización de tareas. La guía de pocos ejemplos es una técnica que proporciona dos o más ejemplos en una guía. Y las instrucciones de un solo paso son técnicas que proporcionan un solo ejemplo en una instrucción.
+
+En esta lectura, aprenderá una tercera técnica que puede utilizar: Indicaciones de cadena de pensamiento. En primer lugar, conocerá las principales aplicaciones laborales de las indicaciones de cadena de pensamiento y cómo pueden mejorar la calidad general de los resultados del LLM. A continuación, revisará un ejemplo detallado de cómo escribir un aviso utilizando esta técnica.
+
+### Resumen
+
+Indicaciones de cadena de pensamiento es una técnica que consiste en solicitar a un Modelo de lenguaje grande que explique sus procesos de razonamiento. Las Indicaciones de cadena de pensamiento son útiles para resolver problemas que implican razonamiento paso a paso. Esta técnica mejora la calidad de las respuestas de un LLM en ciertos casos.
+
+
+### Ventajas
+
+Las Indicaciones de cadena de pensamiento tienen dos ventajas principales:
+
+1. Puede mejorar la precisión general de los resultados de un LLM. Cuando se divide una tarea en pasos más manejables, se ayuda al LLM a producir resultados precisos y consistentes.
+
+2. Puede mejorar el proceso de resolución de problemas. Al instruir a un LLM para que descomponga el problema, usted puede comprender mejor los pasos que utiliza el LLM para llegar a la solución.
+
+
+### Aplicaciones
+
+Las Indicaciones de cadena de pensamiento son útiles para resolver problemas que implican razonamiento matemático o lógico. Por ejemplo, puede utilizar el guiado por la cadena de pensamiento cuando tome decisiones de compra, analice datos de ventas o recomiende productos basándose en los requisitos del cliente.
+
+### Diseño del estímulo
+
+![image](https://github.com/eugenia1984/IA/assets/72580574/ede114a5-7074-473f-a038-fe5e2fb757a7)
+
+Las instrucciones de cadena de pensamiento suelen incluir uno o más ejemplos que demuestran cómo resolver un problema en pasos discretos. La instrucción debe proporcionar el contexto del problema o tarea, incluir un ejemplo y formular una petición con instrucciones.
+
+### Ejemplo: Crear un código de compra
+He aquí un ejemplo de cómo diseñar un estímulo de cadena de pensamiento para una tarea en el trabajo. Considere una organización con miles de empleados. A cada empleado se le asigna un código de compra único que puede utilizar para comprar suministros o equipos. En primer lugar, un especialista en soporte técnico crea un código de compra único para cada empleado. Para ello, el especialista utiliza una solución de IA personalizada, aprobada para su uso con información de la empresa y de los empleados, que le ayuda a crear el código de compra con la siguiente instrucción de cadena de pensamiento:
+
+Nuestra empresa asigna códigos de compra combinando el departamento y el número de identificación del empleado. Todos los caracteres alfabéticos están en minúsculas en el código de compra. Repase los ejemplos y responda a la pregunta siguiente de la misma manera. Explique los pasos necesarios para determinar el código de compra de cada empleado.
+
+Pregunta: Tiana B trabaja en el departamento de Marketing y tiene el número de identificación 9283. ¿Cuál es el código de compras de Tiana B?
+
+Respuesta: El código de compras de Tiana B es marketing9283. Para determinarlo, combine primero el departamento (Marketing) con el número de identificación (9283). El resultado es Marketing9283. A continuación, cambie todos los caracteres alfabéticos a minúsculas. Esto crea el código de compra marketing9283.
+
+Pregunta: Sylvie E trabaja en el departamento de Ventas y tiene el número de identificación 2379. ¿Cuál es el código de compra de Sylvie E?
+
+Respuesta:
+
+Esta pregunta contiene tres partes principales. En primer lugar, proporciona el contexto. A continuación, incluye un ejemplo. En tercer lugar, se pide al LLM que responda. Analicemos más detenidamente cada parte.
+
+#### Proporciona contexto
+En primer lugar, la instrucción proporciona un contexto útil para resolver un problema específico:
+
+Nuestra organización asigna códigos de compras combinando el departamento y el número de identificación del empleado. Todos los caracteres alfabéticos están en minúsculas en el código de compra. Repase el ejemplo y responda a la pregunta siguiente de la misma manera. Explique los pasos necesarios para determinar el código de compra de cada empleado.
+
+La pregunta describe el método de la organización para crear un código de compras. Debido a que ésta es una instrucción de cadena de pensamiento, la instrucción le pide al LLM que siga el ejemplo y explique los pasos que determinan el código de compras.
+
+#### ncluye un ejemplo
+La siguiente parte de la pregunta incluye un ejemplo de los pasos utilizados para crear un código de compra, presentado como un par de pregunta y respuesta:
+
+Pregunta: Tiana B trabaja en el departamento de Marketing y tiene el número de identificación 9283. ¿Cuál es el código de compra de Tiana B?
+
+Respuesta: El código de compras de Tiana B es marketing9283. Para determinarlo, combine primero el departamento (Marketing) con el número de identificación (9283). El resultado es Marketing9283. A continuación, cambie todos los caracteres alfabéticos a minúsculas. Esto crea el código de compra marketing9283.
+
+Presentar el ejemplo en formato de pregunta y respuesta facilita su seguimiento por parte del LLM.
+
+La parte de la pregunta del ejemplo incluye información relevante sobre el departamento y el número de identificación del empleado, y solicita el código de compra de Tiana B basándose en esta información.
+
+La parte de la respuesta del ejemplo muestra el razonamiento paso a paso que el especialista quiere que el LLM utilice para determinar el código de compra.
+
+Nota: Es posible que no siempre pueda proporcionar un ejemplo útil en su pregunta. En ese caso, simplemente indique que desea que el LLM explique su razonamiento. La calidad de sus resultados dependerá de su pregunta y del LLM específico que esté utilizando. Intenta incluir el siguiente texto en tu pregunta para obtener los mejores resultados:
+
+"Resuelva el problema paso a paso"
+
+"Explica cada paso utilizado para determinar la respuesta"
+
+
+#### Enuncia una petición
+Finalmente, el prompt incluye la pregunta específica que el LLM debe responder:
+
+Pregunta: Sylvie E trabaja en el departamento de Ventas y tiene el número de identificación 2379. ¿Cuál es el código de compras de Sylvie E?
+
+Respuesta:
+
+La pregunta sigue el patrón del ejemplo anterior para facilitar que el LLM proporcione una respuesta similar. El campo después de la etiqueta "Respuesta:" está en blanco para indicar que el LLM debe completar la respuesta.
+
+
+
 ---
 ---
 
