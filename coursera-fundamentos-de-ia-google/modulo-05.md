@@ -162,6 +162,10 @@ Pruébalo solo para completar una melodía o una frase, pero si hay algún conse
 
 # Revisión: Mantente a la vanguardia de la IA
 
+## :tv: Actividad de cierre
+
+
+Las posibilidades de la IA son inspiradoras, y espero que sigas encontrando formas de aplicar la IA en tu trabajo. En esta sección del curso, exploramos cómo puedes seguir ampliando tus conocimientos sobre la IA. En primer lugar, repasamos cómo descubrir y evaluar nuevas herramientas. A continuación, explicamos cómo encontrar inspiración en las innovaciones de la IA. Exploramos modelos de IA inventivos y descubrimos algunas de las formas creativas en que la IA ya se está incorporando en determinados campos de trabajo. Por último, identificamos oportunidades para aprovechar la IA en el lugar de trabajo. Y reflexionamos sobre cómo comprender una IA puede beneficiarte. ¡Felicitaciones! Disfruté guiándote a través de una exploración de la IA y el futuro.
 
 ---
 ---
