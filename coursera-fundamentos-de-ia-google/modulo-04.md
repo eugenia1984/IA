@@ -148,6 +148,15 @@ IA Explorables  para aprender más sobre IA responsable.
 
 # IA para el bienestar social 
 
+## :tv: Jalon: Mi trabajo en el equipo de IA responsable
+
+Hola, me llamo Jalon. Este es mi nombre de señas, Jalon. Trabajo en Google desde hace algo más de tres años como analista de investigación en el departamento de Tecnología de uso responsable de la IA centrado en el humano. Parte de mi trabajo es poder continuar defendiendo a la comunidad sorda negra y asegurarme de que la comunidad sea escuchada. La mayor parte del tiempo en mi trabajo lidio con productos y herramientas que quizás no funcionen para mí y analizo cómo podemos mejorarlos. Queremos asegurarnos de que todas las personas estén incluidas cuando se desarrollan IA y productos, para garantizar que no haya ningún sesgo inconsciente en el proceso.
+
+Ahora mismo, soy responsable de dirigir un proyecto llamado Comprender a los usuarios sordos negros. En este proyecto, el objetivo es captar realmente
+
+la experiencia de los sordos negros y entender qué experimentan cuando los productos y la IA no les funcionan. Cómo es esa experiencia. Es muy importante porque si miras ahora mismo en la sociedad actual hay muchas industrias diferentes que intentan cambiar su enfoque sobre ASL y el reconocimiento del lenguaje de señas, pero se olvidan de la comunidad de sordos negros también. Sé de pocas personas que conocen gente que diría: "Ni siquiera puedo usar el producto para mí". Y si hemos dejado fuera a una o dos personas, aún nos queda mucho trabajo por hacer. La IA realmente puede ayudar a mejorar la vida de la comunidad sorda. Por ejemplo, cuando pensamos en la comunidad sorda, su lenguaje es el lenguaje de señas. Pero ¿qué ocurre cuando te encuentras con una comunidad o una población que no conoce el lenguaje de señas? La IA tiene la capacidad de tender puentes de comunicación para garantizar su efectividad y una comunicación eficaz. Pero es muy importante asegurarnos de que incluimos una igual cantidad de representaciones implicadas para que la IA sea precisa en todo momento. Cuantos más datos tengamos, más precisa será la experiencia para todos los que se sientan incluidos. Hay expertos sordos negros en este momento para abogar por la contratación de la comunidad de sordos negros comunidad. Como estás haciendo este curso de IA y pensando en cómo puedes influir en el mundo, va a ser muy importante que no sólo aprendas a entender la IA y el aprendizaje automático. La IA te va a exigir que pienses a conciencia en tu entorno. La IA no es sólo para una persona, es para una población enorme a la que intentamos llegar para que todos se sientan incluidos.
+
+
 ---
 ---
 
