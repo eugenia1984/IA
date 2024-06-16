@@ -50,6 +50,66 @@ La mejor manera de empezar con cualquiera de estas herramientas de IA es simplem
 Una de las cosas más inspiradoras para mí en las que realmente me enfoco cuando pienso en las necesidades de los clientes que realmente impulsarán la innovación en el futuro, es en torno a la accesibilidad. Entonces, como un ejemplo clásico de la vida cotidiana de eso, está la rampa en la esquina de una calle. Cuando tienes una acera y no solo hay un escalón, sino que tienes casi una especie de rampa, eso se hizo para ayudar a las personas que están en sillas de ruedas a poder subir y bajar. Luego, cuando piensas en cómo eso ayuda a la vida cotidiana, que ayuda a las personas con cochecitos, sillas de ruedas, y eso mejora la vida de todos. Así que pienso en cosas como en las videollamadas en directo cuando tienes subtítulos en directo, puede transformarse en algo que no es solo ser capaz de leer mejor lo que alguien está diciendo, sino que si alguien está hablando en otro idioma, todavía puedes estar hablando en un idioma y ellos pueden estar hablando en otro, y puedes seguir teniendo una comunicación en tiempo real. Piensa en cómo puede romper barreras y mejorar el acceso y la independencia a través de todo lo que tenemos que hacer en nuestra vida cotidiana, las posibilidades son infinitas.
 
 ---
+
+## :book:  Mantente al día con la IA
+
+El panorama de la IA está en constante evolución y presenta tanto retos como oportunidades para los profesionales de todos los sectores. Mantenerte informado sobre los últimos avances en IA puede equiparte para aprovechar el potencial de la IA, mejorar tu trabajo y optimizar tu conjunto de habilidades. En esta lectura, aprenderás a mantener actualizados tus conocimientos sobre IA.
+
+### Busca recursos en línea
+
+Internet contiene una amplia y creciente fuente de información sobre diversos temas, incluida la IA. Encontrar qué recursos relevantes relacionados con la IA seguir dependerá de tu sector y de los temas sobre los que quieras aprender. Al buscar información, es importante tener en cuenta tus necesidades específicas para poder incluir términos de búsqueda concretos. 
+
+
+Por ejemplo, si quieres información sobre IA para un sector específico, incluye ese sector en la búsqueda:
+
+Herramientas de IA para programar con Python
+
+Herramientas de IA para redactar documentos comerciales
+
+Aplicaciones de IA en el sector de salud
+
+Innovaciones de IA en comercio electrónico
+
+Tendencias de IA en ciberseguridad
+
+Además de buscar noticias relacionadas con la IA que sean específicas de tu sector, también puedes considerar la posibilidad de buscar temas específicos sobre IA que te interesen. Puedes elegir centrarte en áreas como:
+
+- Nuevas herramientas de IA: Explorar las nuevas herramientas de IA a medida que están disponibles y considerar su potencial puede ayudarte a optimizar continuamente tus flujos de trabajo.
+
+- Uso innovador de la IA: Aprender cómo otros utilizan la IA de forma creativa en su trabajo puede darte ideas que puedes aplicar en el tuyo.
+
+- Prácticas de IA responsable: Habrá nuevos avances y consejos sobre cómo utilizar la IA de forma responsable a medida que este campo siga creciendo. Por ejemplo, es fundamental estar al día de las nuevas leyes y políticas, y conocer las nuevas técnicas para mitigar los sesgos.
+
+Independientemente de tus necesidades o intereses, la clave para encontrar fuentes de información relevantes en Internet es realizar búsquedas claras y específicas, similares a las que se utilizan para escribir instrucciones eficaces.
+
+### Evalúa la credibilidad del recurso
+Es importante tener en cuenta la credibilidad del recurso que encuentres, especialmente cuando estás aprendiendo sobre un tema de moda o un campo que tiene desarrollos recientes, como la IA. 
+
+Estas pautas pueden ayudarte a evaluar la credibilidad de una fuente: 
+
+- Asegúrate de que la información proceda de fuentes de renombre y fiables. Es preferible que la información proceda de  autores con credenciales en la materia y de organizaciones reputadas y conocidas en el sector.
+
+- Compruebe la fecha de publicación. Es importante leer recursos que estén lo más actualizados posible porque los avances en IA se producen con regularidad.
+
+- Verifica la información comparándola con otras fuentes. Para contrastar la información que encuentres, consulta otros medios de comunicación, blogs y revistas académicas y del sector que sean confiables para asegurarte de que la información sea correcta y válida.
+
+A medida que continúes aprendiendo sobre la IA, desarrollar un ojo crítico para evaluar las fuentes de información puede ayudarte a tomar decisiones bien fundamentadas cuando aproveches la IA en tu trabajo.
+
+### Mantente al día con los desarrollos de la IA
+
+Una vez que hayas identificado y evaluado fuentes de información confiables, aquí tienes algunos consejos para asegurarte de mantenerte al día con los últimos desarrollos de la IA:
+
+- Suscríbete a boletines informativos: Muchas publicaciones de renombre ofrecen boletines informativos por correo electrónico que envían resúmenes de sus últimos artículos directamente a tu bandeja de entrada. Es una forma cómoda de mantenerte informado sin tener que buscar constantemente nuevos contenidos.
+
+- Síguenos en las redes sociales: Sigue a las publicaciones y los autores que consideres valiosos en redes sociales o plataformas de redes profesionales, como LinkedIn®. Eso te permite recibir actualizaciones en tiempo real sobre sus últimas publicaciones y debates en la comunidad de la IA.
+
+- Participa en comunidades en línea: Muchas publicaciones y organizaciones tienen salas o foros de debate en línea dedicados a la IA. Participar en estos debates te permitirá aprender de otros profesionales sobre las nuevas tendencias, compartir puntos de vista y ampliar tu red profesional.
+
+- Configura alertas: Algunos motores de búsqueda y plataformas en línea permiten configurar alertas para palabras clave específicas o temas relacionados con la IA. Cuando se publiquen nuevos contenidos que coincidan con tus criterios, recibirás una notificación para que no te pierdas ninguna novedad importante.
+
+Implementando estas estrategias, puedes crear un flujo de información personalizada que te mantenga a la vanguardia de los avances de la IA. Recuerde que la clave es mantener un compromiso constante: dedica un poco de tiempo cada semana o cada mes a explorar nuevos recursos y a mantenerte informado.
+
+---
 ---
 
 # Prueba nuevas herramientas de IA
