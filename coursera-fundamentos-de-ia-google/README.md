@@ -12,4 +12,6 @@
 
 - [Módulo 5: Mantente a la vanguardia de la IA](https://github.com/eugenia1984/IA/blob/main/coursera-fundamentos-de-ia-google/modulo-05.md): Mantente informado sobre la IA /  Prueba nuevas herramientas de IA / Aprende de la innovación en IA / Continúa tu recorrido por la IA / Revisión: Mantente a la vanguardia de la IA
 
+![image](https://github.com/eugenia1984/IA/assets/72580574/cd06a391-c456-4e94-92e9-5719fdd63323)
+
 ---
