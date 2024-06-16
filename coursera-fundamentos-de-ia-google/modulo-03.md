@@ -434,4 +434,10 @@ Segunda solicitud: ¿Cuáles son los puntos de acción más urgentes y sus plazo
 
 #  Revisión: Descubre el arte de la ingeniería de instrucciones
 
+## :tv: Actividad de cierre
+
+
+Has aprendido mucho sobre cómo escribir instrucciones que puedes aplicar a las tareas en el lugar de trabajo. En esta sección, abordamos el modelo de lenguaje grande o resultado LLM. Examinamos cómo los LLM producen sus resultados y los posibles problemas que puedes encontrar en los resultados. Después, nos centramos en un principio clave de ingeniería de instrucciones, creando instrucciones claras y específicas. Aprenderás lo importante que es especificar lo que deseas que haga el LLM e incluir un contexto de apoyo para ayudarle a proporcionar un mejor resultado. A continuación pasamos a descubrir cómo mejorar la calidad del resultado de la IA a través de la iteración. Es esencial que evalúes tus resultados y, a continuación, revises tu instrucción según sea necesario. Por último, aprendimos sobre algunos ejemplos de instrucciones, que consiste en ofrecer ejemplos para guiar al LLM. Quiero dar un último consejo antes de irme. Nos centramos en dar instrucciones a modelos de lenguaje grande. Puedes utilizar los mismos principios generales cuando envíes instrucciones a otros tipos de modelos de IA. Por ejemplo, la próxima vez que quieras utilizar la IA para generar una imagen, intenta ser lo más claro y específico posible, y luego itera para acercarte al resultado deseado. Ha sido genial guiarte a través del proceso de la ingeniería de instrucciones, espero que sigas aplicando y desarrollando estas habilidades a medida que aprovechas las herramientas conversacionales de la IA en el lugar de trabajo. Para seguir aprendiendo, te animo a explorar el tema del uso responsable de la IA como parte de los Fundamentos de IA de Google.
+
+---
 ---
