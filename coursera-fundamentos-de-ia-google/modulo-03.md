@@ -332,6 +332,24 @@ La pregunta sigue el patrón del ejemplo anterior para facilitar que el LLM prop
 
 
 ---
+
+## :tv: Rachna: Mejora las instrucciones mediante la exploración
+
+Hola, soy Rachna. Soy ingeniero de software en Google. Trabajo en un equipo llamado **Gestión central del conocimiento,** y somos responsables de **asegurarnos de que los desarrolladores tengan acceso a toda la información que necesitan**. 
+
+Una de las cosas más importantes para aprender sobre IA son las **instrucciones**, que es simplemente **descubrir qué texto introducir para obtener la respuesta deseada.**.
+
+Una forma de encontrar las instrucciones más eficaces para los LLM, o modelos de lenguaje grande, es **hacer iteraciones rápidamente con ellos y probar una gran variedad de instrucciones diferentes**. Así que, si no fue lo suficientemente divertido, la próxima vez podrías intentar pedirle al LLM que lo haga más divertido. O si es demasiado vago, puedes utilizar una instrucción para pedir específicamente que la IA no sea imprecisa. 
+
+**Probar un montón de cosas diferentes de esta manera generalmente te dará buenos resultados.** 
+
+Una forma de cambiar cómo estás utilizando los LLM para permitirles ser más creativos o más específicos se basa en **cuánto contexto ingreses**. Así que **si quieres que el LLM te dé una respuesta bastante creativa, puedes probar con una instrucción muy corta. Si quieres que sea muy específico, puedes poner muchos ejemplos, y entonces se ajustará más a tus ejemplos**. 
+
+Otra técnica que es muy interesante son las **instrucciones de cadena de pensamiento**, donde se pide al modelo que que razone su propia respuesta. Así que si le estás pidiendo al modelo que siga algún cálculo matemático, una ecuación matemática, puedes pedirle que primero lo descomponga en pasos, luego haga el primer paso y luego el segundo paso, y así sucesivamente. Y conseguir que el LLM realice múltiples pasos a veces puede hacerlo mucho más preciso. 
+
+Una técnica que utilizamos que es un poco más imprevista es pedir al modelo que reaccione a sus propias respuestas. Así que a veces pido al modelo una respuesta. Y luego digo: ¿es vaga esta respuesta? Y si la respuesta es afirmativa, entonces a veces descarto esa respuesta. Entonces, lo dejo hacer parte de mi trabajo por mí. Cuanto más experimentes y más creativo seas, mejor. Mantenerse al día con la IA puede sentirse un poco como correr en una cinta a veces, y cada vez va más rápido, y hay tantas cosas cosas nuevas que están cambiando, pero creo que eso es también lo que lo hace realmente divertido.
+
+---
 ---
 
 #  Revisión: Descubre el arte de la ingeniería de instrucciones
