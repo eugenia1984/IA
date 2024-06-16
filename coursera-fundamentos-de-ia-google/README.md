@@ -10,6 +10,6 @@
 
 - [Módulo 4 - utiliza la IA de forma responsable ](https://github.com/eugenia1984/IA/blob/main/coursera-fundamentos-de-ia-google/modulo-04.md): Reconoce los sesgos de los datos y daños de la IA / IA para el bienestar social / Revisión: Utiliza la IA de forma responsable
 
-- Módulo 5:
+- [Módulo 5: Mantente a la vanguardia de la IA](https://github.com/eugenia1984/IA/blob/main/coursera-fundamentos-de-ia-google/modulo-05.md)
 
 ---
