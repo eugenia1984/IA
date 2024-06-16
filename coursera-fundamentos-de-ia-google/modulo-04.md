@@ -101,6 +101,49 @@ Pero utilizar una herramienta de IA de este modo puede suponer un riesgo para la
 Por suerte, lo mismo sucede con las estrategias de seguridad. Como has aprendido, la privacidad y la seguridad son una parte importante del uso responsable de la IA. Y saber cómo mantener la seguridad tuya y de tu organización es una parte integrante de una IA responsable.
 
 ---
+
+## :book: Sesgo, desvío y límite de conocimientos
+
+Comprender a fondo los conceptos de la IA responsable, como el sesgo, la desviación y el límite de conocimientos, puede ayudarle a utilizar la IA de forma más ética y responsable. Con esta lectura aprenderá a utilizar las herramientas de IA de forma responsable y a comprender las implicaciones de los resultados injustos o imprecisos.
+
+### Daños y prejuicios
+
+Utilizar la IA de forma responsable requiere conocer sus sesgos inherentes. Los sesgos de los datos son circunstancias en las que errores sistémicos o prejuicios conducen a información injusta o inexacta, lo que da lugar a resultados sesgados. Los resultados sesgados pueden causar muchos tipos de daños a las personas y a la sociedad, entre ellos
+
+- Daño distributivo: Daño que se produce cuando el uso o el comportamiento de un sistema de IA niega oportunidades, recursos o información en ámbitos que afectan al bienestar de una persona
+
+Ejemplo: Si el administrador de un complejo de apartamentos utilizara una herramienta de IA que verificara los antecedentes de los posibles inquilinos, la herramienta de IA podría identificar erróneamente a un solicitante y considerarlo un riesgo por su baja puntuación crediticia. Podría denegársele un apartamento y perder la tasa de solicitud.
+
+- Daños en la calidad del servicio: Circunstancia en la que las herramientas de IA no funcionan igual de bien para determinados grupos de personas en función de su identidad
+
+Ejemplo: Cuando se desarrolló por primera vez la tecnología de reconocimiento del habla, los datos de entrenamiento no contenían muchos ejemplos de patrones de habla exhibidos por personas con discapacidad, por lo que los dispositivos a menudo tenían dificultades para analizar este tipo de habla.
+
+- Daño representacional: Una herramienta de IA refuerza la subordinación de los grupos sociales en función de sus identidades
+
+Ejemplo: Cuando se desarrolló por primera vez la tecnología de traducción, algunos resultados se inclinaban inexactamente hacia lo masculino o lo femenino. Por ejemplo, cuando se generaba una traducción de palabras como "enfermera" y "guapa", la traducción tenía un sesgo femenino. Cuando se utilizaban palabras como "médico" y "fuerte", la traducción era masculina.
+
+- Daño al sistema social: Efectos sociales a nivel macro que amplifican las disparidades existentes de clase, poder o privilegio, o causan daños físicos, como resultado del desarrollo o uso de herramientas de IA
+
+Ejemplo:  Los deepfakes no deseados, que son fotos o vídeos falsos generados por IA de personas reales diciendo o haciendo cosas que no dijeron ni hicieron, pueden ser un ejemplo de daño al sistema social.
+
+- Daño interpersonal: El uso de la tecnología para crear una desventaja para determinadas personas que afecta negativamente a sus relaciones con los demás o provoca una pérdida de su sentido de sí mismas y de su agencia
+
+Ejemplo: Si alguien fuera capaz de tomar el control de un dispositivo doméstico en su anterior apartamento para gastar una broma no deseada a su antiguo compañero de piso, estas acciones podrían provocar una pérdida del sentido de sí mismo y de la agencia por parte de la persona afectada por la broma.
+
+### Deriva frente a corte de conocimiento
+
+Otro fenómeno que puede causar resultados injustos o inexactos es la deriva. La deriva es la disminución de la precisión de las predicciones de un modelo de IA en debido a cambios a lo largo del tiempo que no se reflejan en los datos de entrenamiento. Por ejemplo, un diseñador de moda puede querer hacer un seguimiento de las tendencias de gasto antes de crear una nueva colección. Para empezar el seguimiento, utilizan un modelo creado en 2015 que se entrenó con las tendencias de la moda y los hábitos de consumo de 2015. Sin embargo, el modelo ya no es preciso porque los hábitos sociales y las tendencias de la moda cambian con el tiempo. Las preferencias de los consumidores en 2015 son diferentes de las tendencias actuales. En otras palabras, las predicciones del modelo han pasado de ser precisas en el momento del entrenamiento a ser menos precisas en la actualidad.
+
+Del mismo modo, un límite de conocimiento es el concepto de que un modelo se ha entrenado en un punto específico en el tiempo, por lo que no tiene ningún conocimiento de eventos o información después de esa fecha. Por ejemplo, si le preguntas a una herramienta de IA generativa que fue entrenada en 2022 cuánto cuesta el último smartphone, el resultado del modelo no incluirá la tecnología más reciente de hoy en día: sólo conocerás los smartphones que existían en 2022. Por tanto, si los datos de un modelo no están actualizados, el resultado tampoco lo estará.
+
+Afortunadamente, los límites de conocimiento no afectan a todos los datos de un modelo. Por ejemplo, un modelo de IA probablemente tendrá muchos datos relevantes sobre acontecimientos históricos, lugares famosos y obras literarias aclamadas. Pero a medida que utilice la IA, considere si las últimas investigaciones o los acontecimientos actuales podrían cambiar la precisión de sus resultados.
+
+
+de Google PAIR Explorables. En él puedes interactuar con BERT, uno de los primeros modelos lingüísticos de gran tamaño (LLM), y explorar cómo las correlaciones en los datos pueden dar lugar a sesgos problemáticos en los resultados. También puedes consultar otros PIAR 
+IA Explorables  para aprender más sobre IA responsable.
+ 
+
+---
 ---
 
 # IA para el bienestar social 
