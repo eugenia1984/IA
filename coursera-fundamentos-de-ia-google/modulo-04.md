@@ -156,6 +156,74 @@ Ahora mismo, soy responsable de dirigir un proyecto llamado Comprender a los usu
 
 la experiencia de los sordos negros y entender qué experimentan cuando los productos y la IA no les funcionan. Cómo es esa experiencia. Es muy importante porque si miras ahora mismo en la sociedad actual hay muchas industrias diferentes que intentan cambiar su enfoque sobre ASL y el reconocimiento del lenguaje de señas, pero se olvidan de la comunidad de sordos negros también. Sé de pocas personas que conocen gente que diría: "Ni siquiera puedo usar el producto para mí". Y si hemos dejado fuera a una o dos personas, aún nos queda mucho trabajo por hacer. La IA realmente puede ayudar a mejorar la vida de la comunidad sorda. Por ejemplo, cuando pensamos en la comunidad sorda, su lenguaje es el lenguaje de señas. Pero ¿qué ocurre cuando te encuentras con una comunidad o una población que no conoce el lenguaje de señas? La IA tiene la capacidad de tender puentes de comunicación para garantizar su efectividad y una comunicación eficaz. Pero es muy importante asegurarnos de que incluimos una igual cantidad de representaciones implicadas para que la IA sea precisa en todo momento. Cuantos más datos tengamos, más precisa será la experiencia para todos los que se sientan incluidos. Hay expertos sordos negros en este momento para abogar por la contratación de la comunidad de sordos negros comunidad. Como estás haciendo este curso de IA y pensando en cómo puedes influir en el mundo, va a ser muy importante que no sólo aprendas a entender la IA y el aprendizaje automático. La IA te va a exigir que pienses a conciencia en tu entorno. La IA no es sólo para una persona, es para una población enorme a la que intentamos llegar para que todos se sientan incluidos.
 
+---
+
+## :book: Lista de comprobación para usar la IA de forma responsable
+
+Antes de utilizar la IA, es fundamental que pienses detenidamente cómo hacerlo de forma responsable. De este modo se garantiza que se utiliza de forma ética, se minimizan los riesgos y se obtienen los mejores resultados. El uso responsable de la IA implica ser transparente sobre su uso, evaluar cuidadosamente sus resultados y tener en cuenta la posibilidad de sesgos o errores. 
+
+### Revisar los resultados de la IA
+
+Cuando utilice la IA como herramienta para realizar una tarea, querrá obtener el mejor resultado posible. Si no estás seguro de la precisión de los resultados de un modelo, experimenta con una serie de instrucciones para saber cómo funciona el modelo. La elaboración de instrucciones claras y concisas mejorará la pertinencia y utilidad de los resultados que reciba. Adoptar un enfoque proactivo para abordar y reducir los casos de resultados inesperados o inexactos también es una buena práctica. He aquí algunas medidas concretas que puede adoptar para mejorar la eficacia de sus interacciones con la IA:
+
+- Identifique posibles daños solicitando a la herramienta de IA diferentes ejemplos y comprobando los resultados.
+
+- Pruebe la herramienta en temas con los que esté familiarizado, para poder verificar los resultados con sus propios conocimientos.
+
+- Minimizar los efectos de las alucinaciones:
+
+-Asegúrate siempre de que tu pregunta proporcione contexto, incluya un ejemplo y enuncie una petición.
+
+-Evita utilizar una premisa falsa en tu entrada. Asegúrate de que tu mensaje es claro, específico y preciso.
+
+### Revele su uso de IA
+
+Divulgar el uso que hace de la IA fomenta la confianza y promueve las prácticas éticas en su comunidad. Estas son algunas medidas que puede tomar para ser transparente en el uso de la IA:
+
+- Informe a su público y a cualquier persona a la que pueda afectar de que ha utilizado o está utilizando IA. Este paso es especialmente importante cuando se utiliza IA en entornos profesionales de alto impacto, donde existen riesgos relacionados con el resultado de la IA.
+
+- Explica qué tipo de herramienta has utilizado, describe tu intención, proporciona una visión general de tu uso de la IA y ofrece cualquier otra información que pueda ayudar a tu audiencia a evaluar los riesgos potenciales.
+
+- No copies y pegues los resultados generados por la IA y los hagas pasar por tuyos.
+
+### Evalúe todos los contenidos antes de compartirlos
+
+Si adopta un enfoque proactivo, puede ayudar a garantizar que los usuarios exploren la IA con la confianza de que el contenido es legítimo. Esto es especialmente importante porque, en algunos casos, es posible que no sean conscientes de que están interactuando con IA.
+
+A continuación se indican algunas medidas que puede tomar para evaluar el contenido de imágenes, texto o vídeo antes de compartirlo:
+
+- Comprueba la veracidad del contenido utilizando motores de búsqueda.
+
+- Pregúntate: Si este contenido resulta ser inexacto o falso, ¿estoy dispuesto o soy capaz de corregir mi error? Si no es así, probablemente sea un indicador de que no deberías compartirlo.
+
+- Recuerde los pasos para COMPARTIR, la nemotecnia de la Organización Mundial de la Salud que puede ayudar a las personas a ser más reflexivas cuando comparten información en línea.
+
+
+-Obtenga el contenido de fuentes creíbles y oficiales.
+
+-Los titulares no siempre cuentan toda la historia, así que lea los artículos completos antes de compartirlos.
+
+-Analiza los hechos presentados para determinar si todo lo que lees es cierto.
+
+-Puede haber fotos y vídeosretocados en el contenido que quieres compartir, así que ten cuidado con las imágenes engañosas.
+
+-Puede habererrores en el contenido que compartes y es más probable que la información sea falsa si está plagada de erratas y errores.
+
+### Considera las implicaciones de privacidad y seguridad del uso de IA
+
+Tanto si estás introduciendo una consulta, compartiendo un post o creando nuevo contenido con la ayuda de la IA, querrás tomarte un momento y reflexionar sobre cómo puede afectar a la seguridad de personas u organizaciones relevantes. He aquí algunas medidas que puedes tomar para tener en cuenta esas implicaciones sobre la privacidad y la seguridad:
+
+- ntroduce sólo la información esencial. No facilites información innecesaria, confidencial o privada, porque puedes poner en peligro la seguridad de una persona o de la organización para la que trabajas.
+
+- Lee los documentos de apoyo asociados a las herramientas que utilices. Cualquier documentación que describa cómo se formó el modelo para utilizar las garantías de privacidad (como los términos y condiciones) puede ser un recurso útil para ti.
+
+### Considere los efectos del uso de la IA
+La IA no es perfecta. Téngalo en cuenta cuando utilice diversas herramientas y modelos, y use su buen juicio para utilizar la IA para el bien. Antes de utilizar la IA, pregúntate:
+
+- Si utilizo la IA para esta tarea concreta, ¿perjudicará a alguien de mi entorno?
+
+- ¿Refuerza o mantiene prejuicios que puedan perjudicar a algún grupo de personas?
+
 
 ---
 ---
