@@ -350,6 +350,86 @@ Otra técnica que es muy interesante son las **instrucciones de cadena de pensam
 Una técnica que utilizamos que es un poco más imprevista es pedir al modelo que reaccione a sus propias respuestas. Así que a veces pido al modelo una respuesta. Y luego digo: ¿es vaga esta respuesta? Y si la respuesta es afirmativa, entonces a veces descarto esa respuesta. Entonces, lo dejo hacer parte de mi trabajo por mí. Cuanto más experimentes y más creativo seas, mejor. Mantenerse al día con la IA puede sentirse un poco como correr en una cinta a veces, y cada vez va más rápido, y hay tantas cosas cosas nuevas que están cambiando, pero creo que eso es también lo que lo hace realmente divertido.
 
 ---
+
+## :book: Mejores prácticas para la ingeniería de instrucciones
+
+
+Los modelos de lenguaje grande (LLM) reaccionan a lo que les pedimos: cuanto mejor sea la indicación, mejor será el resultado. Utiliza esta guía para crear instrucciones eficaces que ayuden a los LLM a desempeñarse al máximo para que puedas obtener las respuestas más provechosas.
+
+### Especifica la tarea
+
+Los LLM se entrenan con cantidades masivas de datos.  Tienes que ser específico sobre el resultado que deseas, para que el Modelo pueda ofrecer un resultado bien enfocado. Sé claro con respecto a lo que quieres que hagan los LLM proporcionándoles suficientes parámetros. Usa un lenguaje sencillo y haz que las consultas tengan una estructura lógica para que el modelo interprete mejor tu solicitud. No es mejor una configuración específica; escribe de forma intuitiva y céntrate en la claridad.
+
+Ejemplo: Redacta un correo electrónico informal dirigido a mi jefe para solicitar una licencia.
+
+### roporciona el contexto necesario
+
+El contexto determina la forma en que los LLM responden a una instrucción porque proporcionan información importante sobre tus expectativas. Si se incluye un contexto relevante, es más probable que los LLM generen resultados útiles.
+
+Incluye detalles clave sobre lo que pides para dar a los LLM la información que necesitan para generar resultados útiles. A continuación, hay algunas preguntas que se deben considerar a la hora de redactar una instrucción eficaz:
+
+- ¿Cuál es el público objetivo? Especifica las cualidades pertinentes de los destinatarios, como la edad, la profesión o el nivel de comprensión de un tema.
+
+- ¿Qué tono debe utilizar el modelo? Aclara el aire y el estilo que deben utilizar los LLM para transmitir tu mensaje de la manera más eficaz. Quizás quieras un resultado informal y amistoso si lo vas utilizar para comunicarte con un colega, o algo más profesional y persuasivo para los clientes. 
+
+- ¿Cómo deben estructurar los resultados los LLM? Especifica el formato que deben utilizar los LLM para ordenar la información que proporcionan. Puedes incluir pautas sobre la longitud o especificar un tipo de presentación, como una lista con viñetas o una tabla.
+
+- ¿Cuál es la finalidad del resultado? Identifica lo que quieres que logren los LLM con una determinada instrucción. Por ejemplo, si en la instrucción se le pide al modelo que explique un concepto, la finalidad puede ser que los principiantes en ese campo específico adquieran una comprensión práctica del tema. Asignar una finalidad al LLM te ayudará a adaptar los resultados a tus necesidades específicas.
+
+Ejemplo: Escribe un correo electrónico amistoso a mi colega de RR. HH. para agradecerle por su colaboración en un proyecto reciente y que sepa que su aporte fue inestimable.
+
+### Proporciona referencias
+
+Proporcionar a los LLM material de referencia que cumpla tus objetivos o se parezca a lo que quieres crear puede ayudar a generar mejores resultados. Ya sea que incluyas tu propio trabajo, fuentes más generales o ambos, también deberías explicar claramente en qué sentido ese material de referencia se relaciona con tu instrucción para obtener los mejores resultados posibles.
+
+Ejemplo: Redacta una lista de posibles eslóganes de campaña para una empresa de anteojos de sol siguiendo el estilo escrito de los anuncios publicitarios de los años sesenta.
+
+### Evalúa tus resultados
+
+Cada modelo tiene un conjunto de entrenamiento único, se basa en técnicas de programación diferentes y se crea en un momento determinado. Como resultado, algunos LLM pueden saber más que otros sobre ciertos temas o tener un límite de conocimientos. Además, a veces las modelos generan alucinaciones. 
+
+Antes de utilizar un resultado generado con IA, haz una evaluación crítica del resultado para asegurarte de que sea aceptable y provechoso para ti. Eso puede implicar llevar a cabo algo de investigación después de que los LLM generen sus resultados. Al evaluar un resultado, pregúntate: 
+
+- ¿Es precisa esta respuesta? Confirma que la información está actualizada y sea cierta. 
+
+- ¿Es imparcial esta respuesta? Evalúa si la respuesta es justa e imparcial, representa con exactitud a las poblaciones y evita el trato preferencial con determinadas personas o grupos.
+
+- ¿Incluye información suficiente esta respuesta? Asegúrate de que el resultado arroje una respuesta completa y satisfactoria a tu consulta. 
+
+- ¿Es pertinente esta respuesta para lo que necesito? Comprueba que el resultado esté relacionado con la instrucción y se ajuste al contexto, el tema y la tarea que definiste. 
+
+- ¿Es congruente esta respuesta? Comprueba que la respuesta no sea un caso aislado. Si no lo sabes con seguridad, ingresa instrucciones varias veces en el LLM e ingrésalas con diferentes formulaciones para asegurarte de que los resultados te proporcionan información similar. 
+
+
+Si determinas que un resultado no es aceptable, agrega más contexto a la instrucción inicial para generar una respuesta más acotada: 
+
+Ejemplo: El resultado ante una instrucción como ¿Qué es una condicional? puede ser muy amplio, variado o irrelevante para tus necesidades porque ese término tiene significados diferentes en diversos contextos.
+
+Iteración: En cambio, una instrucción como Explica las “condicionales” a un programador principiante como en un libro de texto  probablemente obtenga un resultado más específico y útil al especificar el destinatario, el tono y la disciplina.
+
+###  Adopta un enfoque iterativo
+
+Por el motivo que sea, es posible que un LLM no genere lo que necesitas la primera vez que se lo pides. Pero igualmente puedes obtener el resultado deseado con iteraciones, perfeccionando la instrucción inicial, enviando solicitudes de seguimiento o enviando comentarios a los LLM.
+
+Para corregir adecuadamente una instrucción, conserva lo que sirvió y haz modificaciones a partir de eso. Podrías modificar la formulación (por ejemplo, la instrucción podría ser una orden o una pregunta), reordenar los componentes de la instrucción (por ejemplo, podría empezar o terminar con un ejemplo) o proporcionar contexto adicional para ayudar a limitar las respuestas de los LLM.
+
+Ejemplo: Resume las siguientes notas de la reunión.
+
+Iteración: Resume las siguientes notas de la reunión e identifica los puntos clave.
+
+Iteraciones adicionales: Resume las siguientes notas de la reunión, identifica los puntos clave y enumera los elementos de acción más urgentes y sus respectivos plazos.
+
+Para realizar solicitudes de seguimiento de forma eficaz, pide al modelo que realice ajustes sin repetir la instrucción inicial, como si fuera un diálogo, un ida y vuelta. Los LLM son capaces de basarse en interacciones previas dentro de una conversación, lo cual significa que puedes concentrarte en hacer ajustes específicos e individuales hasta que tengas todo lo que necesitas.
+
+Ejemplo: Resume las siguientes notas de la reunión.
+
+Seguimiento: ¿Cuáles fueron los puntos clave de esa reunión?
+
+Segunda solicitud: ¿Cuáles son los puntos de acción más urgentes y sus plazos?
+
+
+
+---
 ---
 
 #  Revisión: Descubre el arte de la ingeniería de instrucciones
