@@ -18,6 +18,8 @@ Curso: **Tecnólogas sin experiencia en IA**: Mujeres con algún tipo de formaci
 
 3. [**Coursera: Fundamentos de IA Google2024**](https://github.com/eugenia1984/IA/tree/main/coursera-fundamentos-de-ia-google): curso de Google sobre IA
 
+![image](https://github.com/eugenia1984/IA/assets/72580574/df0335b2-7315-446e-88e6-cbb6b8dae668)
+
 ---
 
 ## Please: 🎁
