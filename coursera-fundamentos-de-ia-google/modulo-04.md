@@ -237,5 +237,28 @@ Hola, soy Shaun. Soy investigador científico en Google Research. Investigo la e
 
 # Revisión: Utiliza la IA de forma responsable
 
+## :tv: Actividad de cierre
+
+
+Enhorabuena. Ya casi has terminado esta sección del curso. 
+
+Has descubierto cómo la IA responsable ayuda a a mitigar los sesgos y evitar daños sociales. Repasemos algunos de esos puntos clave. 
+
+En primer lugar, exploraste cómo el sistema y los sesgos de los datos se ven reflejados en los modelos de IA. Entrenar o desarrollar modelos con datos incompletos, desactualizados o inexactos aumenta el sesgo en los sistemas de IA. 
+
+Examinaste los tipos de daños asociados a la IA, especialmente si las herramientas de IA no se combinan con las capacidades humanas, como el pensamiento crítico y la toma de decisiones responsable. 
+
+Por último, has obtenido algunos consejos para mantener la privacidad y seguridad al utilizar la IA. La mejor manera de comprometerse a utilizar la IA de forma responsable es estar alerta ante los riesgos de la IA mientras disfrutas de tus beneficios. 
+
+Piensa de forma crítica sobre cómo utilizas la IA y los resultados que recibes de las herramientas de IA. 
+
+Comparte tu conciencia sobre posibles sesgos con otros. 
+
+Mantenerse al día de los últimos avances en IA también es muy importante. Las herramientas de IA están cambiando el mundo rápidamente, pero las nuevas tecnologías también conllevan riesgos. 
+
+Comprender los posibles daños te ayudará a considerar aprender a utilizar estas herramientas de forma responsable. 
+
+Has sido genial presentarte el uso responsable de la IA. Para seguir aprendiendo, te animo a mantenerte al día con los avances en la IA en el marco de Fundamentos de IA de Google.
+
 ---
 ---
