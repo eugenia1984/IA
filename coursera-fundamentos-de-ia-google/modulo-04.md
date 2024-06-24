@@ -32,7 +32,7 @@ A continuación, examinarás los tipos de daños que se asocian a la IA y la imp
 
 ## :tv: Comprende los sesgos de la IA
 
-a IA es una **herramienta inspiradora que permite vivir nuevas experiencias, oportunidades y logros**. 
+La IA es una **herramienta inspiradora que permite vivir nuevas experiencias, oportunidades y logros**. 
 
 Por ejemplo, la IA se utiliza para ayudar a los automóviles autoconducidos a detectar peatones en una carretera muy transitada y predecir la presencia y gravedad de una enfermedad. Sin embargo, **el hecho de que la IA sea beneficiosa no es un hecho**. Como usuario consciente de los s**esgos potenciales de la IA y sus limitaciones**, puedes ayudar a garantizar resultados responsables en lugar de perjudiciales. 
 
