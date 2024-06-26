@@ -2,7 +2,6 @@
 
 Here you will find some courses that I 'm learning about Artificial Inteligence.
 
-
 ---
 
 ## What to see?
