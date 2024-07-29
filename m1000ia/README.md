@@ -23,6 +23,7 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 
 6. [Introducción a las Redes Neuronales - Deep learning](https://github.com/eugenia1984/IA/blob/main/m1000ia/06-intro-deep-learning.md)
 
+7. [Ética en AI](https://github.com/eugenia1984/IA/blob/main/m1000ia/07-etica-en-ai.md)
   
 [Clases](https://github.com/eugenia1984/IA/blob/main/m1000ia/clases.md)
 
@@ -37,5 +38,6 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 | 3 | 25 Abril | [Exploración y visualización de datos](https://github.com/eugenia1984/IA/blob/main/m1000ia/04-exploracion-y-visualizacion-datos.md) | Definición del problema (2da iteración) |
 | 4 | 2 Mayo |  [Machine Learning Tradicional](https://github.com/eugenia1984/IA/blob/main/m1000ia/05-machine-learning-tradicional.md) | Recolección de datos |
 | 5 | 9 Mayo |  [Introducción a las Redes Neuronales - Deep learning](https://github.com/eugenia1984/IA/blob/main/m1000ia/06-intro-deep-learning.md) |
+| 6 | 16 Mayo | [Ética en AI](https://github.com/eugenia1984/IA/blob/main/m1000ia/07-etica-en-ai.md) | 
 
 ---
