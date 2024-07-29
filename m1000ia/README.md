@@ -20,7 +20,10 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 4. [Exploración y Visualización de datos](https://github.com/eugenia1984/IA/blob/main/m1000ia/04-exploracion-y-visualizacion-datos.md)   
 
 5. [Machine learning tradicional](https://github.com/eugenia1984/IA/blob/main/m1000ia/05-machine-learning-tradicional.md)
-   
+
+6. [Introducción a las Redes Neuronales - Deep learning](https://github.com/eugenia1984/IA/blob/main/m1000ia/06-intro-deep-learning.md)
+
+  
 [Clases](https://github.com/eugenia1984/IA/blob/main/m1000ia/clases.md)
 
 ---
@@ -33,5 +36,6 @@ Curso: **Tecnólogas sin experiencia en IA** - Mujeres con algún tipo de formac
 | 2 | 18 Abril | [Fundamentos de IA](https://github.com/eugenia1984/IA/blob/main/m1000ia/03-fundamentos-ia.md) / Python | Definición del problema (1ra iteración) |
 | 3 | 25 Abril | [Exploración y visualización de datos](https://github.com/eugenia1984/IA/blob/main/m1000ia/04-exploracion-y-visualizacion-datos.md) | Definición del problema (2da iteración) |
 | 4 | 2 Mayo |  [Machine Learning Tradicional](https://github.com/eugenia1984/IA/blob/main/m1000ia/05-machine-learning-tradicional.md) | Recolección de datos |
+| 5 | 9 Mayo |  [Introducción a las Redes Neuronales - Deep learning](https://github.com/eugenia1984/IA/blob/main/m1000ia/06-intro-deep-learning.md) |
 
 ---
